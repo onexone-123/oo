@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16T10:09:59.420755+00:00",
+  "checked_at": "2026-10-16T10:11:23.987891+00:00",
   "feeds_ok": 4,
   "items": [
     {
@@ -586,6 +586,21 @@
       "published_at": "2026-10-10T02:28:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbG54a0RvLU9DVU0zZmlEVjdSWThXOVNBTHBEb0xUR0Z2ajVDU0M0MjhRMDZiUzhkRC1GaHh4Q28ybS14RFBKRHdCNWhzM1NnZE50NS04Ry00cC03NTJQc3IzeDQ?oc=5",
       "publisher": "新京报"
+    },
+    {
+      "id": "auto-2db11f660685d7733e31",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.09",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Bealls Inc. Launches First-Ever National Brand Campaign: \"For the Haul of It\"",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-09T14:50:30+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2hYVl9OcFg5LVFRNDd2bGtvbXZzVGpESGxfMjc1ZEg1OVhVRnVHcmtrcjA0dzcwam5wTENHTnFhaGZ1WDR0WVBYLVV0dFFzSm0zZDZIbDlMWmVmdW1hNmlUUDBxSXVLcnBrc1lHb1RDNVpUZTQyOXh3a2JyQmdfQy1WNVI5ekdEUW1hRDd1LTliUGh2dkVrZlNDaWN5d3JFSGtYYVF5bENxZDQ3ZE9FTGxMTHdJNjhYb29BYXFjUmFoWFJhTncyUXhmSjVKc19OYW5CemU5Tml0WDJNY3c?oc=5",
+      "publisher": "GlobeNewswire"
     }
   ]
 }
