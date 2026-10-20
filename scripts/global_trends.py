@@ -22,7 +22,7 @@ SOURCES = {
 }
 TRUSTED = ('bbc.com','bbc.co.uk','reuters.com','apnews.com','theguardian.com',
            'cnn.com','nbcnews.com','cbsnews.com','abcnews.go.com','abc.net.au',
-           'theverge.com','techcrunch.com','wired.com','mashable.com','people.com',
+           'theverge.com','techcrunch.com','wired.com','people.com',
            'today.com','usatoday.com','independent.co.uk','businessinsider.com',
            'socialmediatoday.com','marketingdive.com','adweek.com','adage.com',
            'eonline.com','rollingstone.com','billboard.com','variety.com',
