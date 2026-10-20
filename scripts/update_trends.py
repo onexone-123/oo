@@ -1,11 +1,13 @@
 """Fetch independently; preserve last successful snapshots per platform."""
 import concurrent.futures,datetime as dt,json,pathlib,urllib.request,urllib.parse,sys
+from global_trends import GLOBAL_KEYS, get_global_platform
 ROOT=pathlib.Path(__file__).resolve().parents[1];OUT=ROOT/'docs/trends.json'
 UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130.0.0.0 Safari/537.36'
 def request(url,referer=''):
  req=urllib.request.Request(url,headers={'User-Agent':UA,**({'Referer':referer} if referer else {})})
  with urllib.request.urlopen(req,timeout=18) as r:return json.loads(r.read(3000000))
 def get_platform(key):
+ if key in GLOBAL_KEYS:return get_global_platform(key)
  errors=[]
  urls={
  'bilibili':['https://api.bilibili.com/x/web-interface/search/square?limit=30','https://60s.crystelf.top/v2/bili'],
@@ -37,8 +39,8 @@ def get_platform(key):
 def main():
  old=json.loads(OUT.read_text(encoding='utf-8-sig')) if OUT.exists() else {'platforms':{}}
  now=dt.datetime.now(dt.timezone.utc);platforms={};ok=0
- with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-  fs={pool.submit(get_platform,k):k for k in ['bilibili','douyin','rednote','weibo']}
+ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+  fs={pool.submit(get_platform,k):k for k in ['bilibili','douyin','rednote','weibo',*GLOBAL_KEYS]}
   for f in concurrent.futures.as_completed(fs):
    k=fs[f]
    try:platforms[k]=f.result();ok+=1
@@ -53,6 +55,6 @@ def main():
  files=sorted(archive.glob('????-??-??.json'))
  for f in files[:-30]:f.unlink()
  (ROOT/'docs/history.json').write_text(json.dumps([f.stem for f in sorted(archive.glob('????-??-??.json'),reverse=True)]),encoding='utf8')
- print(f'Trending snapshots: {ok}/4 platforms available; failed platforms explicitly marked.')
+ print(f'Trending snapshots: {ok}/8 sources available; failed sources explicitly marked.')
  return 0 if ok else 1
 if __name__=='__main__':sys.exit(main())

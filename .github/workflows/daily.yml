@@ -39,6 +39,8 @@ jobs:
           node --check docs/dashboard.js
           node --check docs/brandstar.js
           python scripts/test_brandstar.py
+          python scripts/test_global_trends.py
+          node scripts/test_dashboard.cjs
       - name: Save daily content
         run: |
           git config user.name 'github-actions[bot]'

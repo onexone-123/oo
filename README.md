@@ -39,3 +39,7 @@ GitHub Actions 每天北京时间约 08:00（UTC 00:00）读取公开新闻 RSS�
 结果在 `docs/brandstar.json`，显示于总览、新闻解读、案例拆解和 IP 研究的「品牌星球精选」。IP 栏的标签只表示合作线索，不表示授权可得或效果已验证。失败保留已有条目，页面区分检查时间、成功时间和部分失败；某一数据源失败不阻断其他来源的发布。
 
 检查：`python scripts/test_brandstar.py`、`node scripts/test_dashboard.cjs`、`node --check docs/brandstar.js`。
+
+## 全球平台
+
+看板可切换国内、全球或全部八个平台。X 使用 Trends24 时间戳快照，保留原语言与排名；Instagram、Facebook、TikTok 为英文媒体订阅线索，可能含旧文章重新收录，不作为官方热榜或原始发布日期。每日云端任务更新八个平台，无需电脑开机。
