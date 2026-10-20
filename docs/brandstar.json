@@ -1,0 +1,314 @@
+{
+  "checked_at": "2026-10-20T17:39:03.140392+08:00",
+  "last_success_at": "2026-10-20T17:39:03.140392+08:00",
+  "last_content_update_at": "2026-10-20T17:36:51.910656+08:00",
+  "status": "ok",
+  "added": 0,
+  "examined": 8,
+  "errors": [],
+  "items": [
+    {
+      "id": "brandstar-8359",
+      "title": "EASTPAK 携手音乐人 CRUSH 推出限量联名背包",
+      "url": "https://www.brandstar.com.cn/news/8359",
+      "published_at": "2026-10-19T10:41:33.640830+08:00",
+      "date": "2026-10-19",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "IP 合作",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": true,
+      "source_excerpt": "以经典 Padded Pak’r 背包为蓝本，加入 CRUSH 专属 DIY 配件，并同步呈现 2026 秋冬服装视觉…",
+      "selection_reason": "近期品牌动作；涉及IP 合作、内容传播、零售体验。",
+      "score": 3
+    },
+    {
+      "id": "brandstar-8358",
+      "title": "丝芙兰首届欧洲新锐品牌奖揭晓，防晒品牌 Substance Of Light 获首奖",
+      "url": "https://www.brandstar.com.cn/news/8358",
+      "published_at": "2026-10-18T21:56:33.140808+08:00",
+      "date": "2026-10-18",
+      "collected_at": "2026-10-20T17:34:43.819535+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": false,
+      "source_excerpt": "从带妆补涂、创作者共创到金发护理，三家获奖品牌分别在成熟品类中找到了自己的产品方向。丝芙兰则通过长期辅导、零售渠道与传播",
+      "selection_reason": "近期品牌动作；涉及社群经营、内容传播、零售体验。",
+      "score": 4
+    },
+    {
+      "id": "brandstar-8353",
+      "title": "On 昂跑携费德勒将「感谢每一场」带到深圳",
+      "url": "https://www.brandstar.com.cn/news/8353",
+      "published_at": "2026-10-18T20:10:46.886985+08:00",
+      "date": "2026-10-18",
+      "collected_at": "2026-10-20T17:34:43.819535+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": false,
+      "source_excerpt": "费德勒与青少年球员在深圳湾海上球场挥拍，昂跑以社区互动与无人机表演延续在中国的网球活动。",
+      "selection_reason": "近期品牌动作；涉及IP 合作、社群经营、零售体验。",
+      "score": 3
+    },
+    {
+      "id": "brandstar-8355",
+      "title": "Our Legacy 中国首家旗舰店落址上海，设 WORK SHOP 循环设计空间",
+      "url": "https://www.brandstar.com.cn/news/8355",
+      "published_at": "2026-10-18T20:14:16.897290+08:00",
+      "date": "2026-10-18",
+      "collected_at": "2026-10-20T17:34:43.819535+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "IP 合作",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": false,
+      "source_excerpt": "Our Legacy 与棟梁合作，将永嘉路一栋西班牙风格别墅改造为两层旗舰店，结合工业材料、艺术陈列与循环设计。",
+      "selection_reason": "近期品牌动作；涉及IP 合作、内容传播、零售体验。",
+      "score": 3
+    },
+    {
+      "id": "brandstar-8348",
+      "title": "K天王中国行，源一资本对话NNormal：新一代越野品牌，为何能吸引中国跑者？",
+      "url": "https://www.brandstar.com.cn/in-depth/8348",
+      "published_at": "2026-10-14T15:18:47.678988+08:00",
+      "date": "2026-10-14",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "如何用极限精神打造新一代户外运动品牌。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及IP 合作、社群经营、零售体验。",
+      "score": 7
+    },
+    {
+      "id": "brandstar-8333",
+      "title": "当体育营销都在追逐冠军，工银信用卡选择看见普通人的奋斗",
+      "url": "https://www.brandstar.com.cn/in-depth/8333",
+      "published_at": "2026-10-08T12:08:37.215341+08:00",
+      "date": "2026-10-08",
+      "collected_at": "2026-10-20T17:34:43.819535+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "工银信用卡没有改变「奋斗」的核心，而是借助新的叙事主角、产品权益与赛事场景，更新了这一概念与当下消费者建立关系的方式。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及IP 合作、社群经营、内容传播。",
+      "score": 8
+    },
+    {
+      "id": "brandstar-8335",
+      "title": "Babycare 新生了！为新一代父母创造育儿新生活",
+      "url": "https://www.brandstar.com.cn/in-depth/8335",
+      "published_at": "2026-09-28T16:34:39.652415+08:00",
+      "date": "2026-09-28",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "新生的不只是孩子，也是一整个家庭的身份、关系与生活。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及IP 合作、社群经营、内容传播。",
+      "score": 8
+    },
+    {
+      "id": "brandstar-8336",
+      "title": "近 150 年，航海为何始终是 HELLY HANSEN 的行动原点？",
+      "url": "https://www.brandstar.com.cn/in-depth/8336",
+      "published_at": "2026-09-28T16:34:39.655895+08:00",
+      "date": "2026-09-28",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "HELLY HANSEN 如何以 storydoing 延续百年品牌内核？",
+      "selection_reason": "深度报道，含具体品牌实践；涉及社群经营、内容传播、零售体验。",
+      "score": 7
+    },
+    {
+      "id": "brandstar-8325",
+      "title": "「穿越不知道」，狼爪在谈一种很新的户外精神",
+      "url": "https://www.brandstar.com.cn/in-depth/8325",
+      "published_at": "2026-09-28T16:34:39.662309+08:00",
+      "date": "2026-09-28",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "把专业经验变成品牌语言",
+      "selection_reason": "深度报道，含具体品牌实践；涉及内容传播、零售体验。",
+      "score": 6
+    },
+    {
+      "id": "brandstar-8337",
+      "title": "有限货架、无限商品：即时零售的三重基因，正在重构品牌生意",
+      "url": "https://www.brandstar.com.cn/in-depth/8337",
+      "published_at": "2026-09-28T16:34:39.659043+08:00",
+      "date": "2026-09-28",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "即时零售正在让品牌更直接地参与本地商品经营。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及内容传播、零售体验。",
+      "score": 6
+    },
+    {
+      "id": "brandstar-8316",
+      "title": "当品牌出海进入「伙伴关系」阶段",
+      "url": "https://www.brandstar.com.cn/in-depth/8316",
+      "published_at": "2026-09-21T18:27:36.321918+08:00",
+      "date": "2026-09-21",
+      "collected_at": "2026-10-20T17:34:43.819535+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "从 iPX 到 iPMA，一套合作价值的公共尺度",
+      "selection_reason": "深度报道，含具体品牌实践；涉及IP 合作、社群经营、内容传播。",
+      "score": 8
+    },
+    {
+      "id": "brandstar-8297",
+      "title": "工艺，正在成为品牌门店的新内容",
+      "url": "https://www.brandstar.com.cn/in-depth/8297",
+      "published_at": "2026-09-04T21:57:53.217108+08:00",
+      "date": "2026-09-04",
+      "collected_at": "2026-10-20T17:34:43.819535+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "从产品研发、定制到维修与再造，工艺正在成为门店里可持续更新、可被验证的品牌内容。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及内容传播、零售体验。",
+      "score": 6
+    },
+    {
+      "id": "brandstar-8265",
+      "title": "品牌叙事的新单位",
+      "url": "https://www.brandstar.com.cn/in-depth/8265",
+      "published_at": "2026-08-21T19:58:43.129608+08:00",
+      "date": "2026-08-21",
+      "collected_at": "2026-10-20T17:34:43.819535+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "品牌叙事的基本单位，正在从一次品牌战役，变成一个可以不断续写的长期节目。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及IP 合作、社群经营、内容传播。",
+      "score": 8
+    },
+    {
+      "id": "brandstar-8267",
+      "title": "长期的品牌叙事，日常的小内容",
+      "url": "https://www.brandstar.com.cn/in-depth/8267",
+      "published_at": "2026-08-21T19:58:55.510446+08:00",
+      "date": "2026-08-21",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "当内容越做越轻、关系却要越做越深，品牌需要的不是更多内容，而是一套能把叙事拆小、持续运作的小内容体系。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及社群经营、内容传播、零售体验。",
+      "score": 7
+    },
+    {
+      "id": "brandstar-8211",
+      "title": "品牌叙事的六种类型",
+      "url": "https://www.brandstar.com.cn/in-depth/8211",
+      "published_at": "2026-07-26T21:28:00+08:00",
+      "date": "2026-07-26",
+      "collected_at": "2026-10-20T17:36:51.910656+08:00",
+      "source": "品牌星球",
+      "kind": "深度报道",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": true,
+      "is_ip": false,
+      "source_excerpt": "从叙事中心、叙事命题与叙事逻辑出发，拆解产品、能力、身份、生活方式、社群与文化六种品牌叙事。",
+      "selection_reason": "深度报道，含具体品牌实践；涉及IP 合作、社群经营、内容传播。",
+      "score": 8
+    }
+  ],
+  "policy": "每日北京时间 08:00 云端检查；筛选近 90 天的品牌实践与合作报道。自动导读不冒充深度分析。"
+}
