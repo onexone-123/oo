@@ -31,6 +31,9 @@ jobs:
       - name: Collect platform trending snapshots
         continue-on-error: true
         run: python scripts/update_trends.py
+      - name: Translate global topic titles
+        continue-on-error: true
+        run: python scripts/translate_trends.py
       - name: Collect current headlines
         continue-on-error: true
         run: python scripts/update_news.py
@@ -38,6 +41,8 @@ jobs:
         run: |
           node --check docs/dashboard.js
           node --check docs/brandstar.js
+          node --check docs/sectors.js
+          python scripts/test_translate.py
           python scripts/test_brandstar.py
           python scripts/test_global_trends.py
           node scripts/test_dashboard.cjs
