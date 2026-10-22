@@ -1,7 +1,22 @@
 {
-  "checked_at": "2026-10-22T01:37:32.915305+00:00",
+  "checked_at": "2026-10-22T03:28:49.990134+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-814dc5533c7f73d4b9bf",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.21",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Hi Luca case study",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-21T18:40:04+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBreEYyeUpQQ1RFVWI5Y2FHZ1dLZUlSX3ZZQmZzdFlwZDdHSldPczNnZ21qZWRQWkxBWFM0Z3ZqLS10T3ByV2dZZnhoOGxsU2pEenJzbw?oc=5",
+      "publisher": "Google Cloud"
+    },
     {
       "id": "auto-651ebb8c225bf7b23b02",
       "kind": "hot",
@@ -389,7 +404,7 @@
       "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-19T11:07:07+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGNjdXVQM25TM0xybnJ2U3lTVDBBS0t5al9zamtLYTFXeEtNR0w3U3dPVnRGU21CcWxMNV9YREd0djZ2Y1VleDFteHNqaEJiRThNYVFBX09SWTZXcl9kRFhvREp3OVNsYjlUc1JGNUVSZXZRMUR0Qm12czFLdnFsWDdWeHBVNFQycUhSS3NEcVctTnV2MGRqaVh0cEpuNnp5aWV5a2p6Ymg4WE50VTZEWUZBeko0MDNCQ3lqRldGX3dTU0ttME80cVRRNDctNWozNDIzOU4waHZmZzg?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWEhRRUt5OXRHanRGMGNGQ0FuVXBlYm5xdk5fMk9rN0lOUXFwcTZXMzFyX0lXckZvU1lqNG1ESmtGMzcza0NPSGxCMGJyR0VwYUJxM1JhYXAxNkllRGV3d2ctckNvN0hRdGh4clp3V1B0Vm1yeG1uVENoOGhTejlKaXVmR0o3SWhHRGRpUEE0ZHlpYUFSdnlBNDhLZm9XRlRoMmViYklQd1BxMUxQRkhkQUp0MXpWTWtKV09xaEtYcFdnRHk4eEotUHJZOHZSTW5oUEJuVHB3Z3pnZlltS2c?oc=5",
       "publisher": "新浪财经"
     },
     {
@@ -421,6 +436,21 @@
       "published_at": "2026-10-19T08:45:45+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PRFF1TXZYWHZZSWV0aksyd000RG1JOXJ5UHdsTFZtWHlVTHp3OGdiR1N2SjlMb09ST0JfUE1OWFFOX2JwSHoxLWVQVVhNUnEwblBlZEV0NFZjMXBQUHpFNjJNX0NLbXp4OVE?oc=5",
       "publisher": "中华网"
+    },
+    {
+      "id": "auto-4f467335481dd403f939",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.19",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "15个健身电商网站分享：如何打造全球性的健身品牌",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-19T07:30:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzR2JPbXdXQkhNYXVDcnNvcmE5WXJJWnpqNl9lNzBETXJGWVVYMUhxQ3VBNm1WQzhJOXJkNVNCNjQ4WU9GNmFhbjhzR0ZWbTlobXBfNlltSWZLc1pZTTVFcVluOE1yc3B4VXc?oc=5",
+      "publisher": "Shopify"
     },
     {
       "id": "auto-08f980f1739ec3aef668",
@@ -886,6 +916,21 @@
       "published_at": "2026-10-15T12:50:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YcndLWE16cnQtQllESVc1NjdGeEZkd1JJWmRRSFR5anZlUE5KNER0aG9rQVAzaDl4a0ZnQ1JYWjNZbjQ1S1VQV1dBb0J0dGdra29RNFJ6UEU?oc=5",
       "publisher": "Jiemian.com"
+    },
+    {
+      "id": "auto-aac3ef2e7518521cc9e1",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.15",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Snooki Hits Florence, Kentucky To Launch Chili's New Chicken Parm Big Crispy 10/15/2026",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-15T12:19:37+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYjFZMmotT3pfSFhlSXNJQnp1SWpTcE44a2pDMHdGLVhpUDNGcHhsdTJZRk1xVXpzelIyS25STTdDNjRpR2EzNGRSUHNqaUlHOFl2UTZvWWltOEh5WkdvZERqZk5IbkZOSDV6dlZRZmw4VlNiZ3g0dERsb0ZnWTd0OFFpM0xjX29nYTQ0bHdPTzV0bkVFa0VZLXdlTkFWUy1CVkptd3pXZVdBdVU5bVJsWUFjYWI5UGhlbjVWNU1YSQ?oc=5",
+      "publisher": "MediaPost"
     },
     {
       "id": "auto-c31e36dbb7cf458f334c",
