@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T01:38:43.332989+00:00",
+  "checked_at": "2026-10-23T01:39:28.634241+00:00",
   "date": "2026-10-23",
   "platforms": {
     "x": {
@@ -246,7 +246,7 @@
           "translation_status": "machine"
         }
       ],
-      "collected_at": "2026-10-23T01:38:43.347097+00:00",
+      "collected_at": "2026-10-23T01:39:28.640879+00:00",
       "upstream_time": "2026-10-23T01:09:57.679000+00:00",
       "kind": "third_party_trends",
       "region": "全球 · 保留榜单原语言",
@@ -256,12 +256,12 @@
     },
     "bilibili": {
       "status": "ok",
-      "collected_at": "2026-10-23T01:38:43.918469+00:00",
+      "collected_at": "2026-10-23T01:39:29.176966+00:00",
       "items": [
         {
           "rank": 1,
           "title": "西藏地震已致16死54伤",
-          "heat": 1105820,
+          "heat": 1095407,
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4"
         },
         {
@@ -273,85 +273,85 @@
         {
           "rank": 3,
           "title": "西藏7.0级地震救助最新进展",
-          "heat": 686376,
+          "heat": 686300,
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%95%91%E5%8A%A9%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95"
         },
         {
           "rank": 4,
           "title": "西藏地震亲历者讲述避险细节",
-          "heat": 680162,
+          "heat": 681771,
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E9%81%BF%E9%99%A9%E7%BB%86%E8%8A%82"
         },
         {
           "rank": 5,
           "title": "iPhone Duo拆机测评",
-          "heat": 621324,
+          "heat": 623410,
           "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%8B%86%E6%9C%BA%E6%B5%8B%E8%AF%84"
         },
         {
           "rank": 6,
           "title": "TheShy说年龄增长并不是坏事",
-          "heat": 484945,
+          "heat": 494597,
           "url": "https://search.bilibili.com/all?keyword=TheShy%E8%AF%B4%E5%B9%B4%E9%BE%84%E5%A2%9E%E9%95%BF%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%9D%8F%E4%BA%8B"
         },
         {
           "rank": 7,
           "title": "UP主硬核手搓光隔离探头",
-          "heat": 414434,
+          "heat": 413625,
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A1%AC%E6%A0%B8%E6%89%8B%E6%90%93%E5%85%89%E9%9A%94%E7%A6%BB%E6%8E%A2%E5%A4%B4"
         },
         {
           "rank": 8,
           "title": "国乒男团夺得亚锦赛冠军",
-          "heat": 409610,
+          "heat": 398296,
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E5%A4%BA%E5%BE%97%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%86%A0%E5%86%9B"
         },
         {
           "rank": 9,
           "title": "NOVA战胜AQ VCT晋升赛",
-          "heat": 383780,
+          "heat": 383762,
           "url": "https://search.bilibili.com/all?keyword=NOVA%E6%88%98%E8%83%9CAQ%20VCT%E6%99%8B%E5%8D%87%E8%B5%9B"
         },
         {
           "rank": 10,
           "title": "AI短片妖怪衙门",
-          "heat": 359235,
+          "heat": 358567,
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8"
         },
         {
           "rank": 11,
           "title": "影之刃零最终预告",
-          "heat": 359232,
+          "heat": 358566,
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E6%9C%80%E7%BB%88%E9%A2%84%E5%91%8A"
         },
         {
           "rank": 12,
           "title": "英伟达RTX显卡涨幅扩大",
-          "heat": 359228,
+          "heat": 358564,
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BERTX%E6%98%BE%E5%8D%A1%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7"
         },
         {
           "rank": 13,
           "title": "LPL出征前的默契挑战",
-          "heat": 359173,
+          "heat": 358562,
           "url": "https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98"
         },
         {
           "rank": 14,
           "title": "中国女团2-3日本女团",
-          "heat": 359070,
+          "heat": 358548,
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2"
         },
         {
           "rank": 15,
           "title": "刘晓艳问到底谁拍的",
-          "heat": 358890,
+          "heat": 358471,
           "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%E9%97%AE%E5%88%B0%E5%BA%95%E8%B0%81%E6%8B%8D%E7%9A%84"
         },
         {
           "rank": 16,
           "title": "漫威新剧幻视任务神秘反派是谁",
-          "heat": 357810,
+          "heat": 358349,
           "url": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E6%96%B0%E5%89%A7%E5%B9%BB%E8%A7%86%E4%BB%BB%E5%8A%A1%E7%A5%9E%E7%A7%98%E5%8F%8D%E6%B4%BE%E6%98%AF%E8%B0%81"
         },
         {
@@ -363,13 +363,13 @@
         {
           "rank": 18,
           "title": "日食记中国喜宴上新丹东故事",
-          "heat": 354070,
+          "heat": 353954,
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E9%A3%9F%E8%AE%B0%E4%B8%AD%E5%9B%BD%E5%96%9C%E5%AE%B4%E4%B8%8A%E6%96%B0%E4%B8%B9%E4%B8%9C%E6%95%85%E4%BA%8B"
         },
         {
           "rank": 19,
           "title": "3D动画演示如何设计子弹弹头",
-          "heat": 346737,
+          "heat": 345623,
           "url": "https://search.bilibili.com/all?keyword=3D%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E5%AD%90%E5%BC%B9%E5%BC%B9%E5%A4%B4"
         },
         {
@@ -381,7 +381,7 @@
         {
           "rank": 21,
           "title": "影视飓风iPhone Duo深度评测",
-          "heat": 334593,
+          "heat": 333854,
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8EiPhone%20Duo%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B"
         },
         {
@@ -393,7 +393,7 @@
         {
           "rank": 23,
           "title": "食品代糖为何不断迭代",
-          "heat": 296923,
+          "heat": 295809,
           "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E5%93%81%E4%BB%A3%E7%B3%96%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%96%AD%E8%BF%AD%E4%BB%A3"
         },
         {
@@ -411,7 +411,7 @@
         {
           "rank": 26,
           "title": "何同学iPhone Duo首发体验",
-          "heat": 288495,
+          "heat": 288426,
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6iPhone%20Duo%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C"
         },
         {
@@ -423,7 +423,7 @@
         {
           "rank": 28,
           "title": "JJH淘汰BCG晋级败决",
-          "heat": 275386,
+          "heat": 275055,
           "url": "https://search.bilibili.com/all?keyword=JJH%E6%B7%98%E6%B1%B0BCG%E6%99%8B%E7%BA%A7%E8%B4%A5%E5%86%B3"
         },
         {
@@ -441,6 +441,98 @@
       ],
       "endpoint": "https://api.bilibili.com/x/web-interface/search/square?limit=30",
       "upstream_time": null
+    },
+    "facebook": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "Meta fined $25b in US for deceiving users about Facebook privacy",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2NZbFlQcnRiRGRBRXhlOVdtWXJEaVRNWVJoZ2c5Y0x0dG5UZTVzSHhNdWpLWEdRQUFFRkRrU1FQTUNtVDNCLUwzSWhleTBtZGhaVU4yemh2Z0xjUHVScjFYbDhHdWE0SVhKNVg3U3hXTXJ5UmpPRGdCLVNoMnFseml1X2VzQ0xBLVJIUk5hYjJYNmJ5QU1Z?oc=5",
+          "heat": "",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "feed_time": "2026-10-21T23:35:45+00:00",
+          "source_url": "https://www.abc.net.au",
+          "rank": 1,
+          "title_zh": "Meta 因在 Facebook 隐私问题上欺骗用户而在美国被罚款 250 亿美元",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcy05Z2ZHUXQ4TzJiVEJOcTBvQ2dqRExkREdGLTNBSXlhX1YzN3hPRXd6d3pPbFNlYnQ5WmVvbEpyT2p2UmVtYXA3VlF1S2Nhb1U4SFVJMy01MUpncTRSRUJTbXhqMFg4VFZEejktRlQyTEdSOEIxaEtBVkpITXBBTFFYMkN1VkVQbFMtdEV6TDhxNkdLYWYxa0sxdlJ5dVBHWXdtaHUyT255Qm8?oc=5",
+          "heat": "",
+          "publisher": "AP News",
+          "feed_time": "2026-10-21T21:31:00+00:00",
+          "source_url": "https://apnews.com",
+          "rank": 2,
+          "title_zh": "Meta 因在 Facebook 上欺骗用户隐私而被责令向新墨西哥州支付 250 亿美元",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Meta forced to pay $25 billion penalty to New Mexico over Facebook privacy scandal",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2VoWXZ3VGhHYW5fVU84V29udzJycGFrX25fYUlTcFRXNjNveVNmdXdnS212MWJxbVhEQVRVUjJiN3A5YXFDMDNMT1ZSSngtR3NPQ241a2I0ODg1eFoyNGFlSjVJenpxTXEwMGFDY0FiaFMtaHlMVFpiYmVYNFR3aTFxenZkUU9leHlGTA?oc=5",
+          "heat": "",
+          "publisher": "The Independent",
+          "feed_time": "2026-10-21T18:01:00+00:00",
+          "source_url": "https://www.independent.co.uk",
+          "rank": 3,
+          "title_zh": "Meta 因 Facebook 隐私丑闻被迫向新墨西哥州支付 250 亿美元罚款",
+          "translation_status": "machine"
+        }
+      ],
+      "collected_at": "2026-10-23T01:39:28.640752+00:00",
+      "kind": "reported_signals",
+      "region": "全球报道 · 英文优先",
+      "source_name": "英文媒体报道",
+      "source_url": "https://www.facebook.com/",
+      "partial": false,
+      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
+      "empty_reason": ""
+    },
+    "instagram": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "Georgia Instagram personality Shawty Dred indicted on $4 million SNAP card fraud scheme, DA says",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmhaeER6RnFLelB2TG9IZDZwS21yNzBldHhPUlVHRDUwUGxUQjZaV1JuSzY4NDdzalB3WnJZNWtIUFl6OUloVHBkbzhDMFprX3NidUNNQXluTnl3OHNiZk5rZ3NGRUJIR1h3RU93dWFUZVh5Z05kWWQ3a0kzX0RDa0h3NGszOUpyVjlCbWk4VnJqaWhtWnpadEVsYUxQTmhZM1ZjMkxCWFlhY25UNS0td2pRcWw3U2h2TGxFcTVxT01CTzVGQWx0R3VYaW8?oc=5",
+          "heat": "",
+          "publisher": "CBS News",
+          "feed_time": "2026-10-21T17:47:45+00:00",
+          "source_url": "https://www.cbsnews.com",
+          "rank": 1,
+          "title_zh": "地方检察官称，佐治亚州 Instagram 名人 Shawty Dred 因 400 万美元的 SNAP 卡欺诈计划被起诉",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Instagram announces next phase of Rings creative talent awards",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1VoTWF5bkJyRExoZmdDN3VMQU5tNFRESlduUFdhMHVlc09OT3VNZ1Q4enhzRm1SbW5JSUlPZzY5cGdhUEUyaXd5TUJoMFdiTU1mNGZPR0c1LXlJYlJWZ3ZaQnpfbmFyeXNtWFZ1MjVjZ2xYZGZjeU1EUUtSWV9kZUlvZWxCdmpsUU5qblZDUzd3bko3cFBRNlpsQllJRkFEMHp5X01ySjdfUHVJ?oc=5",
+          "heat": "",
+          "publisher": "Social Media Today",
+          "feed_time": "2026-10-21T01:10:10+00:00",
+          "source_url": "https://www.socialmediatoday.com",
+          "rank": 2,
+          "title_zh": "Instagram 宣布下一阶段的 Rings 创意人才奖",
+          "translation_status": "machine"
+        },
+        {
+          "title": "The one change that worked: I deleted Instagram – and embraced the joys of a truly private life",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakVhbVpsb3JZWVhVaU1TVk1mTWpFc0h3eGt3OVhvajhrc21yQlNITGRjZ1doTVBESEJUYTNkRmI4bWtPSUlGNlI0Z0EyQk91TXh5X1dTNTcyUW43RTFHZ0RfZUxTSEJLaF9GMndxTWtiUG01X1Uydk9CTU5faG5aemljUU1ScFlwQk1iQnl5QXJPd2RoNl9pOGhWT0ZnQnF0b2RDRlo1NFlvcm12cksxMlZvQ2JZVTUweXA3NUp5UkdwNTQ0dmNZSGt3M0ZkaUFrRGY4UnhaUWliSWdtNXc?oc=5",
+          "heat": "",
+          "publisher": "The Guardian",
+          "feed_time": "2026-10-20T11:46:00+00:00",
+          "source_url": "https://www.theguardian.com",
+          "rank": 3,
+          "title_zh": "一项有效的改变是：我删除了 Instagram，并拥抱了真正私人生活的乐趣",
+          "translation_status": "machine"
+        }
+      ],
+      "collected_at": "2026-10-23T01:39:28.640544+00:00",
+      "kind": "reported_signals",
+      "region": "全球报道 · 英文优先",
+      "source_name": "英文媒体报道",
+      "source_url": "https://www.instagram.com/explore/",
+      "partial": false,
+      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
+      "empty_reason": ""
     },
     "tiktok": {
       "status": "ok",
@@ -545,25 +637,36 @@
           "translation_status": "machine"
         },
         {
-          "title": "TikTok shares Black Friday, Cyber Monday promotion tips",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2ZTalkzUkJocG9Eck5lcmZUbWl3N29RMlhUd214dXpqYWI1aGRzd1RJNlp5OTJlOHV0UVh2bmxjQzIzMURuTUJ1Vnk3dVFzUW1sT1FaOThaelVuNE5UNDVSRWUyRi00dmkyTVJKY2F4RGNRZVNqTjZfRkFaOHh4YVY2WGVVZy00ZlQzRFFkTHFzdmx3bDd5Z2RybFRsTWdyQ3c?oc=5",
-          "heat": "",
-          "publisher": "Social Media Today",
-          "feed_time": "2026-10-21T03:08:45+00:00",
-          "source_url": "https://www.socialmediatoday.com",
-          "rank": 10,
-          "title_zh": "TikTok 分享黑色星期五、网络星期一促销技巧",
-          "translation_status": "machine"
-        },
-        {
           "title": "TikTok has started censoring searches for popular peptides",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYYlBWSHhiTG1aMWtudXo3NzBRM3JfWGdZN0xJYy1DOWhlMmY2YlNQLUpzN282WlNITU8wMkRxNmx4WlZVM05LVFlPTTlEeW8yWTIydXljNGVub0xWUHJGVmtSOXF4Q0lvd2xCMW5qaVAtTkF5?oc=5",
           "heat": "",
           "publisher": "The Verge",
           "feed_time": "2026-10-20T20:16:04+00:00",
           "source_url": "https://www.theverge.com",
-          "rank": 11,
+          "rank": 10,
           "title_zh": "TikTok 已开始审查流行肽的搜索",
+          "translation_status": "machine"
+        },
+        {
+          "title": "TikTok failing to remove nearly all accounts reported for advertising drugs, study finds",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2ctcWlyWTJ0S3A2V1plOTFFd3hkMTVhZWw2OFlaUThBYnBVOVYzRl9ITzlUZ1lXbmRjTTJIcnd0Q3ZFUVllNEV0ekdsN2FyS2FZLXFXUE16Z19tTGVfeXJIN1pmcEN0amRUUF9QMjZJMmlhZVpncXNRREtoYkU0dkpqaEdGV25fam9iY0cwekRmRVZFTlE4?oc=5",
+          "heat": "",
+          "publisher": "The Independent",
+          "feed_time": "2026-10-20T16:48:00+00:00",
+          "source_url": "https://www.independent.co.uk",
+          "rank": 11,
+          "title_zh": "研究发现，TikTok 未能删除几乎所有被举报的药品广告账户",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Ofcom urged to intervene as TikTok ‘failing to act on accounts advertising illegal drugs’",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWRUV2tYX05EX1Q2YVV5WlhxMlR3R0cycGNoakxSRDI4NjJYaUthOWJPZlFtYnNDcnJvdzl2cU15ZEthZVRiLVZLMm9sVXcxTWo2Vm1RajZSVXE4Z1dNWUtuMFZvcEVLN0dnanVJajdaTjBDUVc2Z25oMy1tQk9kZjRXTUpIbTRqWmRYbERlU1F6TWM?oc=5",
+          "heat": "",
+          "publisher": "The Independent",
+          "feed_time": "2026-10-20T16:42:00+00:00",
+          "source_url": "https://www.independent.co.uk",
+          "rank": 12,
+          "title_zh": "由于 TikTok“未能对非法毒品广告账户采取行动”，Ofcom 敦促进行干预",
           "translation_status": "machine"
         },
         {
@@ -573,7 +676,7 @@
           "publisher": "The Independent",
           "feed_time": "2026-10-20T15:08:00+00:00",
           "source_url": "https://www.independent.co.uk",
-          "rank": 12,
+          "rank": 13,
           "title_zh": "Z 世代对 TikTok 和 Instagram 上的新一波加密货币诈骗发出警告，美国人损失数十亿美元",
           "translation_status": "machine"
         },
@@ -584,19 +687,8 @@
           "publisher": "TechCrunch",
           "feed_time": "2026-10-20T15:03:41+00:00",
           "source_url": "https://techcrunch.com",
-          "rank": 13,
-          "title_zh": "TikTok 员工提出儿童安全担忧，但据报道高管未采取行动",
-          "translation_status": "machine"
-        },
-        {
-          "title": "Conyers TikTok star trades health care career for auto repair and helps train new mechanics",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOejQ1a2t4MDBnd2Zxd1pBX0MzeC1qNWlVVmlTU3d0S0JWV2VpajlQMGEzZE5JUG9PT05yeWlaejFmdjFVT2tueV9ZNElOLTVrRXlaR1U1bHBzWGt5SFhoYzZfQkFtQlNUcFgwRXNyaGw1RGNnM2FRclMtWm1qTFBFVEg2YlRpRV9uOTg0djdBT1NpUVJqR1RCMUdwZkJ2X284NV9KSm80OWpEamFSMnpNcURXWVh0NnZoN3RtWWVycFIyMnZSOUlzbg?oc=5",
-          "heat": "",
-          "publisher": "CBS News",
-          "feed_time": "2026-10-20T14:47:36+00:00",
-          "source_url": "https://www.cbsnews.com",
           "rank": 14,
-          "title_zh": "Conyers TikTok 明星放弃医疗保健职业从事汽车维修并帮助培训新机械师",
+          "title_zh": "TikTok 员工提出儿童安全担忧，但据报道高管未采取行动",
           "translation_status": "machine"
         },
         {
@@ -611,7 +703,7 @@
           "translation_status": "machine"
         }
       ],
-      "collected_at": "2026-10-23T01:38:43.349699+00:00",
+      "collected_at": "2026-10-23T01:39:28.641256+00:00",
       "kind": "reported_signals",
       "region": "全球报道 · 英文优先",
       "source_name": "英文媒体报道",
@@ -620,101 +712,9 @@
       "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
       "empty_reason": ""
     },
-    "facebook": {
-      "status": "ok",
-      "items": [
-        {
-          "title": "Meta fined $25b in US for deceiving users about Facebook privacy",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2NZbFlQcnRiRGRBRXhlOVdtWXJEaVRNWVJoZ2c5Y0x0dG5UZTVzSHhNdWpLWEdRQUFFRkRrU1FQTUNtVDNCLUwzSWhleTBtZGhaVU4yemh2Z0xjUHVScjFYbDhHdWE0SVhKNVg3U3hXTXJ5UmpPRGdCLVNoMnFseml1X2VzQ0xBLVJIUk5hYjJYNmJ5QU1Z?oc=5",
-          "heat": "",
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "feed_time": "2026-10-21T23:35:45+00:00",
-          "source_url": "https://www.abc.net.au",
-          "rank": 1,
-          "title_zh": "Meta 因在 Facebook 隐私问题上欺骗用户而在美国被罚款 250 亿美元",
-          "translation_status": "machine"
-        },
-        {
-          "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcy05Z2ZHUXQ4TzJiVEJOcTBvQ2dqRExkREdGLTNBSXlhX1YzN3hPRXd6d3pPbFNlYnQ5WmVvbEpyT2p2UmVtYXA3VlF1S2Nhb1U4SFVJMy01MUpncTRSRUJTbXhqMFg4VFZEejktRlQyTEdSOEIxaEtBVkpITXBBTFFYMkN1VkVQbFMtdEV6TDhxNkdLYWYxa0sxdlJ5dVBHWXdtaHUyT255Qm8?oc=5",
-          "heat": "",
-          "publisher": "AP News",
-          "feed_time": "2026-10-21T21:31:00+00:00",
-          "source_url": "https://apnews.com",
-          "rank": 2,
-          "title_zh": "Meta 因在 Facebook 上欺骗用户隐私而被责令向新墨西哥州支付 250 亿美元",
-          "translation_status": "machine"
-        },
-        {
-          "title": "Meta forced to pay $25 billion penalty to New Mexico over Facebook privacy scandal",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2VoWXZ3VGhHYW5fVU84V29udzJycGFrX25fYUlTcFRXNjNveVNmdXdnS212MWJxbVhEQVRVUjJiN3A5YXFDMDNMT1ZSSngtR3NPQ241a2I0ODg1eFoyNGFlSjVJenpxTXEwMGFDY0FiaFMtaHlMVFpiYmVYNFR3aTFxenZkUU9leHlGTA?oc=5",
-          "heat": "",
-          "publisher": "The Independent",
-          "feed_time": "2026-10-21T18:01:00+00:00",
-          "source_url": "https://www.independent.co.uk",
-          "rank": 3,
-          "title_zh": "Meta 因 Facebook 隐私丑闻被迫向新墨西哥州支付 250 亿美元罚款",
-          "translation_status": "machine"
-        }
-      ],
-      "collected_at": "2026-10-23T01:38:43.346900+00:00",
-      "kind": "reported_signals",
-      "region": "全球报道 · 英文优先",
-      "source_name": "英文媒体报道",
-      "source_url": "https://www.facebook.com/",
-      "partial": false,
-      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
-      "empty_reason": ""
-    },
-    "instagram": {
-      "status": "ok",
-      "items": [
-        {
-          "title": "Georgia Instagram personality Shawty Dred indicted on $4 million SNAP card fraud scheme, DA says",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmhaeER6RnFLelB2TG9IZDZwS21yNzBldHhPUlVHRDUwUGxUQjZaV1JuSzY4NDdzalB3WnJZNWtIUFl6OUloVHBkbzhDMFprX3NidUNNQXluTnl3OHNiZk5rZ3NGRUJIR1h3RU93dWFUZVh5Z05kWWQ3a0kzX0RDa0h3NGszOUpyVjlCbWk4VnJqaWhtWnpadEVsYUxQTmhZM1ZjMkxCWFlhY25UNS0td2pRcWw3U2h2TGxFcTVxT01CTzVGQWx0R3VYaW8?oc=5",
-          "heat": "",
-          "publisher": "CBS News",
-          "feed_time": "2026-10-21T17:47:45+00:00",
-          "source_url": "https://www.cbsnews.com",
-          "rank": 1,
-          "title_zh": "地方检察官称，佐治亚州 Instagram 名人 Shawty Dred 因 400 万美元的 SNAP 卡欺诈计划被起诉",
-          "translation_status": "machine"
-        },
-        {
-          "title": "Instagram announces next phase of Rings creative talent awards",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1VoTWF5bkJyRExoZmdDN3VMQU5tNFRESlduUFdhMHVlc09OT3VNZ1Q4enhzRm1SbW5JSUlPZzY5cGdhUEUyaXd5TUJoMFdiTU1mNGZPR0c1LXlJYlJWZ3ZaQnpfbmFyeXNtWFZ1MjVjZ2xYZGZjeU1EUUtSWV9kZUlvZWxCdmpsUU5qblZDUzd3bko3cFBRNlpsQllJRkFEMHp5X01ySjdfUHVJ?oc=5",
-          "heat": "",
-          "publisher": "Social Media Today",
-          "feed_time": "2026-10-21T01:10:10+00:00",
-          "source_url": "https://www.socialmediatoday.com",
-          "rank": 2,
-          "title_zh": "Instagram 宣布下一阶段的 Rings 创意人才奖",
-          "translation_status": "machine"
-        },
-        {
-          "title": "The one change that worked: I deleted Instagram – and embraced the joys of a truly private life",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakVhbVpsb3JZWVhVaU1TVk1mTWpFc0h3eGt3OVhvajhrc21yQlNITGRjZ1doTVBESEJUYTNkRmI4bWtPSUlGNlI0Z0EyQk91TXh5X1dTNTcyUW43RTFHZ0RfZUxTSEJLaF9GMndxTWtiUG01X1Uydk9CTU5faG5aemljUU1ScFlwQk1iQnl5QXJPd2RoNl9pOGhWT0ZnQnF0b2RDRlo1NFlvcm12cksxMlZvQ2JZVTUweXA3NUp5UkdwNTQ0dmNZSGt3M0ZkaUFrRGY4UnhaUWliSWdtNXc?oc=5",
-          "heat": "",
-          "publisher": "The Guardian",
-          "feed_time": "2026-10-20T11:46:00+00:00",
-          "source_url": "https://www.theguardian.com",
-          "rank": 3,
-          "title_zh": "一项有效的改变是：我删除了 Instagram，并拥抱了真正私人生活的乐趣",
-          "translation_status": "machine"
-        }
-      ],
-      "collected_at": "2026-10-23T01:38:43.346696+00:00",
-      "kind": "reported_signals",
-      "region": "全球报道 · 英文优先",
-      "source_name": "英文媒体报道",
-      "source_url": "https://www.instagram.com/explore/",
-      "partial": false,
-      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
-      "empty_reason": ""
-    },
     "weibo": {
       "status": "ok",
-      "collected_at": "2026-10-23T01:38:44.518096+00:00",
+      "collected_at": "2026-10-23T01:39:29.958130+00:00",
       "items": [
         {
           "rank": 1,
@@ -902,7 +902,7 @@
     },
     "douyin": {
       "status": "ok",
-      "collected_at": "2026-10-23T01:38:44.567051+00:00",
+      "collected_at": "2026-10-23T01:39:30.513046+00:00",
       "items": [
         {
           "rank": 1,
@@ -1090,7 +1090,7 @@
     },
     "rednote": {
       "status": "ok",
-      "collected_at": "2026-10-23T01:38:45.416474+00:00",
+      "collected_at": "2026-10-23T01:39:31.222256+00:00",
       "items": [
         {
           "rank": 1,
