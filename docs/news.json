@@ -1,7 +1,22 @@
 {
-  "checked_at": "2026-10-23T01:39:33.039561+00:00",
+  "checked_at": "2026-10-23T03:34:15.226528+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-adc9ed37c82559417692",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.23",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "The latest AI-powered martech news and releases",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T00:45:37+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+      "publisher": "MarTech"
+    },
     {
       "id": "auto-e47ada432ee6fe4b1d99",
       "kind": "hot",
@@ -18,19 +33,19 @@
       "publisher": "RestaurantNews.com"
     },
     {
-      "id": "auto-adc9ed37c82559417692",
+      "id": "auto-d38e7bc75825f1e216b9",
       "kind": "hot",
       "tag": "品牌运营",
-      "region": "全球",
+      "region": "中国",
       "date": "2026.10.22",
-      "art": "meta",
+      "art": "lego",
       "word": "DAILY SIGNAL",
-      "title": "The latest AI-powered martech news and releases",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "title": "告别一次性联名！孩之宝解锁IP长效增长密码",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T18:45:37+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
-      "publisher": "MarTech"
+      "published_at": "2026-10-22T09:36:10+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JHMURCR1RpX1F1QXNqRFJ1NmQ3elQyVGUxQkctak9XbGU3dkMyVHFfOHU1aGJoVWNyZkRoellTWGdKWVNFTHBHNUgzNmhDbi1VT0ZqMElBX0RYQjlDcmZBdHByWFVmZkNnSkd1SWlqcTFDMDdBakdpZ3MzcExnLUZfVVZQNTBKV29jVA?oc=5",
+      "publisher": "搜狐"
     },
     {
       "id": "auto-3a06d955a550330fe0cf",
@@ -179,7 +194,7 @@
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-21T08:06:27+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMkpzUHVpeUprdHE0M3Y3QlhyMGM4c25aUGZHRFY4TG5PdjFPNUktdEIzQ0hQZUpnenplSHNiTDRKSV90SmlEVXdYZ0gtMFRjYzBNak55UFpwbFNCVGZxakd1RFM?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13c0xrZ3ZtT1VTVkU5SV9BbXpuVm5SX2lVaUZwQk9uX0dRNWN6dS1SajFfd28zei1mWWpGczlTd0sybjlqVGZUMlJoVVZSUF9UeGtkb042LXBrTjZvQndkNFNWOA?oc=5",
       "publisher": "红餐网"
     },
     {
@@ -453,6 +468,21 @@
       "publisher": "华尔街见闻"
     },
     {
+      "id": "auto-8451896c28319b881761",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.20",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-20T04:41:04+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWml5NlAxUUV2WGxaQmVSdjBod1pCSEtYcmk5Ujh4dmRGclFTdUlSUnZ1NWVsNkpqdTI2M1VpTE10S0lOT1FnXzFTWlJFa1plTFBSRG85S1Z0anVudDJSOHpScWxEM0JMamdOdFdBbWh0VUdwekVKUVlsejVpWnFWaC1ha05tUURsT1FiZmY2Z2RHaDBybXlKU3FzS2NXYzdQSkNva1JnRHlhVG92WkdiOFdzUm5KdXQyUDNSSXJWOERwQ3M4T2VuSVhZWVI5UC1lb0Y5RkVKbzA3Qy05TTFKdVJySURfc20yTUhmclNFUXptMUJZa0JzWFRZUVhnbUpqVWU0eFRDdXpKZzZJ?oc=5",
+      "publisher": "新浪财经"
+    },
+    {
       "id": "auto-d4c010d16c41e5414c66",
       "kind": "hot",
       "tag": "品牌运营",
@@ -541,21 +571,6 @@
       "published_at": "2026-10-19T12:39:09+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZkNvcDFHejFrcW1hY0ZrUENuZnM4N2I3aW5EbU1GaTZFVldYejBiVTlHdUJqb3c5QXlJZ2RrczNhRjU2R3ducWx2dE95M09EN011ak13UVdWWVVEcEtZYi0wdkNha1hLZExqeUgzaXd6TjZqaGhQUmdLTlg?oc=5",
       "publisher": "中国旅游新闻网"
-    },
-    {
-      "id": "auto-8451896c28319b881761",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.19",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-19T11:07:07+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWg2VVFkRURkbXpWVnQ3c0trWjdES2VXZllKU1FkR0lkb0pxaW1tYkVlMGRsRWp6ZGcyVW9iUFFST012RVVnbHhNYXFJN09CMDlzYlZJVFhRdGx6VzBiTmszblM1a0xVVWZDNnZiSnphaGxEQkRvNzVBQnJEOURXNkNFd0MwdWptaUlqSVh3Y0tpUkZydWpCMXAtdTVwbWxsaHVfZU9XSkpaNUtBdldtTGVNem16aERPaTJscDA0SUduVkh6aE9wbFNQWGFUNFctZkNpcll3U1lHYl9nMkE?oc=5",
-      "publisher": "新浪财经"
     },
     {
       "id": "auto-4caaf0466fc5411ce2cd",
@@ -1786,21 +1801,6 @@
       "published_at": "2026-10-11T12:54:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zVHp2alZNeEI1dmltUUlBWldIOW5BTVFpMUtvQS05RmZjU3Q4Y0F5QkFkY3hqVWhreS1XODZoU0VDVFNOYkpqb3lMNTdaZw?oc=5",
       "publisher": "36Kr"
-    },
-    {
-      "id": "auto-1e33811cc0f28f1cca99",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.10",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "四川文传携手北京同仁堂健康：探索“文博IP+健康消费”融合发展新路径",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-10T19:47:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Zcl9JanFNek54aGNKR0ttR1ZxMFVqRkFKY2ZqbGxTREpwZ1VSSTh5VWgxLVpDX3RNdnhoZzFuSExGLWJBZjNGeGZ3bUphNzFVUjZWNHNwYUNmX3lpX2E0WnlXOWhaSnIwa3V0dktiN3hUNGYzaGlKc19R?oc=5",
-      "publisher": "封面新闻"
     }
   ]
 }
