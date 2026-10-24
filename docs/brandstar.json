@@ -1,12 +1,33 @@
 {
-  "checked_at": "2026-10-23T11:33:44.899319+08:00",
-  "last_success_at": "2026-10-23T11:33:44.899319+08:00",
-  "last_content_update_at": "2026-10-20T17:36:51.910656+08:00",
+  "checked_at": "2026-10-24T09:35:18.048540+08:00",
+  "last_success_at": "2026-10-24T09:35:18.048540+08:00",
+  "last_content_update_at": "2026-10-24T09:35:18.048540+08:00",
   "status": "ok",
-  "added": 0,
+  "added": 1,
   "examined": 8,
   "errors": [],
   "items": [
+    {
+      "id": "brandstar-8360",
+      "title": "可隆携手觅蓝共建囊谦自然服务中心，推出联名公益系列",
+      "url": "https://www.brandstar.com.cn/news/8360",
+      "published_at": "2026-10-24T00:06:44.245985+08:00",
+      "date": "2026-10-24",
+      "collected_at": "2026-10-24T09:35:18.048540+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": true,
+      "source_excerpt": "可隆与觅蓝等多方共建的囊谦自然服务中心在青海启幕，并在上海发布联名公益系列，销售所得将全数用于支持中心日常运营。",
+      "selection_reason": "近期品牌动作；涉及IP 合作、社群经营、内容传播。",
+      "score": 5
+    },
     {
       "id": "brandstar-8359",
       "title": "EASTPAK 携手音乐人 CRUSH 推出限量联名背包",

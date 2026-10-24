@@ -1,21 +1,51 @@
 {
-  "checked_at": "2026-10-23T03:34:15.226528+00:00",
+  "checked_at": "2026-10-24T01:35:44.753703+00:00",
   "feeds_ok": 4,
   "items": [
     {
-      "id": "auto-adc9ed37c82559417692",
+      "id": "auto-6611ee596866e3e1ebc6",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.24",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Visual storytelling drives holiday marketing ROI - Think with Google US",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-24T00:35:29+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQktmdzRFaVNLa3hSTG44aTlQc185UGtvQ2JRcEdZUUU4S1dobFVNeGRrOFdXQUpWOS1fQ3UzWXBLTW9OYUhEcmxOdlFoTFk3ZEtNMC1tZVNvbEdkNTBicUNraV81M1EtajNtUWdwTUZxclh4eVNpMWJ1clZjYV82TXd3QjFUVlRFT2g5c01Vell4NWlWMS1IOS05Rk1uUVJhOVhzU3RvUzNVUWgwOU04cHNTaF8yR2QyNHI4eEc5clo4TFRJdXNKWG53eGFKR3NJZFpWR19FaFhKOWhfQ0R6NWtMbE5XSTZPZzVnUDJ3Vms?oc=5",
+      "publisher": "Google Business Profile"
+    },
+    {
+      "id": "auto-eb175b3e8fcd0f63d9d0",
       "kind": "hot",
       "tag": "品牌运营",
       "region": "全球",
       "date": "2026.10.23",
       "art": "meta",
       "word": "DAILY SIGNAL",
-      "title": "The latest AI-powered martech news and releases",
+      "title": "Ford Racing Launches 'How To Make A Monster' Campaign 10/23/2026",
       "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-23T00:45:37+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
-      "publisher": "MarTech"
+      "published_at": "2026-10-23T10:21:59+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnVJX0EybzVRNGVBMlI0X3F0TWVGUkNnOUstUG1JSDktNHFvMktadW53bFhnTzVHR3VmM3lDb0F4b0RNRzJDdExDYVFnbE8xN3B2bFp0ZHpMRm9FbHl5djJtOXA0b2thWVF3RXdjcWVvU2RlMWdKNFBrTFFtX01EUElIQ0lqUEozN2xFYms4TFo2ZE1rb3JoZHdJRWVWVlhDbUFpNUNOUWd3bWY5TDRuV2ZPY3N6U1lSZDJRazk4TQ?oc=5",
+      "publisher": "MediaPost"
+    },
+    {
+      "id": "auto-e16e60eb6402f98eb05d",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.23",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "《2026年假日品牌营销报告》",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T02:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FbmpWelNTaUl1ZE14UjhOblZxRHR6a1duQmFfbTN5SEVkTmhEZmhYTS1VOF9xODZZQk5NZDhhZEU4ZUdEbXl2UldUUQ?oc=5",
+      "publisher": "品牌方舟BrandArk"
     },
     {
       "id": "auto-e47ada432ee6fe4b1d99",
@@ -33,6 +63,21 @@
       "publisher": "RestaurantNews.com"
     },
     {
+      "id": "auto-04e77e3cad1379990a0d",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.22",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "双11大促火热开启，穿山甲打出营销投放与流量变现组合拳",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T13:40:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZGNKOFFsazlqVkdZT2xqRXJMQ3drb1c5QVFOSmpMLUR1bnRJWms4bDY4V20tUnptVDctN20xTkdXcWxUNHdUTHRqN1hzNERoU2F0TXlBZWFYSnJEMFRreg?oc=5",
+      "publisher": "电商派"
+    },
+    {
       "id": "auto-d38e7bc75825f1e216b9",
       "kind": "hot",
       "tag": "品牌运营",
@@ -44,8 +89,8 @@
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-22T09:36:10+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0JHMURCR1RpX1F1QXNqRFJ1NmQ3elQyVGUxQkctak9XbGU3dkMyVHFfOHU1aGJoVWNyZkRoellTWGdKWVNFTHBHNUgzNmhDbi1VT0ZqMElBX0RYQjlDcmZBdHByWFVmZkNnSkd1SWlqcTFDMDdBakdpZ3MzcExnLUZfVVZQNTBKV29jVA?oc=5",
-      "publisher": "搜狐"
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IS0dWYkNialZ3aF83bDFUWmljLWVOR3BRcU1taHk5UDZRQ1RGM3VCYkFZb3B6TW9JMUJBbmdhQ1R3U0RTYW5Tb0VxVVk?oc=5",
+      "publisher": "凤凰网"
     },
     {
       "id": "auto-3a06d955a550330fe0cf",
@@ -108,6 +153,21 @@
       "publisher": "SocialBeta"
     },
     {
+      "id": "auto-adc9ed37c82559417692",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.22",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "The latest AI-powered martech news and releases",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+      "publisher": "MarTech"
+    },
+    {
       "id": "auto-e24b11afd26d4e219f2c",
       "kind": "hot",
       "tag": "品牌运营",
@@ -136,6 +196,21 @@
       "published_at": "2026-10-21T18:40:04+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBreEYyeUpQQ1RFVWI5Y2FHZ1dLZUlSX3ZZQmZzdFlwZDdHSldPczNnZ21qZWRQWkxBWFM0Z3ZqLS10T3ByV2dZZnhoOGxsU2pEenJzbw?oc=5",
       "publisher": "Google Cloud"
+    },
+    {
+      "id": "auto-32f774e3c8fdac101c48",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.21",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Whatnot Launches Its First National Spot as Live Shopping Finally Starts Gaining Traction",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREpqQS1GTzkyanFJcl9zaUljNlZnSEN6TDhPLVFlbWVPWW16UkVrNzJrWjlUV1plUFhlRGRkM090Z3JzWXVuNUh3TldpR3BEME4yVDdTbkpROXo2SjJpNjc4cmtpdFlwdUlVeGRaZFN3N1BIMTdpUE1ENklzUWV1azJELWEtMWg5WW9jdnF3d0Q2bG01bnUzSDFubE1iQWZBTUVvbjhlZGZOSnNVWXZiZVI1TnF5TTIyWEdwVmhfamFpMUpSUGdNVw?oc=5",
+      "publisher": "ADWEEK"
     },
     {
       "id": "auto-765e4071f932080ed346",
@@ -468,21 +543,6 @@
       "publisher": "华尔街见闻"
     },
     {
-      "id": "auto-8451896c28319b881761",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.20",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-20T04:41:04+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWml5NlAxUUV2WGxaQmVSdjBod1pCSEtYcmk5Ujh4dmRGclFTdUlSUnZ1NWVsNkpqdTI2M1VpTE10S0lOT1FnXzFTWlJFa1plTFBSRG85S1Z0anVudDJSOHpScWxEM0JMamdOdFdBbWh0VUdwekVKUVlsejVpWnFWaC1ha05tUURsT1FiZmY2Z2RHaDBybXlKU3FzS2NXYzdQSkNva1JnRHlhVG92WkdiOFdzUm5KdXQyUDNSSXJWOERwQ3M4T2VuSVhZWVI5UC1lb0Y5RkVKbzA3Qy05TTFKdVJySURfc20yTUhmclNFUXptMUJZa0JzWFRZUVhnbUpqVWU0eFRDdXpKZzZJ?oc=5",
-      "publisher": "新浪财经"
-    },
-    {
       "id": "auto-d4c010d16c41e5414c66",
       "kind": "hot",
       "tag": "品牌运营",
@@ -571,6 +631,21 @@
       "published_at": "2026-10-19T12:39:09+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZkNvcDFHejFrcW1hY0ZrUENuZnM4N2I3aW5EbU1GaTZFVldYejBiVTlHdUJqb3c5QXlJZ2RrczNhRjU2R3ducWx2dE95M09EN011ak13UVdWWVVEcEtZYi0wdkNha1hLZExqeUgzaXd6TjZqaGhQUmdLTlg?oc=5",
       "publisher": "中国旅游新闻网"
+    },
+    {
+      "id": "auto-8451896c28319b881761",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.19",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-19T11:07:07+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnFDRkpmdTBlSElrdEJvNjdrMlVKNUxDRUtFTzdqbUIxUE5UUnZBLTBkbzRIejFwc0QxTmV1Y0pRMFVwaVNRQ2hEX2R4cnVSR05XNTA0V05VTGlLRWZ6TTFsbUM3TmRsMDcyWnhza3NUWnZoaTBoZU9VY3UwVmNxV1VuUlVMT3pkQXFfckpVRzFtcjBHaVhnamEtZG1PQ3RndTVoaGdla3hteDdkUUVXWlpudnlwVGQ2RkVFLXZDRnp6VnpIRTRQUGJ1WU4xNUV2RmgyQnVZa0N0X3VIQ2c?oc=5",
+      "publisher": "新浪财经"
     },
     {
       "id": "auto-4caaf0466fc5411ce2cd",
@@ -1726,81 +1801,6 @@
       "published_at": "2026-10-12T07:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15Rkk4bEhkbkJBWUVGeUc3RjNXMDZRQmt2bXdTVVE4cDRSMm9RWkJZQTQ5UnZHT2VXcWJWLWVEV0R0WXdUUGJucnRFc1pvblczellfRTdibnFQVUxxNFJ4UDl6YWdTeVYzOXRNb1FmTUR6TEVhNnZLdk9B?oc=5",
       "publisher": "Influencer Marketing Hub"
-    },
-    {
-      "id": "auto-dd27ce3a3bd289ca8350",
-      "kind": "hot",
-      "tag": "内容运营",
-      "region": "全球",
-      "date": "2026.10.12",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Best Influencer Marketing Software For 2026 [Updated]",
-      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-12T07:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05N1Z6WjhNU1E0RGE3eElPOGo0TUo4SG56V3lUTEJHR2h1OGd3WVd3dlcwOXRrWmt6OHdBTzlDUm5JWkNCVjJSX1NVaG40TUVPTjh2RGdBMm1pZTktbDFKY2VkOEk4cTNYSDZCdmE3RlQteG8?oc=5",
-      "publisher": "Influencer Marketing Hub"
-    },
-    {
-      "id": "auto-595258dc22c6706a2cb2",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.12",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "卖家如何实现销售翻倍？SHEIN年末大促全速助力卖家冲刺",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-12T06:00:01+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QOGgyMDBZZkVHeEhUaGluMUdGbWo3MXRKMm5QYmVyYnItYy0xSWcwQUZQYkFnTzZ1emwxLVoyaUY2d0pJdmc?oc=5",
-      "publisher": "36氪出海"
-    },
-    {
-      "id": "auto-198f074557b0b7fd3b0c",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.12",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "CASETiFY 再次携手 ZO&FRIENDS 推出全新联名系列",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-12T02:01:02+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ERlQzc21Ib21QTGt1UjYzVFhpcHlkcFNuZGY0M2VJcEljOEZrTzNhRDFVS192dmZUdmM0dDhob19FcXNYOGkyakNOV0pPdw?oc=5",
-      "publisher": "SocialBeta"
-    },
-    {
-      "id": "auto-2d1d22a76b03758ea7fd",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.11",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Novig expands controversial Sydney Sweeney campaign as trading volume triples",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-11T14:30:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0JmSEJpbk9oVGVvcWVTQUNiZWUtQmhSUzdvdkgwY1RBMGtRbElfTUNtX0xLeGo0T2Rnb0tFRllpMGhLWE43TTdkSnBwUGtjWVRFMkI5bzJ3YzBKbHRDTWg3UEdlOERPZGlyek5OaTBfSkxiLXl2c3Q0d1BZWGVFSnlNbGhPd3hrbHhPSHV6aXIzSms?oc=5",
-      "publisher": "Ad Age"
-    },
-    {
-      "id": "auto-8413ffead326dab6bc99",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.11",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "观夏联名泡泡玛特，千元买蜡烛值不值？",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-11T12:54:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zVHp2alZNeEI1dmltUUlBWldIOW5BTVFpMUtvQS05RmZjU3Q4Y0F5QkFkY3hqVWhreS1XODZoU0VDVFNOYkpqb3lMNTdaZw?oc=5",
-      "publisher": "36Kr"
     }
   ]
 }
