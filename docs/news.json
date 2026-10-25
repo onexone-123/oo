@@ -1,7 +1,22 @@
 {
-  "checked_at": "2026-10-24T03:28:16.192097+00:00",
+  "checked_at": "2026-10-25T01:34:43.371989+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-2e44f7c0c3c378106a29",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.25",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "打造新模式、新资源、新场景，上海时装周联动全城首发首秀，拉动消费超5亿元",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-25T00:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12b1hmWGNhX1NlUlh2aTMxeTdHVGFHTVA3VENhOWZwaW1paHR1Z2cybWE2ZWpLUl96aWVMTjFDYlU3R3IzVXlMcS14Q0NxSnlfOUxmblI1REJnajRnV1E?oc=5",
+      "publisher": "上观新闻"
+    },
     {
       "id": "auto-6611ee596866e3e1ebc6",
       "kind": "hot",
@@ -31,6 +46,21 @@
       "published_at": "2026-10-23T14:21:14+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnVJX0EybzVRNGVBMlI0X3F0TWVGUkNnOUstUG1JSDktNHFvMktadW53bFhnTzVHR3VmM3lDb0F4b0RNRzJDdExDYVFnbE8xN3B2bFp0ZHpMRm9FbHl5djJtOXA0b2thWVF3RXdjcWVvU2RlMWdKNFBrTFFtX01EUElIQ0lqUEozN2xFYms4TFo2ZE1rb3JoZHdJRWVWVlhDbUFpNUNOUWd3bWY5TDRuV2ZPY3N6U1lSZDJRazk4TQ?oc=5",
       "publisher": "MediaPost"
+    },
+    {
+      "id": "auto-05de4d9b237b28181159",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.23",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "成都传媒集团、成都传媒产业集团产业生态合作对接会在京成功举办",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJTzBlMXhhWHpBWGNWZXV4ZDhPeVZhZmVxUFRRYjA5NHl3b1Zwd2h0Wldpdmxmal9JRVhHX3hFQ2hzTTBuZk03T0tDTUdRN1NOd1lYQnhZdGc?oc=5",
+      "publisher": "经济观察网"
     },
     {
       "id": "auto-e16e60eb6402f98eb05d",
@@ -76,6 +106,21 @@
       "published_at": "2026-10-22T13:40:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZGNKOFFsazlqVkdZT2xqRXJMQ3drb1c5QVFOSmpMLUR1bnRJWms4bDY4V20tUnptVDctN20xTkdXcWxUNHdUTHRqN1hzNERoU2F0TXlBZWFYSnJEMFRreg?oc=5",
       "publisher": "电商派"
+    },
+    {
+      "id": "auto-5ba0dcfba3eec644c2f5",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.22",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Market Minds Creative Launches Mindy's Market Launch for Simpler Ad Campaign Management for Startups and SMBs",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T13:34:02+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY21BbklwSWVyd1dyUjFSRHVJaXRLTi1yRUdSWE5iUjBFbFZELUxKX0VzNjlLU1I3NlRUTUpldXpkeVBoYTFhTUgyQk1VVFlfamk1NjdNYUZtZjduVEt4VVp3bmI3akUzckF2aEp4ZnVxQTlxVXhvVkIxZTZLNlNyMmE0RWg5Uk1fdTRoUzJZWmZ0UXc3TGhNb0NnTVJpOGRGd3FCdA?oc=5",
+      "publisher": "Digital Journal"
     },
     {
       "id": "auto-d38e7bc75825f1e216b9",
@@ -168,6 +213,21 @@
       "publisher": "MarTech"
     },
     {
+      "id": "auto-cd3a173bc7b000d2e43a",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.22",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Stagwell launches agentic AI marketing platform",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T05:13:09+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUJNQ3ctUDlJWDNUaHAtZjc1LVVnWHZCQVZ6eXFoelZNZGdMNjVZMnl5OTFZN3ZYMXhQMXJGZlNhNWVmcERXQ25NS09nWFpLWERTWkhjM1JCWHFZWndKRzg2MTZLaGQ5SUJhMDRTd2VRVVl1SFFZcVBsaXpzSkRWYkpmM0RIdFNMYzNISjhYRUlYMm5NVXppTl8yQXhaUQ?oc=5",
+      "publisher": "https://marketingreport.one/"
+    },
+    {
       "id": "auto-e24b11afd26d4e219f2c",
       "kind": "hot",
       "tag": "品牌运营",
@@ -181,6 +241,36 @@
       "published_at": "2026-10-22T03:52:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Sc0djeVRsNmZMNXdOVVVLa2NGYmdNUTJpalBzS09yQjBOWWptY1kxSmZ4UkV5enhXWEp3NHU5c3BQMnI1WkY2MzYwdlhna1VOYnZrUnhILWx6MGNa?oc=5",
       "publisher": "上观新闻"
+    },
+    {
+      "id": "auto-3e9a0433fe5b3bb2ddf2",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.22",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "SMILEY亮相CLE上海授权展 开启30周年庆典序幕，携手多元IP开启全新合作篇章",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T03:17:08+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oMjB1aVI5WjFmTjQxRFZzR1UwNnlfdkRpVGdlYmlzckhDaVBWeGdneG5LenhyM0pDQnAxQ1Y2ZVY5TDI3NGR5TVhaS0E?oc=5",
+      "publisher": "凤凰网"
+    },
+    {
+      "id": "auto-db41d6cfd96dc12092c4",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.22",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "第115届全国糖酒会｜安盾网作为展会官方知识产权战略伙伴，全面护航糖酒品牌 IP 资产",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T01:48:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JaEE3d2h1UHozcVZ0YzJ3UFVVMVpYOVpKYk1PcFIzenRFbG5PSXhja2xIVTFDM0dpemU5NWpZNmg5N1R0X1I0Y09rVDdfSFI0dGs1OXNBLWpqaTNXQ3dPS3R4MHgwd1owT1B4eHVTUGJmTTkwRTMzOHBybG5MeTA?oc=5",
+      "publisher": "新浪财经"
     },
     {
       "id": "auto-814dc5533c7f73d4b9bf",
@@ -256,6 +346,21 @@
       "published_at": "2026-10-21T11:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hFQ05DRFlJYnlXc1NVVzE4UFh6cUlUOHptWWQ0cEJ4TUVkbWpHWVBibWhqLTg1TU53aGhrS0ZObEpqVE9uRlpOZ0JGeWVfN3RJRUZWR1BVZEtfOVNseHNGV2xaVktPTmI1MFZfN2RIZUV5LVJ3aG9hMl8xOEMxcVFReUFTemcwZ0FqWmh0RUM0bE1EWjV0eDBoS3hPNzIwSDBkeU83QQ?oc=5",
       "publisher": "Business Insider"
+    },
+    {
+      "id": "auto-b597af58f601f01f54cd",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.21",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Lufthansa Group launches first consumer campaign for umbrella brand",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-21T09:48:02+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHl0dkdYWEZNNTNoNmgzSnUxcVF3aldhWGpnc3JuRTl1c3lHLUY4WlZxc1RMRURGYVVZcXRxU3h6NUF5bzJXWllZRU5JdzRWbmE0c3ZkLUFqaG1vVVFjUWVfRFlXNlotM2xEUkVHOVBJY09QVFFyLVY4Q01zMk04MzdNek9GUFoyMTllb3RncWg2eWZseEgwMDdOaHFmUmtGNW9XeWV5cllfa0lwc1FEc2s2RmtjS3RIVWJJ0gHAAUFVX3lxTE5nN0dneW9KRkhpVU95LUlCRjBXalYtU05SQ3FDUjlXajJwazZoWS05VktHNThpLU9DNmVuMm1FV3R5Sy02QldSd2w1eHl2VUdLb0dLemlFZ1BIN1FIcHo2UzhrbnZBWkkwS3V1U1RTRlNLQ3phV1ZkVE1CYXg3TVpUR3Q1WngyUlhMS2NmWkhVb2xiZDg2SnJaSTdkUlFKRTBfWlplRDJiSnJST2c4WnVEaUdadERlWVdIVldYWVI1UQ?oc=5",
+      "publisher": "Aviation24.be"
     },
     {
       "id": "auto-2d6392a5910419cef5e1",
@@ -418,8 +523,8 @@
       "title": "Roster Adds TikTok Creator Discovery and Spark Ads, Giving Social, Brand and Paid Media Teams One Platform for Creator Marketing",
       "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-20T13:19:35+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYkpOcUpUQXBtTm90Y1FWTTZtVHBQbDlHc0pjMkRzMzEyZ0RMcjhoc1pmTDB0dTFmS3JCT2VnbkFwOWJzYmc0LUF6Z3AxSnpXM1dyWW4yZkJYekYtcC1HQ2FVbzZLSXotTmt2T0FoRUxjZzlPbGVSN3VaRHVPUE55R1dLUW5uQlZnaGI5NHpfSUYyLUVwdm5FQjJqSUtJUklkRWJCd2tTM3JQSk1GRGcxRUNsWmhxS2JUQm1HYUN6bHZ3bU5mNm9jWnM0VHNiMkt3a29RenhZUHp0dXlKbDY3WllZNHRtbW9aUDJKb3d5akk4NVRMRTBha3pHSTRpcmhBUjNud1dQUVBNazQ?oc=5",
+      "published_at": "2026-10-20T13:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPazNmSzF6Qkh6b0tibFlObWdJS3NVQmFJQVRwZUpYLVd4eENlVVp4eXRZNm90eGZpZWtqb2Nncjh3NUh2Y3ZZMENXZk1vRzVyV2tPZ3JncjNRQVJ4ZFk3b1pzSk4yR0NNWjZkX1h6VlhIVWw1eDA4VVQxNGFkMVpEWTEtVHRoQlBva28zbmJPTXp0OG5DVTFhMEp3NVBaRUVHOGdjZDE5cmdWeHpwc0o4bHdwYVk1VUVpZC1MQ0dlUkxVdTVpOXJKV2xTYkR5SjNQb0tUc2pXNEdHNXRoR21hMlZ6UzRxNHhUeG5KcHprakNkRFk0VHpuVy1nY0FBVVlRNUJSdFd3?oc=5",
       "publisher": "The Herald Journal"
     },
     {
@@ -558,6 +663,21 @@
       "publisher": "华尔街见闻"
     },
     {
+      "id": "auto-8451896c28319b881761",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.20",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-20T04:41:04+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWml5NlAxUUV2WGxaQmVSdjBod1pCSEtYcmk5Ujh4dmRGclFTdUlSUnZ1NWVsNkpqdTI2M1VpTE10S0lOT1FnXzFTWlJFa1plTFBSRG85S1Z0anVudDJSOHpScWxEM0JMamdOdFdBbWh0VUdwekVKUVlsejVpWnFWaC1ha05tUURsT1FiZmY2Z2RHaDBybXlKU3FzS2NXYzdQSkNva1JnRHlhVG92WkdiOFdzUm5KdXQyUDNSSXJWOERwQ3M4T2VuSVhZWVI5UC1lb0Y5RkVKbzA3Qy05TTFKdVJySURfc20yTUhmclNFUXptMUJZa0JzWFRZUVhnbUpqVWU0eFRDdXpKZzZJ?oc=5",
+      "publisher": "新浪财经"
+    },
+    {
       "id": "auto-d4c010d16c41e5414c66",
       "kind": "hot",
       "tag": "品牌运营",
@@ -618,6 +738,21 @@
       "publisher": "citybiz"
     },
     {
+      "id": "auto-f834a968b9163b5a4263",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.19",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "GTA 6 Marketing Is Turning Miami Into Vice City Before Launch",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-19T13:39:15+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbW9EckxfTHZodjY0YXVyMmEzRGR6d29MMWdmdjd4eE16RDJwZnY4TElSbm40XzVXNHpSWUJYYVFzUmxubmN5dzVYZzlvWnc1em40Wi1jRjJwQThlT0J3ZTNGRWt1a09NZ0ctb2hVcWxqQQ?oc=5",
+      "publisher": "VICE"
+    },
+    {
       "id": "auto-1684458a1f8c17a0ed1e",
       "kind": "hot",
       "tag": "品牌运营",
@@ -646,21 +781,6 @@
       "published_at": "2026-10-19T12:39:09+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZkNvcDFHejFrcW1hY0ZrUENuZnM4N2I3aW5EbU1GaTZFVldYejBiVTlHdUJqb3c5QXlJZ2RrczNhRjU2R3ducWx2dE95M09EN011ak13UVdWWVVEcEtZYi0wdkNha1hLZExqeUgzaXd6TjZqaGhQUmdLTlg?oc=5",
       "publisher": "中国旅游新闻网"
-    },
-    {
-      "id": "auto-8451896c28319b881761",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.19",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-19T11:07:07+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0JyZUMtVWw1di16My1XaDJyTkEwMDBSeXlELTZVbksyMXJOSXotTEk4bEExLW55V3h3R2VkeWg3ak9YcmZkYjI0akROM3hUc1dNR3FtOHNiSFVfbDVTYUVNT0ZzajRWd2xRYkFIN093OE43SDR1bGNGdXN1MmFfMnB2OWlub0N0ZDBWLTdobTlIcXAwWW4wVUthMVpSOHVmdmhzS051dWxNTlBIMmU2NGtleTNCODg1TTJUTFVvazlkUzdHejJ1NlJNTnBmOU9CUnNXbDBFQUdBOXJI?oc=5",
-      "publisher": "新浪财经"
     },
     {
       "id": "auto-4caaf0466fc5411ce2cd",
@@ -1681,126 +1801,6 @@
       "published_at": "2026-10-13T09:02:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRlJiLUpYQ1JRNVRraDFHVDUxa1B1Y1phdERrZWxheVRlNVY0Wk1LYm50TnAzQ1M2aEpiMHpOeGJVc2k4STVDMlJSZ09Ob2FrdUI4OFZIZGg2N3ZQdkdJdUllc1BIdE0xQ2NKRGVKdjlNQXhwSVR0UjcxR0R2NnF1UUhkX01zby1veEJuM093OFRoYk15TzVuc2EzYTBpMHJ4Vm1VZng1SGhmUUVtLU9DSlBQd2lhVUZFcGtF?oc=5",
       "publisher": "Ad Age"
-    },
-    {
-      "id": "auto-83b139a10bab3219e0b0",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.13",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "String AI 参加“才聚荆楚·创业咸宁·创业导师服务行”活动",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T08:54:17+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XbDlhUGZoT1RvZXpUWDB5MFVwRjB4Tllvdi1aZGhWU21VeHhMZE5BQ1gyYTBGeFYyYkdDc3k3WGZCOHpnYWlvY0ZZOU5KSkZYZ1dVdkRaZHRFaFhsa1E?oc=5",
-      "publisher": "中华网"
-    },
-    {
-      "id": "auto-39c2ec44e6061f3a5664",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.13",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "科诗澜携手Lazada签订50亿元代理销售合同 正式入驻东南亚旗舰电商平台，开启品牌全球化发展新篇章",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T08:14:11+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRcTJjWFVUeDFLcmtfeVpwWUt4NnZwOU05dlZSYUM0U3pxeXN0LUZoMnVQRVByR2VLdlJrUDlQRDVpSVJNUU5HTDQweWlnT1JsNExFTUpEVlZUMl9Fc0xCcFduWTd5QQ?oc=5",
-      "publisher": "济南新闻"
-    },
-    {
-      "id": "auto-4a662ec712164540cb4c",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.13",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "接住“泼天流量”，更要守住“服务初心”（纯人工）",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T06:53:13+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Vmc5d3czcjlTaVhZaHQ1QTdIcWdOVllTLU5FZC1hNnZWU29lYUZLSXRlUE13aWM1Z1pnWjM1dDhEelI3QlJzYkJyUDB2T3NFN1V1aEVwRWpHVnNWUzVMQlItS0MzbUpOMGhlU1lSQzFtcnM?oc=5",
-      "publisher": "潮新闻客户端"
-    },
-    {
-      "id": "auto-ec7a027922bf52d4423d",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.13",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Monzo recruits Olivia Colman for its biggest ad campaign yet – but did it make an impact on the public?",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T00:19:22+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWFU3OTZDSXgxdy1SSGc4YnpIY0FXdWhWeGw5bk5rdjZvTjN5X2dwYmR1aTc1aURRMWlBd2V3cnI3ZVRrbkVQOGRHQ1IzcWZXOTBjX2lTZG5RRXZjLXFtdUFjNElTV01nZDBlOE9GS2hJcDJwd1RDRVlMeUQ2YnN5QXJXOFB1R3lwamtjbFU5TlB5RUM0Y09Lc3BjLXEzZ0gwXzlERUZBZUkxS245TzhIWDdTMTBqeVJYMGJ6akw1THpNODg1U1k3RnF3em5DREJGS093V3ZYUQ?oc=5",
-      "publisher": "YouGov"
-    },
-    {
-      "id": "auto-0eaadd6bc67f45e35a9f",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.13",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "利用生成式人工智能实现超个性化：大规模打造一对一客户体验的完整指南",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T00:16:07+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45V01QemhZbFdNcGhPMTVJdlR3MjYyaDhzX2M0UUtKaFVKNG1zZGw1ZndKV3U1eWxBTlF2Skt6WnktbjFfcW96aWZSSlVhenN4YnNENnktWkhYVldHSDBqX194TFR2R1JQZzRoS0MyRXFhVGprWGkwdC16WmhtdkE?oc=5",
-      "publisher": "ALM Corp"
-    },
-    {
-      "id": "auto-934a747c68f695725447",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.12",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "10月13日电商早报：亚马逊美站仓容告急排队超25天；TikTok西班牙卖家破2.1万",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-12T22:08:44+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10bGpPTmN2SjlJMnhqb3Y0RkpLcmtNQXREejQ0R0kwd2VHMlJIWUVwcm1STWdjTXdKWU5rVDd4UnMtdWhNUHRfSERzbjhRb01xcWh3WTBn?oc=5",
-      "publisher": "亿邦动力"
-    },
-    {
-      "id": "auto-e72f7123052ca274b6fd",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.12",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "冰雪大世界和迪士尼联名了 IP合作推动产业升级",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-12T13:21:39+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yQmgtOEVzRW1tZlhUaTNXQlpmcng1VTVGY3VUdVVyYnEtQTBjSUZDY1pocktBUUFwNmhWS29KZTFKVmZmcWVuTVREMWtaaFBOXzdXVXJLWk9CWXEzY2dtU01tTUxfekpZelREcnNjSUM?oc=5",
-      "publisher": "中华网"
-    },
-    {
-      "id": "auto-ca9dcad12db6d0f576fa",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.12",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "安盛天平获淘天平台“卓越共建品牌” 奖",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-12T09:42:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90cDRyX3lobVROM2dBTGtpMzIxS0k5OHpoQUM5RDNjZG1adHhwRGk4cE9vOUpkRnBQX0kwSjQ1TkV1TlY5dWxad3dvdDFTbVJHT0dDalZwdw?oc=5",
-      "publisher": "美通社"
     }
   ]
 }
