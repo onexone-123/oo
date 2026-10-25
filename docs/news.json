@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T01:34:43.371989+00:00",
+  "checked_at": "2026-10-25T03:24:08.273243+00:00",
   "feeds_ok": 4,
   "items": [
     {
@@ -16,6 +16,21 @@
       "published_at": "2026-10-25T00:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12b1hmWGNhX1NlUlh2aTMxeTdHVGFHTVA3VENhOWZwaW1paHR1Z2cybWE2ZWpLUl96aWVMTjFDYlU3R3IzVXlMcS14Q0NxSnlfOUxmblI1REJnajRnV1E?oc=5",
       "publisher": "上观新闻"
+    },
+    {
+      "id": "auto-93323adba051f73410ea",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.24",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Visual storytelling drives holiday marketing ROI - Think with Google AU & NZ",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-24T15:48:56+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnFKOWQzWDU3emI2aDZHdVR5eUJlNkdZYm1ScUVVdTRucDNzU21PNW9iR0ppSHdZaXRiM2NSOUJEMkxSXzJha3hFanY1WU1HRkJxZllIM3NaSGZ4QnhRZFVfWGEzS3huUzJyTzNPNlQ1YjZxaXl6czFQLUZPRVk1MGZCcWJ3QTdPMnhzUnBlQ05MVGt4UDhIU3d3dGgwc1k?oc=5",
+      "publisher": "Google Business Profile"
     },
     {
       "id": "auto-6611ee596866e3e1ebc6",
@@ -436,6 +451,21 @@
       "published_at": "2026-10-21T03:51:02+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcWJKdXp5SWwwdGM5OTVzX3VqWVBjUkItMmdDNm9rX25tZ09la1h1a25zeTVacWpwdC1Lb01kVnJqdXgzSllrVmx5Y2diMFdfZlNkN043ZC1PajFVMi0xcGN3MjlOQmRDZWowMl9GVjJ3Q2c5UTdFVTZGOHUzQms?oc=5",
       "publisher": "China Daily"
+    },
+    {
+      "id": "auto-4b1115a957fccad622d9",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.21",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Digital marketing 101: How to get started and grow",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-21T03:33:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tTW9QZ1A0WS1wV21WWnh0QkFEWG5HVjNpUTNJdVBBLUNHZUxMSXVnQndsekJmM3hFb3pjajJrNURhb0tvLU1ZcWxIQXYwQ1BIZG5JekZoX3FZdkt1YjVpR1NB?oc=5",
+      "publisher": "INQUIRER.net USA"
     },
     {
       "id": "auto-49b650b173cdad78151e",
@@ -1771,36 +1801,6 @@
       "published_at": "2026-10-13T12:36:20+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTTnctVE9iVXVPX0J4ODI3dUQ1WS1oWDdCenlkak5Nb0pKaWVrbW5SVWhpNHdwaTFqOUtRU2tYYkdtanlLaVlsZExWNXM?oc=5",
       "publisher": "雨果跨境"
-    },
-    {
-      "id": "auto-a651c38ccf12e99976d0",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.13",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "The 'Big Ass' shift: What Chipotle’s newest campaign says about brands getting real",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T11:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVh5RS1JVFhYWENIQkVzNFVLazhJMTdWeXNSOFlHamNBVFlCNEZOSlVMVEhKcnQzSWhFaHA0VEU1MWZoX09XZFBDVzNsbVFGSzhRb2djRjlhbFBlWGo5M2E3aVkxSjU1aXBMeC04d0JwWmh6ZEJwZmFOa21NT3M0dWZ2UHo1dnd1ZzdETW8ydGJlR25nVlVRNklkSVQ1M3lfRlBPOUV1aTgxdWZOZ1J2RWJ6WQ?oc=5",
-      "publisher": "Fast Casual"
-    },
-    {
-      "id": "auto-7ee0ad1ce71a5839f776",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.13",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "3 strategies marketers can borrow from creator-led brand playbooks",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T09:02:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRlJiLUpYQ1JRNVRraDFHVDUxa1B1Y1phdERrZWxheVRlNVY0Wk1LYm50TnAzQ1M2aEpiMHpOeGJVc2k4STVDMlJSZ09Ob2FrdUI4OFZIZGg2N3ZQdkdJdUllc1BIdE0xQ2NKRGVKdjlNQXhwSVR0UjcxR0R2NnF1UUhkX01zby1veEJuM093OFRoYk15TzVuc2EzYTBpMHJ4Vm1VZng1SGhmUUVtLU9DSlBQd2lhVUZFcGtF?oc=5",
-      "publisher": "Ad Age"
     }
   ]
 }
