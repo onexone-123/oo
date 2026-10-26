@@ -1,7 +1,22 @@
 {
-  "checked_at": "2026-10-25T03:24:08.273243+00:00",
+  "checked_at": "2026-10-26T01:35:39.033622+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-00734e70633b3ab68dbc",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.25",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Visual storytelling drives holiday marketing ROI - Think with Google CA",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-25T07:08:13+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGp6cjZIRjJEQnMzdW1DMW9KTVBBS2lBeHlWU2JXWlUydGpqM2tWbm5NQUtYVzY3SzMwMkRTQ1NWT2toa1ExZ2F4T05MOEZPRGlzdVRub1N1aFhnek9LT3ZHS0poVlpuZGV3RG14cG9CZEMxWEFpVzExVi1rU2UyOVRfc0g4LXpzVVkxVkJlN1pobmtSc2F3UE9Qb09QSDVW?oc=5",
+      "publisher": "Google Business Profile"
+    },
     {
       "id": "auto-2e44f7c0c3c378106a29",
       "kind": "hot",
@@ -14,7 +29,7 @@
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-25T00:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12b1hmWGNhX1NlUlh2aTMxeTdHVGFHTVA3VENhOWZwaW1paHR1Z2cybWE2ZWpLUl96aWVMTjFDYlU3R3IzVXlMcS14Q0NxSnlfOUxmblI1REJnajRnV1E?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wLUdrMnI0QVlRdmZyZVlJUGZGWWJjUUhoR0FUQktWNWdsX1JDLVNQc1kyeVp1TW5IMm9nX0ZpSS10SnlSbGdoUjh3anlBcDhnOVNsZnBlSHZDQQ?oc=5",
       "publisher": "上观新闻"
     },
     {
@@ -63,6 +78,36 @@
       "publisher": "MediaPost"
     },
     {
+      "id": "auto-4aa65bb66c94b9bbfbc0",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.23",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "四秩风华启新程 2026中国玩协四展亮相上海",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T10:37:23+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2lmMjRFOEd1VnBxSXVZNW5sTWI0aWJrVVlrZGItN1VEcUgzaml1NlZ2UjQ2X3k5VUtTQmNDYVNrM1FEUW1KV2s4aXNBWFF0WnhhS1lDajJ0ekxGekttb0k0YlNxaVB4aFB0d1huRVQwYVpIV21IcFBlV2ZETUZtTnFJc05HQQ?oc=5",
+      "publisher": "新华网"
+    },
+    {
+      "id": "auto-bd3850b9641203a00f16",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.23",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "科技品牌与潮玩IP加速跨界联名，2025年中国IP授权零售额达1798亿元",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T10:20:33+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56VmlfZ1plbTk0VVFCVXRySzNzRTlldEFLMXBsazdCQlhnRVdGdTFmUTJHYnpOc1dsZ3NIVDhoTFhmQzlWaFdFd19TcUtUZmdZTjNxeA?oc=5",
+      "publisher": "虎嗅网"
+    },
+    {
       "id": "auto-05de4d9b237b28181159",
       "kind": "hot",
       "tag": "品牌运营",
@@ -76,6 +121,51 @@
       "published_at": "2026-10-23T07:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJTzBlMXhhWHpBWGNWZXV4ZDhPeVZhZmVxUFRRYjA5NHl3b1Zwd2h0Wldpdmxmal9JRVhHX3hFQ2hzTTBuZk03T0tDTUdRN1NOd1lYQnhZdGc?oc=5",
       "publisher": "经济观察网"
+    },
+    {
+      "id": "auto-2e09d08b49fe95c7219c",
+      "kind": "hot",
+      "tag": "内容运营",
+      "region": "全球",
+      "date": "2026.10.23",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "30 Best Side Hustle Ideas To Try in 2026",
+      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTXQ5YU9fYWZDUzlNeGZ1bGVsVWFjbUtoZkxFSFNxYnBsTTVUZXVIVEU2QklCV2VYMzNkT2tNS3B1VUEyNmRYdWo2SjdoRy1EcGc?oc=5",
+      "publisher": "Shopify"
+    },
+    {
+      "id": "auto-d8ed1278200398ae3edf",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.23",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "上海市人民政府新闻办公室",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T05:35:34+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQk9UM3dOY3psSTBwcXByWUtXUUZFcHFKVGlaUzNDODN5WjFYaFpPY1dldy11RTUtT3FUY1RqWHgwbDV6a1I1UEhqMG5LOUFSN2d2VUd4SWJFMzRkN3hFano2UUwzcVVLc0FsZ3Z1SFRQaTRENzZpOUdxazBjYkhrY09mdDljQS1KSkNic2Q4ZHIzM05SQVpXQnZ0WQ?oc=5",
+      "publisher": "上海市人民政府新闻办公室"
+    },
+    {
+      "id": "auto-5ffbefe417aba0724c22",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.23",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "2026 Marketing Leader: Kathy Forrester",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T02:19:51+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm5kLWd6ZVM3UEpUdXFCdTFvRzktTm5jZG1WNG1uRFBrcXdzQTU4WTVSTlRiTDhUOEtleEZ5ak5lSGtoRXUzemtPc2cxaTQ4bkFoeDdCR2ZBSlRIcC1FRXpkQnJUdTY0eDlKSjdnZTUxa1ZvUmdOYVZ1M0xVdlR5ZFpyWWkzUHpS?oc=5",
+      "publisher": "HousingWire"
     },
     {
       "id": "auto-e16e60eb6402f98eb05d",
@@ -138,6 +228,21 @@
       "publisher": "Digital Journal"
     },
     {
+      "id": "auto-80232a9ac8d739582939",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.22",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "IP联名，AI对话，展会联动！数见苏韵·家门口看大展苏州站落幕",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T11:21:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5seGhoVjJ5SGRQZWhHV015Q3FoZTJZbUducmxfR3NUWTdobFBiZ09xRm12TXBKWEVwbWIyMnpHdDdDSWhhX0xRejRrcE0?oc=5",
+      "publisher": "凤凰网"
+    },
+    {
       "id": "auto-d38e7bc75825f1e216b9",
       "kind": "hot",
       "tag": "品牌运营",
@@ -194,8 +299,8 @@
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-22T07:52:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0duTUlQSjJsdFpzZHNrcXZfN2RGZ1AzYnE1RDNBd0tBUjFaNGM5T3BZc3E4bFJLSmlTOExWSU9iMTFxTGVUanczZFVKaVNiVGg3UDFvMmtnQmZ0ekJPanprWHhBdTVGQTJXcHJTN1ppZVVBeUlHWEpmZ0l0U0JfbTdEYnNRdHBJ?oc=5",
-      "publisher": "搜狐"
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51Y0JMS2FoNHBXajZTQTJqd3l3enNmRWsxckVFeThvNkpCNVBYZ0Z6VGZuS1pJX09TTXk3VXoyTjBQbmNIVGRYb0VQdmhkREFWTEl6ZGZZTnBvV1ZUcWd4a2RFSndlOUE?oc=5",
+      "publisher": "搜狐网"
     },
     {
       "id": "auto-7fcb5725d3dffac0e52c",
@@ -211,6 +316,21 @@
       "published_at": "2026-10-22T07:31:51+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92VVdUc1J1QkhRRFZpVWtrbE01TWd0eXpnU1ZXMjNOWGI0RWhBeTF6b0QxaUVXY0E0UVRWV3dyWlhYQ3VIOVpvclNzYkF4UQ?oc=5",
       "publisher": "SocialBeta"
+    },
+    {
+      "id": "auto-db92fc55bfcda1ebb5d3",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.22",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "回力也是出息了，居然找了王俊凯当代言人",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-22T07:09:57+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQkdoSE5NMW1DZnBBT0Y0R0hRQk1WdmJGVHhPcy05LVRhcjNudnBtTDFhZXc2bjRTWUJnSUtRT0stVTRqRUdXTXpqWVBNZm0wNVFCekZIemhEa2xmQlY5bWp3TUxRQzREazBfM19KR0lraHJsMEViLUE2U2NhekpmaDM2SG5nN1Z1VVE?oc=5",
+      "publisher": "广州日报新花城"
     },
     {
       "id": "auto-adc9ed37c82559417692",
@@ -693,21 +813,6 @@
       "publisher": "华尔街见闻"
     },
     {
-      "id": "auto-8451896c28319b881761",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.20",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-20T04:41:04+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWml5NlAxUUV2WGxaQmVSdjBod1pCSEtYcmk5Ujh4dmRGclFTdUlSUnZ1NWVsNkpqdTI2M1VpTE10S0lOT1FnXzFTWlJFa1plTFBSRG85S1Z0anVudDJSOHpScWxEM0JMamdOdFdBbWh0VUdwekVKUVlsejVpWnFWaC1ha05tUURsT1FiZmY2Z2RHaDBybXlKU3FzS2NXYzdQSkNva1JnRHlhVG92WkdiOFdzUm5KdXQyUDNSSXJWOERwQ3M4T2VuSVhZWVI5UC1lb0Y5RkVKbzA3Qy05TTFKdVJySURfc20yTUhmclNFUXptMUJZa0JzWFRZUVhnbUpqVWU0eFRDdXpKZzZJ?oc=5",
-      "publisher": "新浪财经"
-    },
-    {
       "id": "auto-d4c010d16c41e5414c66",
       "kind": "hot",
       "tag": "品牌运营",
@@ -811,6 +916,21 @@
       "published_at": "2026-10-19T12:39:09+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZkNvcDFHejFrcW1hY0ZrUENuZnM4N2I3aW5EbU1GaTZFVldYejBiVTlHdUJqb3c5QXlJZ2RrczNhRjU2R3ducWx2dE95M09EN011ak13UVdWWVVEcEtZYi0wdkNha1hLZExqeUgzaXd6TjZqaGhQUmdLTlg?oc=5",
       "publisher": "中国旅游新闻网"
+    },
+    {
+      "id": "auto-8451896c28319b881761",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.19",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "“纯过日子”重塑电商增长逻辑，分期乐商城以三大举措顺势而为",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-19T11:07:07+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2VoLVBqUkdyUTNzMjdvdG91amV4Unp5bU1mUHNKZS1GOWFURFVoTnNUU2NOcHh3OFNQRTg2dzc5SkNDZ2puNWdlMmxTekltcDJ5RlVuYzBFSmI3bTNoNXpVdzZqTGxfdHByMXZaQ0xqcHZ3ODZhbE4wdlR3X0xtY05mb2g0TVFRUTBORWltYlBrX0lJMlJJUFhkdDU2NU5XaHJxbTA1S3o4Q2VJRks1V2FPM3dVcW1DTGRpMzVqQWFjUmF5UTFmem5EMFpEZGhpN1psa2VHZU5PNVBGVkE?oc=5",
+      "publisher": "新浪财经"
     },
     {
       "id": "auto-4caaf0466fc5411ce2cd",
@@ -1681,126 +1801,6 @@
       "published_at": "2026-10-14T04:01:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTUxTkVpc0hYRGU5Tk9wZW8taFVHVjJ0SHRqbm9UdnJWUkx2S05zY09mT1VNZnFlLTZBZTdYWWQwQjBvcVVTTFMza2VNM0FEdklDTUdvZlR6OW5kVkt6aDJLdGJ4TFZ2RzZBNmJ2NEY3SU0tT1k0ZGlzZ2dvaThTSF9RaU9DVDhJX3BSTjdDekQtTFNueVE2akkyUmo3YlJIZ1VRZ0JaWlh5Tzg?oc=5",
       "publisher": "Yahoo Finance"
-    },
-    {
-      "id": "auto-1800e1cbbfc6d2d88216",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.14",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "迪士尼不赌爆款，它提前18个月安排一切",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-14T03:09:40+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblBqOXo4Rm9OTnY0MWJUYXlpRGUyNXFZLTBSRUFnMmwxZV9GMGtyYUN6dTFfME8wcDVJRk5MY19meUJWVjJOb2JHWjdhNUxzUFExYWlDcVcxWHJoWW1QVjhxU3B1dDE4TnZkaExROUxwd2VOTzItRENlc1JSTGJ2dWlYbXJiTDIzdVhPeHlxRQ?oc=5",
-      "publisher": "21财经"
-    },
-    {
-      "id": "auto-0113bbad396c42f2cf68",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.14",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "一张小卡炒到上万、快闪首日220万：K-pop如何把中国商场变成情绪提款机？",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-14T03:08:24+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uYmFCQ2FTdnVJRUVMUl9rQV81enRVYkR3cV9pd2lqbTItazVVcnRUZERBVzN2d194Z1NnTFFCTlZDTVZlb0ZWZWRzNUZNb2RVU1ZjVQ?oc=5",
-      "publisher": "CBNData-第一财经商业数据中心"
-    },
-    {
-      "id": "auto-a55b597675ce942c67ca",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.14",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "高星标准下沉县域，雅斯特酒店用赛事服务能力验证文体赋能投资价值",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-14T02:41:02+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GRld6cWdNQy0ySVZuOHRYcFVqZVJ6eE5uSTc3MTRURFRTMHcxaHpqMXgtUW94VmVPNXNpSG1TTUZyS3hIbFhNZGRRaGJGQjF4QUF3NEM3Rk02M0tDbnc?oc=5",
-      "publisher": "中华网"
-    },
-    {
-      "id": "auto-c1b1de6ab2215145babd",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.13",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Being chronically online is part of the job description for this top influencer marketer",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T18:07:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTVoM1FkcTdGQmFTczNKdld1UHFnaHRWYjZVRXgwMElDUWlwT3cxRzVJbVh6UjUxeU1lamFIVjRGb2c3UktvY3QxODYxTE5UM2lUSlFTSmp4SEMxUVJac0Y0TjhsNFg5UC1mdHNjcm9XT1EzRXdJeUowR0xERm9XdlpuaXlMQV9BRDVnYVVHQ0VQQ0RXLWduVmhieUpYZDRKVmFydUxOWGFOUQ?oc=5",
-      "publisher": "Business Insider"
-    },
-    {
-      "id": "auto-3491f33df5d3c054d457",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.13",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "WWD国际时尚特讯",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T14:54:08+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lVWNadkNsSktTRjRtMUZLSzVYNDF6ZUgxcFhVOHcwa3U5LV9FU3BKOUxxSHNoVW1TUlI2RmJqMWhRNTF0c3VZY1MtQTFSVkl0RTlEaTdiMi16VHFJV1FtcnQwa3N0SGJlUGc?oc=5",
-      "publisher": "WWD国际时尚特讯"
-    },
-    {
-      "id": "auto-c43b5d684b092487aa82",
-      "kind": "hot",
-      "tag": "内容运营",
-      "region": "全球",
-      "date": "2026.10.13",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "How Grüns Built an Influencer Marketing Strategy Around Daily Wellness",
-      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T14:25:58+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVWh6OG5Cd2lrRkptVDdHUHVaZ1dINm1hVkNaM0hReUFHQWZfU1J5aExNdXJrQ19iaDRhZm55SW8tMGk4R2RCOVFERmtLS1N3b1JhNWFZcFlUeEphX3pvNVlTcGZLU3dUSWVuVnhMM0FLMWRGQ2xaNTRVR3RQQ0tzRWkzdm5IZDJxYXpKeVhsVGV4QXdPTFh3azlHa2Q?oc=5",
-      "publisher": "Influencer Marketing Hub"
-    },
-    {
-      "id": "auto-59aeea237e8ff5fa5e84",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.13",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Can MCD's Marketing Reset Help Improve Customer Engagement and Sales?",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T13:57:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzl6VXhrRzcyWFdJR29tU2tYM2tCNUR3T1V6MzRCalQ4Wi0yQk1sOWpYTkl3SVhUZEhyQzExUEI4MnVZTDNmTG1KM2RGajJqTjNBNDFhN3V0VGtLMFV3MUhWc0FBckhRTnVuTFVBMmJuRk82ZTAzRnpQUFpvUDNOb3VMTnF0UDFkWVItc2hZMzRCQ2hRaU1KTzRSZkVzNDFnUVpVSno4Y1lLSTllVjRidjQ0LXdfRWdSb3hFanVBcFo?oc=5",
-      "publisher": "TradingView"
-    },
-    {
-      "id": "auto-e9638d1d6654483d4946",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.13",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "全球破局有一套｜以受众洞察连接七国受众，蓝标传媒助中国国航拓展品牌触达",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-13T12:36:20+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTTnctVE9iVXVPX0J4ODI3dUQ1WS1oWDdCenlkak5Nb0pKaWVrbW5SVWhpNHdwaTFqOUtRU2tYYkdtanlLaVlsZExWNXM?oc=5",
-      "publisher": "雨果跨境"
     }
   ]
 }
