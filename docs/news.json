@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T01:35:39.033622+00:00",
+  "checked_at": "2026-10-26T03:26:14.080633+00:00",
   "feeds_ok": 4,
   "items": [
     {
@@ -29,7 +29,7 @@
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-25T00:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wLUdrMnI0QVlRdmZyZVlJUGZGWWJjUUhoR0FUQktWNWdsX1JDLVNQc1kyeVp1TW5IMm9nX0ZpSS10SnlSbGdoUjh3anlBcDhnOVNsZnBlSHZDQQ?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12b1hmWGNhX1NlUlh2aTMxeTdHVGFHTVA3VENhOWZwaW1paHR1Z2cybWE2ZWpLUl96aWVMTjFDYlU3R3IzVXlMcS14Q0NxSnlfOUxmblI1REJnajRnV1E?oc=5",
       "publisher": "上观新闻"
     },
     {
@@ -136,6 +136,21 @@
       "published_at": "2026-10-23T07:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTXQ5YU9fYWZDUzlNeGZ1bGVsVWFjbUtoZkxFSFNxYnBsTTVUZXVIVEU2QklCV2VYMzNkT2tNS3B1VUEyNmRYdWo2SjdoRy1EcGc?oc=5",
       "publisher": "Shopify"
+    },
+    {
+      "id": "auto-0bbed8e639b55487e330",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.23",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Top App Marketing Companies (2026)",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iOHBIX2I3SmVnTk9lM045WEdzeTBkNjlZbTZHTEVZbUROLUY3bEtMaElEeF9HMXI3bDVMS3NVSWZKWTN5TF9pRnJqUDBPdEtkMUNzQ1kzYUhkV1RTOF9uYUNLb3I1OUlK?oc=5",
+      "publisher": "Business of Apps"
     },
     {
       "id": "auto-d8ed1278200398ae3edf",
@@ -645,6 +660,21 @@
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-20T20:14:10+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aeG42WWk3M3M0VFBpbmtOQ1R0X1R2NGRxOXNTNnFWTXVRdk1GRDJ4S21xWnFrczNwRTNsTDhoN0dJTDlIVEFqTTRKUklBTWhMSFlCaFhZbkZRY0ZtNjlOM1FhMGY?oc=5",
+      "publisher": "Shopify"
+    },
+    {
+      "id": "auto-76215e891cce71e5b4da",
+      "kind": "hot",
+      "tag": "内容运营",
+      "region": "全球",
+      "date": "2026.10.20",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Facebook Monetization: How To Monetize a Facebook Page (2026)",
+      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-20T20:14:10+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VV3RBek9GeEVkN0pGMWZaMDVJRnJZLW1TMnNZRGhoZzNxSFFacG55cWJka2VHVE9qX2p2X2oxVGhmcVBLOEhGX0ZQa1JxSWpONjcwVHFKMWJGYVdiRWtQOWRMMmw?oc=5",
       "publisher": "Shopify"
     },
     {
@@ -1771,36 +1801,6 @@
       "published_at": "2026-10-14T08:40:37+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gb3R4bC1aWHJYV3hSVlJ6R1VwSUFCQk9wb3JtWUt3bmRWMU5sb1BGckd4aWVHZ0xFT21aaFdFQ3g4SngxZTY1YjF6TGsySHdkRE9wZ0Z3?oc=5",
       "publisher": "亿邦动力"
-    },
-    {
-      "id": "auto-08a8a87ebfe5e58486f5",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.14",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "5天卖100万套的游戏，第一个美妆联名为什么给了夸迪？｜品牌深壹度",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-14T07:30:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IRkFSOUtzNlpTNDZaUVN0MzFDYVJfWVV5c0w2OEJhZWRjdHZyQXFlU3JDR05HZGdmdkRTNGpyaVRLLWk1bUZyclJTQ1NFbTgxUVBr?oc=5",
-      "publisher": "搜狐网"
-    },
-    {
-      "id": "auto-ac524988ba30f491b9c3",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.14",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Fastlane Launches AI Marketing Platform That Researches, Creates and Runs Campaigns End to End",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-14T04:01:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTUxTkVpc0hYRGU5Tk9wZW8taFVHVjJ0SHRqbm9UdnJWUkx2S05zY09mT1VNZnFlLTZBZTdYWWQwQjBvcVVTTFMza2VNM0FEdklDTUdvZlR6OW5kVkt6aDJLdGJ4TFZ2RzZBNmJ2NEY3SU0tT1k0ZGlzZ2dvaThTSF9RaU9DVDhJX3BSTjdDekQtTFNueVE2akkyUmo3YlJIZ1VRZ0JaWlh5Tzg?oc=5",
-      "publisher": "Yahoo Finance"
     }
   ]
 }
