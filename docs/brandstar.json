@@ -1,12 +1,31 @@
 {
-  "checked_at": "2026-10-26T11:25:50.977960+08:00",
-  "last_success_at": "2026-10-26T11:25:50.977960+08:00",
-  "last_content_update_at": "2026-10-24T09:35:18.048540+08:00",
+  "checked_at": "2026-10-27T09:31:07.283636+08:00",
+  "last_success_at": "2026-10-27T09:31:07.283636+08:00",
+  "last_content_update_at": "2026-10-27T09:31:07.283636+08:00",
   "status": "ok",
-  "added": 0,
-  "examined": 7,
+  "added": 4,
+  "examined": 12,
   "errors": [],
   "items": [
+    {
+      "id": "brandstar-8368",
+      "title": "YIN隐 上海西岸中環新店开幕，设立首个礼物商店",
+      "url": "https://www.brandstar.com.cn/news/8368",
+      "published_at": "2026-10-26T17:57:30.658754+08:00",
+      "date": "2026-10-26",
+      "collected_at": "2026-10-27T09:31:07.283636+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "IP 合作",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": false,
+      "source_excerpt": "YIN隐 首家 3.0 主题店以「悬 The Suspended」为主题，将金饰陈列、艺术展示与礼物选品融入会客厅，并…",
+      "selection_reason": "近期品牌动作；涉及IP 合作、零售体验。",
+      "score": 3
+    },
     {
       "id": "brandstar-8360",
       "title": "可隆携手觅蓝共建囊谦自然服务中心，推出联名公益系列",
@@ -127,6 +146,66 @@
       "source_excerpt": "如何用极限精神打造新一代户外运动品牌。",
       "selection_reason": "深度报道，含具体品牌实践；涉及IP 合作、社群经营、零售体验。",
       "score": 7
+    },
+    {
+      "id": "brandstar-8343",
+      "title": "MO&Co. 与 little MO&Co. 举办「自然生长」时装秀",
+      "url": "https://www.brandstar.com.cn/news/8343",
+      "published_at": "2026-10-10T13:06:23.494919+08:00",
+      "date": "2026-10-10",
+      "collected_at": "2026-10-27T09:31:07.283636+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": true,
+      "source_excerpt": "MO&Co. 携手 little MO&Co. 于上海西岸梦工场举办「Wonder Wild 自然生长」时装秀，庆祝 …",
+      "selection_reason": "近期品牌动作；涉及IP 合作、社群经营、内容传播。",
+      "score": 5
+    },
+    {
+      "id": "brandstar-8344",
+      "title": "2027 春夏上海时装周启幕，联动秀场与城市活动",
+      "url": "https://www.brandstar.com.cn/news/8344",
+      "published_at": "2026-10-10T13:19:21.647037+08:00",
+      "date": "2026-10-10",
+      "collected_at": "2026-10-27T09:31:07.283636+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "IP 合作",
+        "社群经营",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": false,
+      "source_excerpt": "2027 春夏上海时装周于 10 月 8 日开幕，荷木 HEMU 以「丝路」系列带来开幕秀，MODE 上海服装服饰展同…",
+      "selection_reason": "近期品牌动作；涉及IP 合作、社群经营、零售体验。",
+      "score": 4
+    },
+    {
+      "id": "brandstar-8342",
+      "title": "Stinger Golf 上海西岸快闪空间开幕",
+      "url": "https://www.brandstar.com.cn/news/8342",
+      "published_at": "2026-10-10T12:44:28.694443+08:00",
+      "date": "2026-10-10",
+      "collected_at": "2026-10-27T09:31:07.283636+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": false,
+      "source_excerpt": "上海本土高尔夫生活方式品牌 Stinger Golf 于西岸梦中心开启快闪空间，呈现 2026 秋冬系列及围绕高尔夫日…",
+      "selection_reason": "近期品牌动作；涉及内容传播、零售体验。",
+      "score": 3
     },
     {
       "id": "brandstar-8333",
