@@ -1,12 +1,31 @@
 {
-  "checked_at": "2026-10-27T11:52:47.226440+08:00",
-  "last_success_at": "2026-10-27T11:52:47.226440+08:00",
-  "last_content_update_at": "2026-10-27T09:31:07.283636+08:00",
+  "checked_at": "2026-10-28T09:37:26.843072+08:00",
+  "last_success_at": "2026-10-28T09:37:26.843072+08:00",
+  "last_content_update_at": "2026-10-28T09:37:26.843072+08:00",
   "status": "ok",
-  "added": 0,
-  "examined": 8,
+  "added": 1,
+  "examined": 9,
   "errors": [],
   "items": [
+    {
+      "id": "brandstar-8370",
+      "title": "消费品与 AI 应用创业者，一起探索新的可能｜Blue Buff大赛报名进行中",
+      "url": "https://www.brandstar.com.cn/news/8370",
+      "published_at": "2026-10-28T00:14:31.034766+08:00",
+      "date": "2026-10-28",
+      "collected_at": "2026-10-28T09:37:26.843072+08:00",
+      "source": "品牌星球",
+      "kind": "品牌动态",
+      "topics": [
+        "内容传播",
+        "零售体验"
+      ],
+      "is_case": false,
+      "is_ip": false,
+      "source_excerpt": "带着你的技术、产品或研究成果，与业务团队和行业专家交流，寻找新的应用场景与合作可能。珀莱雅Blue Buff科技创新大…",
+      "selection_reason": "近期品牌动作；涉及内容传播、零售体验。",
+      "score": 3
+    },
     {
       "id": "brandstar-8368",
       "title": "YIN隐 上海西岸中環新店开幕，设立首个礼物商店",
