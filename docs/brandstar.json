@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-28T09:37:26.843072+08:00",
-  "last_success_at": "2026-10-28T09:37:26.843072+08:00",
+  "checked_at": "2026-10-28T12:13:04.084363+08:00",
+  "last_success_at": "2026-10-28T12:13:04.084363+08:00",
   "last_content_update_at": "2026-10-28T09:37:26.843072+08:00",
   "status": "ok",
-  "added": 1,
-  "examined": 9,
+  "added": 0,
+  "examined": 8,
   "errors": [],
   "items": [
     {
