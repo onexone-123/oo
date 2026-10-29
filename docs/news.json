@@ -1,7 +1,22 @@
 {
-  "checked_at": "2026-10-29T10:11:53.251598+00:00",
+  "checked_at": "2026-10-29T15:29:45.569766+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-2c934de16ae4730d4b9f",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "小螺号 | 三丽鸥联名翻车：IP联名可以跨界，不能跨越历史底线",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T12:29:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5paS0yTktYcmdaMzk1Tlo1UjZCenZEcWhWYXlPODcwRHFVMW1Tc2xvcklHd2dfNFNLWWpkaWJqX0I1RFJhUDZjVHFSS1RiNi1qRTNXMndoZXlKaDNwNjdaYnFrY3c?oc=5",
+      "publisher": "新京报"
+    },
     {
       "id": "auto-5880948ae3725ed510d7",
       "kind": "hot",
@@ -16,6 +31,21 @@
       "published_at": "2026-10-29T09:59:24+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WaVhNbUxmZVFCUWJwaXVwT2Q2OUpXOTl4bEV5Vi1scFlMM0FKMHpQa2hiTmtKYUdjNmFRT21VeVVESFhMcTNqb29HT3NzNERSblY3dkJYNDg?oc=5",
       "publisher": "Jiemian.com"
+    },
+    {
+      "id": "auto-6bfd77d11424aaa8ed92",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "三问三丽鸥：从离谱联名到“特供道歉”，“可爱”岂能成为遮羞布？_推荐",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T09:29:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CMEp2WlB6dVUwX2MzMWJCNE9KT29TQzBtclppZlZYaWZkbm5UcnlVclozbjA2b09jU0VUMURxbC0wX2tjb1h0cUI1VlV1eWZLNnZXenJicnZRX1dkX3FSUEtCMmdxVkpFLXJB?oc=5",
+      "publisher": "大众网"
     },
     {
       "id": "auto-3322e6b76f8fb937f11b",
@@ -48,6 +78,36 @@
       "publisher": "中华网"
     },
     {
+      "id": "auto-19fd2b0a78228d101212",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "贡献了两成收入的中国市场对三丽鸥有多重要？",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T09:01:10+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wdFRfM0pwNURLNTJEWEx1b09zVl9CN09JTHhzRFlwT2hBUGljc3ptZTZHNjBtY2VDX2g4VldGMWVaRld6SEYtWFJYSElwVFNSaGE1cXBYSy0?oc=5",
+      "publisher": "Jiemian.com"
+    },
+    {
+      "id": "auto-113c1eaad30c31fa4042",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.29",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "How one Columbus meeting turned into decades-awaited Aflac ad starring Ben Affleck",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TTk84cnVqMWNJNTQ3NTRYb243djNGNW1yNFlzSzFfWUk2aTliRUUwNGdvc1FyYUpiV1lnT0s0ekdpcUlvRmIzQ3NPbnYzNlA1dEs0OGVHUWtvM243TUp5MGdmT1MwX0hHcy1iemQzcXZmSk3SAXNBVV95cUxPU05POHJ1ajFjSTU0NzU0WG9uN3YzRjVtcjRZc0sxX1lJNmk5YkVFMDRnb3NRcmFKYldZZ09LNHpHaXFJb0ZiM0NzT252MzZQNXRLNDhlR1FrbzNuN01KeTBnZk9TMF9IR3MtYnpkM3F2ZkpN?oc=5",
+      "publisher": "Columbus Ledger-Enquirer"
+    },
+    {
       "id": "auto-310a02da76d2ac0fa020",
       "kind": "hot",
       "tag": "品牌运营",
@@ -61,6 +121,21 @@
       "published_at": "2026-10-29T08:00:03+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MTZlT3Vtamctbzh4cEZPMGVBQkdqM3hCcHVSQTJkdmppVk5kY1otdHNsdnJTQnR6U1pWY3ppY2cxLURNZkNfOFg0NlBKZw?oc=5",
       "publisher": "SocialBeta"
+    },
+    {
+      "id": "auto-86736da9e0d458049eda",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "三丽鸥的道歉，不能只停留在中国市场",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T07:14:54+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZU29oQ21DZUtPZm1JanBRb0cweVFnSnp3a19rUDMwN3M2d2VfSHBaaDQxbTRvOEFrakFPcGhQLW1IcS1rZTNUZnlOYWNDOXVUUzYzcnhCc3dIOWlVTUxBajJGVm13LUE?oc=5",
+      "publisher": "湖南红网"
     },
     {
       "id": "auto-4d09039d95f8025674e5",
@@ -88,9 +163,9 @@
       "title": "10月品牌营销观察：当增长承压，品牌开始重新计算营销的价值",
       "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-29T06:18:18+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1hrRFhfSFBzcU9FMkYydm5YVWJrNklIaDVJdVNnZU9sakdVSFNpbG5CX2FTbGRuZ0RJMkVnZV91TU1OQzVlbW9kUkVTSjJEWHNZUXItWmVjUEtMSUNkNHpYU05EV3hGN2F2NmsxTkZVZDY1SnRYUUFpNDJuSFZidmhVbGJjaHRq?oc=5",
-      "publisher": "搜狐网"
+      "published_at": "2026-10-29T06:28:22+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4QmhqX0oxWVFpbGdIZTVIZm5RcE5Fd3FCT1FPcmpZcmVYSU9IaVJsX1lfeWZTSWc1aTZ6Z0R5eUNkd3NCNmQ0VVVtRVUzTHBVRkRybGZWMWE?oc=5",
+      "publisher": "经济观察网"
     },
     {
       "id": "auto-9d6938b2e8eeec17d4c2",
@@ -108,6 +183,21 @@
       "publisher": "川观新闻"
     },
     {
+      "id": "auto-e2dc67a9684009226f5e",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "三丽鸥就《VIVANT》联名争议道歉，旗舰店已无相关产品，官方客服：坚决反对伤害民族情感、违背品牌理念的内容",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T04:53:09+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUUI0OVhkTW9ncFY3RUNSamJUUHY5S1A1cnVITTlrWm1nU3lYTXZvcm5UYVozQ3NjYnN4MWthdWJ2ajdxeEhoam1QMllzajFVclVkWmtFSU1MS3c?oc=5",
+      "publisher": "极目新闻"
+    },
+    {
       "id": "auto-f74e7abec9591e641e0d",
       "kind": "hot",
       "tag": "品牌运营",
@@ -121,6 +211,21 @@
       "published_at": "2026-10-28T23:50:38+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqcExaLURPeVNYRG53dlQ3b25qNkNLRkF4RWFUQm41dFpXV3hrSlI0Z29UdWNwR3Z0T3J5aFpCY3BKMkthQWNDQjE0NjE2aXE4WDVtWmpubDhOQ0QzcmNuNDhkYXlRYk52clBWcHhOVG8?oc=5",
       "publisher": "中华网"
+    },
+    {
+      "id": "auto-1238be03959c4cad3d2c",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.28",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "JUBEL Takes A Playful Swipe At Copycat Fruit Lagers In Debut Brand Campaign With Insiders",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-28T19:33:57+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmJCeG9JMkV3bUVIRWdCalp4ZExWOUVPZE5selNqLVNMNksxX3V6dDIzRGtpN2FraVp1OGhoWWFWYlpVZW5LVGJHcTdoTDBxMVM3SzduelhmajY4NV9WZURFUDZZbXZ2NmRURkJoQTU2ckVKUnBxQjU3UjdfMjU5a0pHZ3JZcDBvNy1aVS1SMFJqdWF6Z3cwTXAtX3RjZ25MN1hWbHdpNExKRGl0NGhtNXVn?oc=5",
+      "publisher": "Roastbrief US"
     },
     {
       "id": "auto-e3edebca47ec0680e41e",
@@ -260,13 +365,13 @@
     {
       "id": "auto-1c2dd246d51244900875",
       "kind": "hot",
-      "tag": "品牌运营",
+      "tag": "电商运营",
       "region": "中国",
       "date": "2026.10.28",
       "art": "lego",
       "word": "DAILY SIGNAL",
       "title": "营销效果未达预期，麦当劳结束32年世界杯赞助",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-28T08:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XT18xLXZ3dm5JZUpRazF4VUFpakVLM0hkUjFUaDZ2QUJYNzNSeVZiREM0VTd3aEVmdHRYSHNVREg0R3VlelF4eFl0OFZjQXQ1aEE0dWdGYzFqWVM0TkN3?oc=5",
@@ -1696,111 +1801,6 @@
       "published_at": "2026-10-21T06:37:50+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUm5DZ3pCb2VxMjZYaUJoWGZFemQ4Ulk3T1lwSE8wOFF6OWgydThLcXZBT1BaR2M5ZGZNMTdQUDktLVlyaHJsYUtscEJjb3c3OXUzeElwOVA4LUZ4MW41T3RBRDZDcHpxd3hTQUFBelF4RDBlNzNvNl9FNUc4R2djWHpSRjFWZ0JaYVRFUkhpQktTSDVhVUY1VGdud3k3XzBETzlSWnM4TTItRE55UWZqTVp1Q0RkYkJhdVQtOQ?oc=5",
       "publisher": "YouGov"
-    },
-    {
-      "id": "auto-b65398e4863fa6e27d36",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.21",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "山海携手拓市场渝琼文旅深度协同赋能双向共赢- 中国日报网",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T03:51:02+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcWJKdXp5SWwwdGM5OTVzX3VqWVBjUkItMmdDNm9rX25tZ09la1h1a25zeTVacWpwdC1Lb01kVnJqdXgzSllrVmx5Y2diMFdfZlNkN043ZC1PajFVMi0xcGN3MjlOQmRDZWowMl9GVjJ3Q2c5UTdFVTZGOHUzQms?oc=5",
-      "publisher": "China Daily"
-    },
-    {
-      "id": "auto-4b1115a957fccad622d9",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.21",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Digital marketing 101: How to get started and grow",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T03:33:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tTW9QZ1A0WS1wV21WWnh0QkFEWG5HVjNpUTNJdVBBLUNHZUxMSXVnQndsekJmM3hFb3pjajJrNURhb0tvLU1ZcWxIQXYwQ1BIZG5JekZoX3FZdkt1YjVpR1NB?oc=5",
-      "publisher": "INQUIRER.net USA"
-    },
-    {
-      "id": "auto-edfeca00283677d21b95",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.21",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "《鹅鸭杀》携手趣多多，逗趣“开溜”联名礼盒10月22日全平台开售",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T02:37:36+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MYW04Qk1nMjlsWmVoY0RwSDViRzRBbGxOMXQ0Z1h3SGhQUmFFeW5aMzlTM2owS0w2ZWFZNU5faHo1S0xBN0J1TXZDUGcyYmozUXFqTHAwTnVaNGlhU3NlalEwRHU?oc=5",
-      "publisher": "17173"
-    },
-    {
-      "id": "auto-49b650b173cdad78151e",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.21",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "天水花牛苹果入选2026年度中国苹果品牌互联网影响力指数前十_天水",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T00:24:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MOEFCdUU4QVg1VFY4M3ViNzhxVS1DdWRKLW4yVkhGRDdIcV9sOVhLTHh3WTZhdkZYVGl5WkotUmF2ZTZGak9ULXhSVHdmXzdsU0V1dExRdHpqazFJS0p4VWE3aVk4aDROUUpj?oc=5",
-      "publisher": "中国甘肃网"
-    },
-    {
-      "id": "auto-85e60494764cc7820705",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.20",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "乐动携手华为云推出“开元体育在线入口注册入口”解决方案，加速企业移动营销数字化转型",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-20T23:30:37+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZQkI5QnM5R1FYeDlwdTNGNGdlT2FZTHJGX2FlVE5QdzkxQkF1RnRsRnFhclowekJHNmJURUZWVFJ4enJQdlB3V2JGbW9JTS1jRV9mYjcwdGQwTlJqampjTWJqZnA0cnZXNlpxMTFB?oc=5",
-      "publisher": "TGBUS"
-    },
-    {
-      "id": "auto-154d0b0ca86c6656f68e",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.20",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Webflow Campaigns Brings On-Brand Landing Pages, Ads and Analytics",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-20T21:21:14+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHBRZ0JLTl9wdjFQMHRPU2ZhVktlUkd3MERpY3pWYi14Yzgya1Uya2ZBVG1tMEpEQmsyWDRua25SY2RBSkxEUG1EcmdBMDJ6UF9yVkttdW9OZzExTjJCZTRKd0FOdmxmcy1IbjZMcUVHck5LN1lZTHZWOWdFVVJycHE5QlVHV2ZUU3piWUR3T0RjZHRNRkEycXdn?oc=5",
-      "publisher": "CMSWire"
-    },
-    {
-      "id": "auto-1dcc5856b32810866a63",
-      "kind": "hot",
-      "tag": "内容运营",
-      "region": "全球",
-      "date": "2026.10.20",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Facebook Monetization: How To Monetize a Facebook Page",
-      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-20T20:14:10+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zUkZ4TU82b1ByQzRxcFQwcGJtSDlHTW43d0F3MThWV0VheXJtaWVqWXZ0bGZmYi02RnZONDR2OVoyUm5IeGxtaUNwcnNQbUVnNG5wWHV1YjRIRXVla1FLWU1tMHQ?oc=5",
-      "publisher": "Shopify"
     }
   ]
 }
