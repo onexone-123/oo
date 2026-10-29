@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#233d60">
+  <meta name="description" content="Yuanyuan 的内容运营面试提案：用生活情境拉新，用连续事件探索留存。包含交互样稿、对照实验与研究来源。">
+  <title>蓝色的周末 · Yuanyuan 的内容运营试点</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23233d60'/%3E%3Cpath d='M17 20l15 19 15-19M32 39v12' fill='none' stroke='%23f8f5ee' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="model.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="site-header">
+    <a class="brand" href="#cover" aria-label="Yuanyuan 提案首页"><span class="brand-mark">y.</span><span>YUANYUAN<small>内容运营 · 研究与实践</small></span></a>
+    <nav aria-label="主导航"><a href="#cover">提案</a><a href="#experience">体验样稿</a><a href="#experiment">如何验证</a><a href="#research">研究依据</a></nav>
+    <button id="present-toggle" class="button small outline" type="button">开始演示 <span aria-hidden="true">↗</span></button>
+  </header>
+  <main id="main">
+    <section id="cover" class="page-section cover" data-slide="0" aria-labelledby="cover-title">
+      <div class="cover-grid wrap">
+        <div class="cover-copy">
+          <p class="eyebrow"><span class="dot"></span> 破次元恋人 · 内容运营试点提案</p>
+          <h1 id="cover-title">蓝色的<br><span>周末</span><i>。</i></h1>
+          <p class="cover-english">A BLUE WEEKEND</p>
+          <h2>让一句日常，有下次见面的理由。</h2>
+          <p class="lede">从「今天穿了什么颜色」开始，<br>把第一次好奇，接成一段想继续的经历。</p>
+          <div class="actions"><a class="button primary" href="#experience">亲自体验一下 <span aria-hidden="true">→</span></a><a class="text-link" href="#experiment">看看怎样验证 ↗</a></div>
+          <p class="fine cover-note">面试概念提案 · 原创分支脚本 · 未上线业务实验</p>
+        </div>
+        <div class="cover-art" aria-label="原创蓝色街角插画，雨后书店和一张周末邀约卡">
+          <div class="art-top"><span>FIELD NOTES / 01</span><span>留一点期待给明天</span></div>
+          <svg class="street" viewBox="0 0 640 560" role="img" aria-label="蓝色天空下的书店街角">
+            <defs><pattern id="window-lines" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M0 22L22 0" stroke="#a8bbc7" stroke-width=".6"/></pattern><pattern id="sky-dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".7" fill="#476888" opacity=".2"/></pattern></defs>
+            <rect width="640" height="560" fill="#d8e3eb"/><rect width="640" height="560" fill="url(#sky-dots)"/>
+            <circle cx="474" cy="116" r="54" fill="#f7f2d6"/>
+            <path d="M0 392L640 349V560H0Z" fill="#bacbd2"/><path d="M0 449L640 408" stroke="#8fa7b6"/><path d="M0 489L640 448M92 560L405 368M370 560L521 359" stroke="#91a9b6" stroke-width="1"/>
+            <path d="M91 182L346 158L350 407L91 431Z" fill="#f4f0e3"/><path d="M346 158L458 214V404L350 407Z" fill="#8ea9bb"/>
+            <path d="M78 178L340 148L468 207L454 223L343 172L82 199Z" fill="#294968"/>
+            <path d="M115 250L320 230V350L115 370Z" fill="#365777"/><path d="M126 261L308 243V337L126 354Z" fill="#e7d9b8"/>
+            <path d="M126 261L308 243V337L126 354Z" fill="url(#window-lines)"/>
+            <path d="M185 255V347M249 249V341M126 310L309 293" stroke="#365777" stroke-width="7"/>
+            <path d="M138 302V276H149V301M154 301V269H168V299M198 296V270H210V295M216 295V263H231V293M264 291V262H277V289M282 289V259H294V288" fill="#698c9a"/>
+            <path d="M135 346V326H146V345M153 344V319H171V342M200 339V316H214V338M221 337V312H234V336M264 333V309H281V331" fill="#9c7966"/>
+            <path d="M112 216L320 196V225L112 246Z" fill="#5e7c92"/><text x="215" y="226" font-size="18" letter-spacing="10" fill="#fffaf0" text-anchor="middle" transform="rotate(-5 215 226)">周末书店</text>
+            <path d="M370 251L426 273V395L370 398Z" fill="#294968"/><path d="M378 264L416 279V347L378 341Z" fill="#cbd8d7"/><circle cx="414" cy="363" r="3" fill="#e9d4a7"/>
+            <path d="M99 381L331 357V374L99 398Z" fill="#52768f"/><path d="M123 397V426M306 379V411" stroke="#36516a" stroke-width="9"/>
+            <path d="M481 350C474 333 482 319 494 324C491 302 511 296 520 314C524 291 545 298 547 316C562 304 577 318 568 334C585 337 582 358 568 361L484 374Z" fill="#557d80"/><path d="M490 366L559 358L549 406L505 409Z" fill="#d7b597"/>
+            <path d="M36 109L26 133M79 72L69 96M142 104L132 128M235 70L225 94M320 66L310 90M385 100L375 124M577 177L567 201M605 245L595 269" stroke="#8ba9bb" stroke-width="2" stroke-linecap="round"/>
+            <path d="M416 437Q466 430 503 439M99 474Q173 460 225 470" stroke="#e0eaeb" stroke-width="4" stroke-linecap="round"/>
+          </svg>
+          <div class="postcard"><span class="postcard-kicker">第一篇 · 出门之前</span><p>「我今天穿了蓝色。」</p><span>这个周末，从一句话开始。 <b>↗</b></span></div>
+          <div class="art-caption"><span>一段关系，始于一个具体的瞬间。</span><span>ILLUSTRATION / ORIGINAL</span></div>
+        </div>
+      </div>
+      <div class="scope-strip wrap"><div><b>01</b><span>现有角色<small>保留人设，审核台词</small></span></div><div><b>02</b><span>拉新素材<small>角色介绍 / 情境体验</small></span></div><div><b>03</b><span>连续篇章<small>出门前 / 小雨 / 回去后</small></span></div><div><b>07</b><span>日留存观察<small>正式试点，等待验证</small></span></div></div>
+    </section>
+
+    <section id="experience" class="page-section experience" data-slide="1" aria-labelledby="experience-title">
+      <div class="wrap">
+        <div class="section-top"><p class="eyebrow">01 / THE EXPERIENCE</p><span class="section-index">先体验，再解释。</span></div>
+        <div class="experience-grid">
+          <div class="experience-aside">
+            <h2 id="experience-title">从「想聊一句」<br>到「还想见面」。</h2>
+            <p class="section-lede">试着走一遍新用户的路径。你的选择，会在本页后续脚本中留下痕迹。</p>
+            <ol class="journey" aria-label="体验阶段"><li data-journey="0" class="active"><span>01</span><div><b>看见一个情境</b><p>让圈外用户也有开口的理由。</p></div></li><li data-journey="1"><span>02</span><div><b>一起经历一件小事</b><p>用行动，让角色的性格被看见。</p></div></li><li data-journey="2"><span>03</span><div><b>留下一段共同记忆</b><p>观察用户是否愿意再次找他。</p></div></li></ol>
+            <div class="operator-note"><span>运营观察</span><p id="operator-insight">比较同一角色的两种开场，观察哪一种能让用户真正开始互动。</p></div>
+            <details class="boundary"><summary>关于角色与原型边界</summary><p>角色A是占位符，台词为原创示意，不代表任何官方角色。落地时选一个真实角色，由角色团队审核。这里使用浏览器内的固定分支脚本，不调用AI，不连接游戏账号，不采集或上传聊天内容。</p></details>
+          </div>
+          <div class="demo-workspace">
+            <div class="demo-toolbar"><span><i class="dot"></i> 可操作样稿</span><button type="button" id="reset-demo" class="quiet-button">↺ 重新体验</button></div>
+            <div id="demo" aria-live="polite"></div>
+            <p class="demo-disclaimer">示意角色A · 非官方台词 · 演示可连续查看，真实更新节奏另行测试</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="experiment" class="page-section experiment" data-slide="2" aria-labelledby="experiment-title">
+      <div class="wrap">
+        <div class="section-top"><p class="eyebrow">02 / THE EXPERIMENT</p><span class="section-index">把创意变成可回答的问题。</span></div>
+        <div class="section-heading"><h2 id="experiment-title">值得继续，<br>要让行为来回答。</h2><p>先测试进入的理由，再测试回来的理由。<br>流量不足时分两轮进行，避免同时分太多组。</p></div>
+        <div class="experiment-pair">
+          <article class="experiment-panel"><span class="mini-label">TEST 01 · 拉新</span><h3>什么让她愿意开始？</h3><div class="comparison"><div><span>A</span><b>角色介绍</b><p>身份、性格、代表片段</p></div><i>vs.</i><div><span>B</span><b>情境体验</b><p>一句日常、一次回应</p></div></div><p>同角色、同渠道与人群、相近预算和素材规格；尽量使用平台随机分流。</p><dl><dt>主看</dt><dd>首次互动转化</dd><dt>控制</dt><dd>两版均进入同一角色与相同体验入口</dd><dt>留意</dt><dd>广告承诺能否在产品里接上</dd></dl></article>
+          <article class="experiment-panel blue-panel"><span class="mini-label">TEST 02 · 留存</span><h3>什么让她愿意回来？</h3><div class="comparison"><div><span>A</span><b>独立日常</b><p>三篇各自完整的内容</p></div><i>vs.</i><div><span>B</span><b>连续事件</b><p>同一件事的三次进展</p></div></div><p>同来源新用户随机分组；同时测拉新时，在每个来源内均衡分组。篇幅、质量、入口、更新及提醒频次一致。</p><dl><dt>主看</dt><dd>D7留存</dd><dt>过程</dt><dd>跨日再次主动联系同一角色</dd><dt>统计</dt><dd>纳入全部分组用户，包括没看完的人</dd></dl></article>
+        </div>
+        <div class="metric-strip"><div><span>进入</span><h4>首次互动转化</h4><p>注册并首次主动发消息的新增用户<br>÷ 素材落地页独立访问用户</p></div><div><span>连接</span><h4>跨日同角色互动</h4><p>另一自然日再次主动联系该角色的用户<br>÷ 首次互动用户</p></div><div><span>留下</span><h4>D7留存</h4><p>入组第7天有有效使用行为的用户<br>÷ 全部入组用户</p></div></div>
+        <div class="calculator">
+          <div class="calculator-intro"><span class="mini-label">试算工具 · 全部为演算数据</span><h3>差了几个百分点，<br>还不能直接宣布赢了。</h3><p>修改人数，看看留存率与差值。正式试点须预先确定样本量、观察窗口和有效使用口径。</p></div>
+          <form id="metric-form" class="metric-form"><fieldset><legend>A组 · 独立日常</legend><label>入组人数<input id="n-a" name="na" type="number" min="1" max="1000000" step="1" value="200" required></label><label>D7活跃人数<input id="r-a" name="ra" type="number" min="0" max="1000000" step="1" value="36" required></label></fieldset><fieldset><legend>B组 · 连续事件</legend><label>入组人数<input id="n-b" name="nb" type="number" min="1" max="1000000" step="1" value="200" required></label><label>D7活跃人数<input id="r-b" name="rb" type="number" min="0" max="1000000" step="1" value="44" required></label></fieldset></form>
+          <div id="metric-output" class="metric-output" aria-live="polite"></div>
+        </div>
+        <p class="fine">试算不代表破次元恋人业务数据或已验证增长效果；原型点击也不计为真实App留存。正式口径与公司数据团队统一。</p>
+      </div>
+    </section>
+
+    <section id="research" class="page-section research" data-slide="3" aria-labelledby="research-title">
+      <div class="wrap">
+        <div class="section-top"><p class="eyebrow">03 / THE REASONING</p><span class="section-index">研究提供线索，实验检验推导。</span></div>
+        <div class="section-heading"><h2 id="research-title">每个内容动作，<br>有一条可追溯的思路。</h2><p>研究对象包括传统乙游与Bubble。<br>这些论文没有直接证明本试点有效。</p></div>
+        <article class="source-row"><div class="source-no">01</div><div class="source-study"><span>GAO ET AL. · 2025</span><h3>乙游中的情感互动</h3><p>25名玩家的定性访谈</p><a href="https://www.cogitatiopress.com/mediaandcommunication/article/view/8662" target="_blank" rel="noopener noreferrer">阅读论文 ↗</a></div><div><span class="mini-label">研究发现</span><p>受访者的入坑原因包含好奇、美术与熟人推荐；角色互动与日常情感体验相联系。</p></div><div><span class="mini-label">本提案的推导</span><p>用生活情境提供第一次尝试的入口，再把兴趣引向具体角色。</p></div></article>
+        <article class="source-row"><div class="source-no">02</div><div class="source-study"><span>ZHENG · 2026</span><h3>Bubble的程序化亲密</h3><p>平台走查、参与观察与6名粉丝访谈</p><a href="https://journals.sagepub.com/doi/10.1177/20594364261454220" target="_blank" rel="noopener noreferrer">阅读论文 ↗</a></div><div><span class="mini-label">研究发现</span><p>平台通过互动顺序、访问规则与重复互动，组织粉丝对亲近感的体验。</p></div><div><span class="mini-label">本提案的推导</span><p>把零散内容编排成连续事件，测试能否产生想继续参与的理由。</p></div></article>
+        <article class="source-row"><div class="source-no">03</div><div class="source-study"><span>GONG & HUANG · 2023</span><h3>角色互动与持续意愿</h3><p>615名女性乙游玩家问卷</p><a href="https://doi.org/10.1016/j.chb.2023.107681" target="_blank" rel="noopener noreferrer">阅读论文 ↗</a></div><div><span class="mini-label">研究发现</span><p>拟社会互动及浪漫拟社会互动与持续游玩意愿有关。研究测量的是自报意愿。</p></div><div><span class="mini-label">本提案的推导</span><p>跟踪跨日同角色互动作为过程指标，最终用真实D7留存检验。</p></div></article>
+        <aside class="product-facts"><span>已确认的产品基础</span><p>官方应用介绍已有约会、羁绊、日记和角色记忆的描述。本提案探索内容编排与入坑路径，不宣称这些功能是新增，也不假定特定分支能力已经可用。</p><a href="https://r.app.xiaomi.com/details?id=com.neteasehzyq.virtualcharacter" target="_blank" rel="noopener noreferrer">查看官方介绍 ↗</a></aside>
+      </div>
+    </section>
+
+    <section id="rollout" class="page-section rollout" data-slide="4" aria-labelledby="rollout-title">
+      <div class="wrap">
+        <div class="section-top"><p class="eyebrow">04 / FROM IDEA TO PILOT</p><span class="section-index">先把一个角色的路径做好。</span></div>
+        <div class="section-heading"><h2 id="rollout-title">小范围开始，<br>带着证据做下一步。</h2><p>内容运营负责把创意做成可体验的样稿，<br>与角色、产品及数据同事一起验证。</p></div>
+        <div class="timeline"><article><span>准备期</span><h3>选角色，做内容</h3><p>1个真实角色、2套拉新素材、3篇脚本。核对现有活动与功能，完成角色审核和入口检查。</p><small>运营 × 角色团队 × 设计</small></article><article><span>面试前预试</span><h3>观察6—8人体验</h3><p>覆盖乙游用户与有相关兴趣的新手，记录停顿、误解与主动继续的行为。只发现问题，不据此宣布增长。</p><small>产出：体验记录与修订清单</small></article><article><span>上线第1周</span><h3>招募与分组</h3><p>以正式入口接入新用户，按预设规则分流。先确认埋点、来源归因及关键交互正常。</p><small>运营 × 产品 × 数据</small></article><article><span>上线第2周</span><h3>补齐D7观察</h3><p>等待最后一批用户完成观察。结合留存、角色出戏反馈及提醒打扰情况，决定扩大、修改或停止。</p><small>样本不足时报告不确定性</small></article></div>
+        <div class="decision-grid"><article><span>点击高 · 开聊少</span><h3>检查承接</h3><p>入口是否太绕？广告中的互动能否兑现？</p></article><article><span>开聊多 · 回来少</span><h3>检查后续</h3><p>故事是否值得继续？角色表现是否一致？</p></article><article><span>短期追更 · D7无改善</span><h3>检查持续价值</h3><p>新鲜感之后，还有哪些稳定的使用理由？</p></article></div>
+        <div class="closing"><div><p class="eyebrow">我希望交付的价值</p><h3>让内容创意，<br>成为一个能验证的增长假设。</h3><p>选题与脚本 · 内容节奏 · 人设把关协作 · 实验复盘</p></div><div class="closing-actions"><button id="show-notes" type="button" class="button primary">查看3分钟讲稿 ↗</button><a class="button outline" href="offline.html" download="蓝色的周末-离线面试演示.html">下载离线演示 ↓</a><button id="print-page" class="text-link" type="button">打印 / 保存PDF</button></div></div>
+      </div>
+    </section>
+  </main>
+  <footer class="wrap"><span>YUANYUAN / 内容运营面试提案</span><span>概念样稿 · 无真实用户数据 · 不代表官方产品</span><a href="https://github.com/onexone-123/oo/tree/main/docs/blue-weekend" target="_blank" rel="noopener noreferrer">GitHub 源码 ↗</a></footer>
+  <div id="present-bar" class="present-bar" hidden><button type="button" id="prev-slide" aria-label="上一页">←</button><span id="slide-status">01 / 05</span><span id="slide-name">提案概览</span><button type="button" id="next-slide" aria-label="下一页">→</button><button type="button" id="present-notes">讲稿</button><button type="button" id="exit-present">退出 Esc</button></div>
+  <dialog id="notes-dialog" aria-labelledby="notes-title"><div class="dialog-header"><span class="eyebrow">PRESENTER NOTES</span><button id="close-notes" class="quiet-button" aria-label="关闭讲稿" type="button">关闭 ×</button></div><h2 id="notes-title">3分钟，讲清一个试点。</h2><div id="notes-content"><article><span>00:00—00:25 · 问题</span><p>我把拉新和留存拆成两个问题：用户为什么愿意认识一个角色，认识之后为什么还想回来。我设计了《蓝色的周末》小试点，尝试把生活情境和连续事件连接起来。</p></article><article><span>00:25—01:15 · 演示</span><p>请先看两种拉新开场。情境版从“今天穿了什么颜色”开始，用户入内后接上一次周末见面，经历出门前、计划外的小雨和回去后三个片段。角色与台词目前是示意；正式执行要使用现有角色并审核人设。</p></article><article><span>01:15—01:55 · 验证</span><p>我会比较两种素材带来的首次互动转化，再把同来源新用户随机分为独立日常与连续事件两组。控制内容量、更新及提醒频次，观察跨日同角色互动和D7留存。页面上的人数仅用于演算，没有真实增长结论。</p></article><article><span>01:55—02:25 · 依据</span><p>乙游研究提供日常情感互动的线索，Bubble研究强调持续的互动顺序。但这些研究没有直接验证我们的方案，所以我把它们转为可检验的假设。</p></article><article><span>02:25—03:00 · 落地</span><p>我负责选题、脚本、素材和内容节奏，角色团队把关人设，产品与数据同事确认入口和埋点。先用小范围试点找到卡点，样本足够并且效果明确后再扩大。我的目标是把内容创意做成可体验、可验证、可复盘的方案。</p></article></div><button type="button" id="download-notes" class="button primary">下载讲稿 ↓</button></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+</body>
+</html>
