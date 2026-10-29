@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T15:29:45.569766+00:00",
+  "checked_at": "2026-10-29T15:47:00.397369+00:00",
   "feeds_ok": 4,
   "items": [
     {
@@ -16,6 +16,36 @@
       "published_at": "2026-10-29T12:29:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5paS0yTktYcmdaMzk1Tlo1UjZCenZEcWhWYXlPODcwRHFVMW1Tc2xvcklHd2dfNFNLWWpkaWJqX0I1RFJhUDZjVHFSS1RiNi1qRTNXMndoZXlKaDNwNjdaYnFrY3c?oc=5",
       "publisher": "新京报"
+    },
+    {
+      "id": "auto-84579cdd26e4f32f1868",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "“昭品昭牌2.0”战略在沪亮相 打通昭通农产品入沪出海通道",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T12:23:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZWHZxc193RG9hV081MmlVZ2J2RXZ5aVU3M3pQVDdVbTBnNFZ0QlZyeXREU1pHMXRfSzhiczhHSGZfNS1JVUZydGZneTVzQWlwVmtIQThNd2NzcVdGa3Y3S3FyTVRqRUo5RGFQNUpCVmRfdw?oc=5",
+      "publisher": "上海新闻"
+    },
+    {
+      "id": "auto-98259b027b16546e9cff",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "地素时尚第三季度营收同比增长22.43%至5.86亿元全渠道协同驱动稳健发展_公司新闻",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T10:49:16+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVm51Y1RsM1J2Z2c1MGFPM3RQSTJ1S00tM1FjMzJSUGlkbmNPaTZkZHoxcGVncURoZXJDQzZCMG9PZnBQSl96MjdCQzcxdTczemQ5WFN3YWFwaVVzRTMwSg?oc=5",
+      "publisher": "证券之星"
     },
     {
       "id": "auto-5880948ae3725ed510d7",
@@ -163,9 +193,9 @@
       "title": "10月品牌营销观察：当增长承压，品牌开始重新计算营销的价值",
       "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-29T06:28:22+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4QmhqX0oxWVFpbGdIZTVIZm5RcE5Fd3FCT1FPcmpZcmVYSU9IaVJsX1lfeWZTSWc1aTZ6Z0R5eUNkd3NCNmQ0VVVtRVUzTHBVRkRybGZWMWE?oc=5",
-      "publisher": "经济观察网"
+      "published_at": "2026-10-29T06:18:18+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1hrRFhfSFBzcU9FMkYydm5YVWJrNklIaDVJdVNnZU9sakdVSFNpbG5CX2FTbGRuZ0RJMkVnZV91TU1OQzVlbW9kUkVTSjJEWHNZUXItWmVjUEtMSUNkNHpYU05EV3hGN2F2NmsxTkZVZDY1SnRYUUFpNDJuSFZidmhVbGJjaHRq?oc=5",
+      "publisher": "搜狐网"
     },
     {
       "id": "auto-9d6938b2e8eeec17d4c2",
@@ -365,13 +395,13 @@
     {
       "id": "auto-1c2dd246d51244900875",
       "kind": "hot",
-      "tag": "电商运营",
+      "tag": "品牌运营",
       "region": "中国",
       "date": "2026.10.28",
       "art": "lego",
       "word": "DAILY SIGNAL",
       "title": "营销效果未达预期，麦当劳结束32年世界杯赞助",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-28T08:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XT18xLXZ3dm5JZUpRazF4VUFpakVLM0hkUjFUaDZ2QUJYNzNSeVZiREM0VTd3aEVmdHRYSHNVREg0R3VlelF4eFl0OFZjQXQ1aEE0dWdGYzFqWVM0TkN3?oc=5",
@@ -883,9 +913,9 @@
       "title": "AhaCreator彭姗：达人视频越做越多，品牌为什么还在从零开始？",
       "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-26T09:35:33+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GRE5aYzBZSzB5aW1SeHA3V1ZhWEU0cDlNNm9tTUVCTGw4X25lSWFYTnU2WUZrV05BNndEWVROT2YydEpMNnJQLVVPRDhwRXBmeTRORGt3?oc=5",
-      "publisher": "亿邦动力网"
+      "published_at": "2026-10-26T09:42:42+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXhPSEZJV1NpRE5fNlpQRVZ2ZDFhUHlhak9JcVZPRWpTMkg1NUZYSjY0QnFEQjdPd0FsMk8wUDBsNjJKS0oybUNZWlhhZm9wMXdRQnlPNVUtdnZyXzJnSmVQclF4VlBGVlhDazFsbWxzZEZCQWo4MXpValREeTZWRndJcWJwenlkSm5jX0FR?oc=5",
+      "publisher": "新浪财经"
     },
     {
       "id": "auto-3d0b8455b39b884a6151",
@@ -1771,36 +1801,6 @@
       "published_at": "2026-10-21T07:35:34+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wT0VnNXZjZ09saFBIeWFJQmprdzJiVVhXRDNoRnRuTFd1aHByTGpXS3hMN2RINUcxdTBuVkNESkFOMEhCVmJDVFMtUQ?oc=5",
       "publisher": "时代在线"
-    },
-    {
-      "id": "auto-5d8c61307b9bb04e917c",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.21",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "亚马逊AI升级，推出全漏斗广告！",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T07:29:01+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSSVd6Zko3WDk5TUxKbS1YQnRNNXAxWTlkdElRUHNyNHpVMWhKMFM2TzJOZ2lFRllBRjBwSWpsVHREYXlUSGxJNVltcGY?oc=5",
-      "publisher": "雨果跨境"
-    },
-    {
-      "id": "auto-8bef7eb4b8601b419ab4",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.21",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Hershey’s Ad Awareness score records Gen Z rise following KATSEYE campaign launch",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T06:37:50+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUm5DZ3pCb2VxMjZYaUJoWGZFemQ4Ulk3T1lwSE8wOFF6OWgydThLcXZBT1BaR2M5ZGZNMTdQUDktLVlyaHJsYUtscEJjb3c3OXUzeElwOVA4LUZ4MW41T3RBRDZDcHpxd3hTQUFBelF4RDBlNzNvNl9FNUc4R2djWHpSRjFWZ0JaYVRFUkhpQktTSDVhVUY1VGdud3k3XzBETzlSWnM4TTItRE55UWZqTVp1Q0RkYkJhdVQtOQ?oc=5",
-      "publisher": "YouGov"
     }
   ]
 }
