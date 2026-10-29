@@ -7,7 +7,7 @@ let branches = 0;
 for (const color of ['blue', 'white', 'black']) for (const route of ['walk', 'bookshop']) for (const rain of ['continue', 'shelter']) for (const memory of ['sound', 'light']) {
   const r = model.recap({ color, route, rain, memory });
   assert.equal(r.color, model.colors[color].label);
-  assert.equal(r.place, rain === 'shelter' ? '屋檐下看雨' : route === 'bookshop' ? '去了街角书店' : '沿着街道慢慢走');
+  assert.equal(r.place, rain === 'shelter' ? '在屋檐下看雨' : route === 'bookshop' ? '去了街角书店' : '沿着街道慢慢走');
   assert.equal(r.detail, memory === 'sound' ? '雨落下来的声音' : '雨后街角的光');
   branches++;
 }

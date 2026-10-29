@@ -9,7 +9,7 @@
     return { creative: 'B', mode: 'serial', started: false, chapter: 0, color: null, route: null, rain: null, memory: null };
   }
   function endingLocation(state) {
-    if (state.rain === 'shelter') return '屋檐下看雨';
+    if (state.rain === 'shelter') return '在屋檐下看雨';
     return state.route === 'bookshop' ? '去了街角书店' : '沿着街道慢慢走';
   }
   function recap(state) {
