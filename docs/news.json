@@ -1,7 +1,52 @@
 {
-  "checked_at": "2026-10-30T01:29:42.267715+00:00",
+  "checked_at": "2026-10-30T04:34:47.444449+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-052795594e5c9b1ac231",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.30",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "从试水到爆发，国漫营销进入3.0阶段",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-30T03:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkFDenpMb2lkLUJGajN5UGJuUWo1UE8tT1Ruc01TLVRtQnF3MzZXUVZ2RTJlR3RmOFgyYUlwOWRaZFBOSW0wcGhBNE5GbnRpN3lSUGpQSF9RaEd2Q3p3eW9ESG5falNoOENCNE96RnRqTGpFM2xNLUx5cFV2MmF2RGhXWnFBLUY5NDg4VA?oc=5",
+      "publisher": "搜狐网"
+    },
+    {
+      "id": "auto-d55730628ad22a59526d",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.30",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "数商兴农庆丰收，数智赋能促消费 2026湖北省电子商务资源对接活动在汉举行",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-30T02:40:04+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8teGxINDBjYl9KV25LTFJOWTd3NDRSR1RZMjFOam4wbGlDWGxmUFdQT0tzdFgwRFBOSGhUVF9OeFFRM1ZxdWJUN2xyVXlVaFBKa25Lb0dvWXA4WWRDaXY3WlZSQzlqYnlyN1VPZjhIZnRsQQ?oc=5",
+      "publisher": "武汉市商务局"
+    },
+    {
+      "id": "auto-4d97c03e63fa4805d820",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.30",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "擦亮“天府粮仓”金字招牌——四川推进农业品牌高质量发展观察",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-30T02:25:24+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwZFFEbUJadldnRU5zcVc5S0FzUFgzVmFOWEtNUTZaYTR0d29IYnFNaS1TQXpEazlNT1UzLU9Sb3JnSkk1cTVoT1Z5ZXRzUG1IMzFBenpFRVRnNGtKanY2bTZENEplWWRsRkZJZXFVLW5CRnFNRWc?oc=5",
+      "publisher": "新华网"
+    },
     {
       "id": "auto-adc9ed37c82559417692",
       "kind": "hot",
@@ -45,7 +90,7 @@
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-29T14:47:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWVOMUhaTmhTcXRHb1Q4Qk1mNWVFZVBVNlhGaDgzZkluZ1ZnZE1JVnFob0p6ZWNOQ1FCU1VURHNxVVVUaXVSczFkU05sSENkTWJLRGctclRHY3RGRzRQRFFoeTJ3MXZ2N25BbjhKVE94Szd2VTFuYW5zLU5oX29PbnVGYlQtc3N1clYw?oc=5",
-      "publisher": "finance.sina.com.cn"
+      "publisher": "新浪网"
     },
     {
       "id": "auto-2c934de16ae4730d4b9f",
@@ -586,6 +631,21 @@
       "published_at": "2026-10-27T22:39:50+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3JrMUN2RWhRTWhaX2NnSnZ0bVo1M1ByWWlhUE0tam5TaFJtZGQ1dDF0UVh2THVhY1ZGcU9DRnB3T1NsbWRNRmtVOURyNFl0LW9DU2FjVUZLTEVKeGlFeTBadlp1UkdodEVGZl85SkNnU2xzNGRzODdfbVZVYkpEenJXVFVVQXIyVXR6ag?oc=5",
       "publisher": "搜狐网"
+    },
+    {
+      "id": "auto-d34a4bae7f0ac8babe36",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.27",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "沃尔玛黑五网一大促定档11月12日",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-27T22:19:09+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WWcyTmV5cHlWbDhrcjdRSU1ybktwU2YtUFJnSkVac09mUUVPSFZEcTVtM2dVZnhpR1U2cl9ROXFBbmttdm1zVzdtTlRxNjhfRmFVeUNsNGI?oc=5",
+      "publisher": "亿邦动力网"
     },
     {
       "id": "auto-406c7e15cdbd5cd2483b",
@@ -1364,7 +1424,7 @@
       "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-23T07:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjWGY1ekt6ekZ0Q0NQXzZ4ZWVLdFhLTW9DRGJYMHBjZWdiNjhCc3JIaDFCYTFIREhTZmFQdHNsWGNkXzItUU1wVDFmNGEzRTFsN3Z6Mm9n?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tbks5VjlncXYyUjl6d1p1d1YzZnV2dS1jTkMxaWhSUFBpWjFXSXNRSXVOZlpxS0llODAzX1hzWjNSSmJscGJnWFlQVHV3R1NlTmQ1U3JB?oc=5",
       "publisher": "Shopify"
     },
     {
@@ -1741,66 +1801,6 @@
       "published_at": "2026-10-22T01:48:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JaEE3d2h1UHozcVZ0YzJ3UFVVMVpYOVpKYk1PcFIzenRFbG5PSXhja2xIVTFDM0dpemU5NWpZNmg5N1R0X1I0Y09rVDdfSFI0dGs1OXNBLWpqaTNXQ3dPS3R4MHgwd1owT1B4eHVTUGJmTTkwRTMzOHBybG5MeTA?oc=5",
       "publisher": "新浪财经"
-    },
-    {
-      "id": "auto-814dc5533c7f73d4b9bf",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.21",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Hi Luca case study",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T18:40:04+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBreEYyeUpQQ1RFVWI5Y2FHZ1dLZUlSX3ZZQmZzdFlwZDdHSldPczNnZ21qZWRQWkxBWFM0Z3ZqLS10T3ByV2dZZnhoOGxsU2pEenJzbw?oc=5",
-      "publisher": "Google Cloud"
-    },
-    {
-      "id": "auto-32f774e3c8fdac101c48",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.21",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Whatnot Launches Its First National Spot as Live Shopping Finally Starts Gaining Traction",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T13:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREpqQS1GTzkyanFJcl9zaUljNlZnSEN6TDhPLVFlbWVPWW16UkVrNzJrWjlUV1plUFhlRGRkM090Z3JzWXVuNUh3TldpR3BEME4yVDdTbkpROXo2SjJpNjc4cmtpdFlwdUlVeGRaZFN3N1BIMTdpUE1ENklzUWV1azJELWEtMWg5WW9jdnF3d0Q2bG01bnUzSDFubE1iQWZBTUVvbjhlZGZOSnNVWXZiZVI1TnF5TTIyWEdwVmhfamFpMUpSUGdNVw?oc=5",
-      "publisher": "ADWEEK"
-    },
-    {
-      "id": "auto-765e4071f932080ed346",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.21",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "天水花牛苹果入选2026年度中国苹果品牌互联网影响力指数前十",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T12:40:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YWnJHWjB5elJIZ1BwMElUWmFfTXQ2cDQ5TlRQUV8zQzJVcUJEcnp3TGMyc2o5ZDJyRHpnVWd4emt6alVEbmszSmZhWDNoNmhrUFlIYlBlUHR2MFVsMzQwbHlxaWV1bWdSLWxDZWJvVFVWYVA2MWc?oc=5",
-      "publisher": "新浪新闻"
-    },
-    {
-      "id": "auto-651ebb8c225bf7b23b02",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.21",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Higgsfield Turns Product Pages Into Ready-to-Launch Ad Campaigns",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T12:20:14+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2U3QzFXa0hHS1gtOTBjUW9qeEVjcExEdDJQLTI3QlQ3eGZWb0RvenJpOEJ1UXpSRklkNFgxMzJSTDVMMWpLWVlUd3JBYndjYmlkSVlSNkFieGtkc0x0WDV4SHc2WmFvcnFJclpjQnRneGhRRDZ5X2xPS3FSc3ZudFJCU0RIZUhmV3dJX3ZJc1Zzd0lXZnpGNg?oc=5",
-      "publisher": "MarTech Cube"
     }
   ]
 }
