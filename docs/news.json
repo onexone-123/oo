@@ -1,7 +1,52 @@
 {
-  "checked_at": "2026-10-29T15:47:00.397369+00:00",
+  "checked_at": "2026-10-30T01:29:42.267715+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-adc9ed37c82559417692",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.29",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "The latest AI-powered martech news and releases",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T22:29:27+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+      "publisher": "MarTech"
+    },
+    {
+      "id": "auto-c64fbe758c25f36d85f2",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.29",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Chipotle’s BOGO barrage is paying off",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T16:54:48+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUxTOGdwTjR4SG5YSEQ4ZnR3ZWphUEM2R3NtTjk2VTY1akphYW10VTQyRm4wWDBmQXBIcTV0YUlhSkY0S1h0cWktbUZoLU1rVzYzY0JURkZMOE1PdTBBRU5jQmdwaTN4M01lek1pU1RxWExFQll5YVpiaGdiZk04U1lNSFJWUlE?oc=5",
+      "publisher": "Restaurant Business"
+    },
+    {
+      "id": "auto-f9cc324a6b0c431fe0ef",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "三丽鸥联名翻车：IP联名可以跨界，不能跨越历史底线",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T14:47:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWVOMUhaTmhTcXRHb1Q4Qk1mNWVFZVBVNlhGaDgzZkluZ1ZnZE1JVnFob0p6ZWNOQ1FCU1VURHNxVVVUaXVSczFkU05sSENkTWJLRGctclRHY3RGRzRQRFFoeTJ3MXZ2N25BbjhKVE94Szd2VTFuYW5zLU5oX29PbnVGYlQtc3N1clYw?oc=5",
+      "publisher": "finance.sina.com.cn"
+    },
     {
       "id": "auto-2c934de16ae4730d4b9f",
       "kind": "hot",
@@ -226,6 +271,21 @@
       "published_at": "2026-10-29T04:53:09+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUUI0OVhkTW9ncFY3RUNSamJUUHY5S1A1cnVITTlrWm1nU3lYTXZvcm5UYVozQ3NjYnN4MWthdWJ2ajdxeEhoam1QMllzajFVclVkWmtFSU1MS3c?oc=5",
       "publisher": "极目新闻"
+    },
+    {
+      "id": "auto-b6dd454ecf5d146cac9b",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "马上评｜三丽鸥道歉，“可爱”不是遮羞布",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T02:03:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFBvZFFFYlNsb3A3a2ExYkVjY1JOOEFuRlVtaTNXQXRzTVRvYUJsRTRkY0V5LTBZdk1VU3lKSjJtaGhITFNwZ0dtUkZXVjFkUmM0dFNfMUpLRFZSNlAwS3UwZENRYldqdTgzZ3hJNXMya2hQNUpvenBZR0pLYzZWeGMyekY0Y1dhT1pN?oc=5",
+      "publisher": "新浪网"
     },
     {
       "id": "auto-f74e7abec9591e641e0d",
@@ -913,9 +973,9 @@
       "title": "AhaCreator彭姗：达人视频越做越多，品牌为什么还在从零开始？",
       "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-26T09:42:42+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXhPSEZJV1NpRE5fNlpQRVZ2ZDFhUHlhak9JcVZPRWpTMkg1NUZYSjY0QnFEQjdPd0FsMk8wUDBsNjJKS0oybUNZWlhhZm9wMXdRQnlPNVUtdnZyXzJnSmVQclF4VlBGVlhDazFsbWxzZEZCQWo4MXpValREeTZWRndJcWJwenlkSm5jX0FR?oc=5",
-      "publisher": "新浪财经"
+      "published_at": "2026-10-26T09:35:33+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GRE5aYzBZSzB5aW1SeHA3V1ZhWEU0cDlNNm9tTUVCTGw4X25lSWFYTnU2WUZrV05BNndEWVROT2YydEpMNnJQLVVPRDhwRXBmeTRORGt3?oc=5",
+      "publisher": "亿邦动力网"
     },
     {
       "id": "auto-3d0b8455b39b884a6151",
@@ -1368,6 +1428,21 @@
       "publisher": "Shopify"
     },
     {
+      "id": "auto-3fd3bfba7d051db0ac29",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.23",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "RAC launches new integrated brand campaign ‘Everyday WA’ via The Brand Agency",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEVPUTdWUHZMQTc3Q2Y4SUZKMkJRWGVOQlVCTjFNSU9qcVdLSGg2dGZXM09BS3JBem1rNlFua0lacEhZRThoZFhjTC13ampmZUVZR3M2ZngyelJWZGc5T1FjcVMyUDA0SXNMTVdFVnROakExb1N0YWFGbkRZaG1kSU1ydDJ3QUZTOGtPVHVwdWRQRm5KTUc5QVA5amhEUzNOM0x4Um55OUg?oc=5",
+      "publisher": "Campaign Brief WA"
+    },
+    {
       "id": "auto-fcde7491d1afc31321aa",
       "kind": "hot",
       "tag": "电商运营",
@@ -1608,21 +1683,6 @@
       "publisher": "广州日报新花城"
     },
     {
-      "id": "auto-adc9ed37c82559417692",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.22",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "The latest AI-powered martech news and releases",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T07:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
-      "publisher": "MarTech"
-    },
-    {
       "id": "auto-cd3a173bc7b000d2e43a",
       "kind": "hot",
       "tag": "品牌运营",
@@ -1741,66 +1801,6 @@
       "published_at": "2026-10-21T12:20:14+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2U3QzFXa0hHS1gtOTBjUW9qeEVjcExEdDJQLTI3QlQ3eGZWb0RvenJpOEJ1UXpSRklkNFgxMzJSTDVMMWpLWVlUd3JBYndjYmlkSVlSNkFieGtkc0x0WDV4SHc2WmFvcnFJclpjQnRneGhRRDZ5X2xPS3FSc3ZudFJCU0RIZUhmV3dJX3ZJc1Zzd0lXZnpGNg?oc=5",
       "publisher": "MarTech Cube"
-    },
-    {
-      "id": "auto-dee730c28500cda009aa",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.21",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "'Vibe directing' startup OpenArt has hired a former Salesforce marketer to turn it into a household name",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T11:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hFQ05DRFlJYnlXc1NVVzE4UFh6cUlUOHptWWQ0cEJ4TUVkbWpHWVBibWhqLTg1TU53aGhrS0ZObEpqVE9uRlpOZ0JGeWVfN3RJRUZWR1BVZEtfOVNseHNGV2xaVktPTmI1MFZfN2RIZUV5LVJ3aG9hMl8xOEMxcVFReUFTemcwZ0FqWmh0RUM0bE1EWjV0eDBoS3hPNzIwSDBkeU83QQ?oc=5",
-      "publisher": "Business Insider"
-    },
-    {
-      "id": "auto-b597af58f601f01f54cd",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.21",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Lufthansa Group launches first consumer campaign for umbrella brand",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T09:48:02+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHl0dkdYWEZNNTNoNmgzSnUxcVF3aldhWGpnc3JuRTl1c3lHLUY4WlZxc1RMRURGYVVZcXRxU3h6NUF5bzJXWllZRU5JdzRWbmE0c3ZkLUFqaG1vVVFjUWVfRFlXNlotM2xEUkVHOVBJY09QVFFyLVY4Q01zMk04MzdNek9GUFoyMTllb3RncWg2eWZseEgwMDdOaHFmUmtGNW9XeWV5cllfa0lwc1FEc2s2RmtjS3RIVWJJ0gHAAUFVX3lxTE5nN0dneW9KRkhpVU95LUlCRjBXalYtU05SQ3FDUjlXajJwazZoWS05VktHNThpLU9DNmVuMm1FV3R5Sy02QldSd2w1eHl2VUdLb0dLemlFZ1BIN1FIcHo2UzhrbnZBWkkwS3V1U1RTRlNLQ3phV1ZkVE1CYXg3TVpUR3Q1WngyUlhMS2NmWkhVb2xiZDg2SnJaSTdkUlFKRTBfWlplRDJiSnJST2c4WnVEaUdadERlWVdIVldYWVI1UQ?oc=5",
-      "publisher": "Aviation24.be"
-    },
-    {
-      "id": "auto-2d6392a5910419cef5e1",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.21",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "继快闪店试水后，Butterbear黄油小熊要在上海落地中国首家旗舰店",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T08:06:27+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13c0xrZ3ZtT1VTVkU5SV9BbXpuVm5SX2lVaUZwQk9uX0dRNWN6dS1SajFfd28zei1mWWpGczlTd0sybjlqVGZUMlJoVVZSUF9UeGtkb042LXBrTjZvQndkNFNWOA?oc=5",
-      "publisher": "红餐网"
-    },
-    {
-      "id": "auto-93312e7859c44808f808",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.21",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "孩之宝深化“玩乐制胜”战略，以IP创新与多元授权共拓玩乐新生态",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-21T07:35:34+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wT0VnNXZjZ09saFBIeWFJQmprdzJiVVhXRDNoRnRuTFd1aHByTGpXS3hMN2RINUcxdTBuVkNESkFOMEhCVmJDVFMtUQ?oc=5",
-      "publisher": "时代在线"
     }
   ]
 }
