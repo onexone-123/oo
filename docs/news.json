@@ -1,7 +1,22 @@
 {
-  "checked_at": "2026-10-31T01:28:32.144042+00:00",
+  "checked_at": "2026-10-31T04:17:55.353595+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-9eb0ce9cf222f3b94203",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.31",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "富川脐橙文化活动季系列活动研讨会召开",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-31T03:17:47+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNThLQWdCd2dnNUxmQ1RsbTVNUUxkaE9lNXEtSXpwQ1h0b21fbTNRU0U4T1FmZUJja3JwbkhJcXFvUWQ0TmVyY1luNWhJYWNxSmdWblpHeG9MNGlyTnlWaHJQY0R1WTZtclZPYlZaT0RVcDRvdWNzV3kxTmlJUzZNX3pRTFZ1Zm9OMDRWbg?oc=5",
+      "publisher": "搜狐网"
+    },
     {
       "id": "auto-741c2eccfde208258bec",
       "kind": "hot",
@@ -123,6 +138,36 @@
       "publisher": "搜狐网"
     },
     {
+      "id": "auto-5880948ae3725ed510d7",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "盘点三丽鸥IP版图：总计超450个，含Hello Kitty、美乐蒂等",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T22:46:35+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53VVJQdERxUlJCRWdqZmVGclRENkpEQTVPY3JqaUxDS055eF9iVlV4MHo3aGstUFFBN3VUTVo5d0trdDhmZ0NFSWRRLTgteXl5Z05aem9R?oc=5",
+      "publisher": "Jiemian.com"
+    },
+    {
+      "id": "auto-a9ee5fa3a709b75a069b",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.29",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "What Is a Social Media Listening Tool?",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T21:08:21+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEVXcUJlREFiUm5qaU4wa1BmWFNTQzhPTWpGMzRDRkpiM3dHMENBVlNqdjFHSWdkOG1McEM0d1NTellKcGJwV3ZIUjFhZWpMeFQ5aVo5bkN0RW9zZVZwdzBWenVOR1JqNGhSZTllRDNQcUlzWWtCNDVsUEhqUlZTOU43Skt3ZjDSAYcBQVVfeXFMTlhFV3FCZURBYlJuamlOMGtQZlhTU0M4T01qRjM0Q0ZKYjN3RzBDQVZTanYxR0lnZDhtTHBDNHdTU3pZSnBicFd2SFIxYWVqTHhUOWlaOW5DdEVvc2VWcHcwVnp1TkdSajRoUmU5ZUQzUHFJc1lrQjQ1bFBIalJWUzlON0pLd2Yw?oc=5",
+      "publisher": "CreatorIQ"
+    },
+    {
       "id": "auto-c64fbe758c25f36d85f2",
       "kind": "hot",
       "tag": "品牌运营",
@@ -150,7 +195,7 @@
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-29T14:47:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzMU80OVlVWmVSQkFBZXROdWNZb1RybGVnYlhERXBud0tXSWU0b3VaMzZnZExfYWpCVmh6dTNQckE5cU94a1Focl91eDRwRTZBWVFGZjdjRVNOdHo3UHB2SmZ0THo0T0dQZUF1OTNJZGNQaHZTajhmLQ?oc=5",
-      "publisher": "finance.sina.com.cn"
+      "publisher": "新浪财经"
     },
     {
       "id": "auto-4b5e0e6a698cca826136",
@@ -228,19 +273,19 @@
       "publisher": "证券之星"
     },
     {
-      "id": "auto-5880948ae3725ed510d7",
+      "id": "auto-801bc2ebbd924cad8602",
       "kind": "hot",
       "tag": "品牌运营",
       "region": "中国",
       "date": "2026.10.29",
       "art": "lego",
       "word": "DAILY SIGNAL",
-      "title": "盘点三丽鸥IP版图：总计超450个，含Hello Kitty、美乐蒂等",
+      "title": "芙蓉国评论 | Hello Kitty应和抹黑中国的日剧划清界限",
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-29T09:59:24+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WaVhNbUxmZVFCUWJwaXVwT2Q2OUpXOTl4bEV5Vi1scFlMM0FKMHpQa2hiTmtKYUdjNmFRT21VeVVESFhMcTNqb29HT3NzNERSblY3dkJYNDg?oc=5",
-      "publisher": "Jiemian.com"
+      "published_at": "2026-10-29T10:38:30+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fT0lKQWJzeHRYNllGWV9qSWNla2x6cEZlajJULXFxRldxVWliemxYc0d5V1UtNG1TWmE2TWRkTy1nQ2RBWVZTMmtXVExHQmt4ekNz?oc=5",
+      "publisher": "新湖南"
     },
     {
       "id": "auto-6bfd77d11424aaa8ed92",
@@ -288,21 +333,6 @@
       "publisher": "中华网"
     },
     {
-      "id": "auto-19fd2b0a78228d101212",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.29",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "贡献了两成收入的中国市场对三丽鸥有多重要？",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-29T09:01:10+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wdFRfM0pwNURLNTJEWEx1b09zVl9CN09JTHhzRFlwT2hBUGljc3ptZTZHNjBtY2VDX2g4VldGMWVaRld6SEYtWFJYSElwVFNSaGE1cXBYSy0?oc=5",
-      "publisher": "Jiemian.com"
-    },
-    {
       "id": "auto-113c1eaad30c31fa4042",
       "kind": "hot",
       "tag": "品牌运营",
@@ -316,6 +346,21 @@
       "published_at": "2026-10-29T09:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TTk84cnVqMWNJNTQ3NTRYb243djNGNW1yNFlzSzFfWUk2aTliRUUwNGdvc1FyYUpiV1lnT0s0ekdpcUlvRmIzQ3NPbnYzNlA1dEs0OGVHUWtvM243TUp5MGdmT1MwX0hHcy1iemQzcXZmSk3SAXNBVV95cUxPU05POHJ1ajFjSTU0NzU0WG9uN3YzRjVtcjRZc0sxX1lJNmk5YkVFMDRnb3NRcmFKYldZZ09LNHpHaXFJb0ZiM0NzT252MzZQNXRLNDhlR1FrbzNuN01KeTBnZk9TMF9IR3MtYnpkM3F2ZkpN?oc=5",
       "publisher": "Columbus Ledger-Enquirer"
+    },
+    {
+      "id": "auto-19fd2b0a78228d101212",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "贡献了两成收入的中国市场对三丽鸥有多重要？",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T08:49:09+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wdFRfM0pwNURLNTJEWEx1b09zVl9CN09JTHhzRFlwT2hBUGljc3ptZTZHNjBtY2VDX2g4VldGMWVaRld6SEYtWFJYSElwVFNSaGE1cXBYSy0?oc=5",
+      "publisher": "Jiemian.com"
     },
     {
       "id": "auto-310a02da76d2ac0fa020",
@@ -526,6 +571,21 @@
       "published_at": "2026-10-28T14:55:46+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKR0s1WGo1UkdMT01OcWdrRGRDeXEwaDJnY0RNN1IzZFl4eHpFRmZ2bWpQcE5wak9Ra1RqTU1pZFJxdm9ZWWdwandvdl9UWGtKQk1ha0swV2lRTlI5SGdWOEtCc2NyZ1JhRE1BU2FEclNzVS1odjc0RTBNZEc?oc=5",
       "publisher": "Retail Gazette"
+    },
+    {
+      "id": "auto-996ff20fb2cc7ef5fe4d",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.28",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Molecule expands retail reach with Steinhafels, marathon marketing campaign",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-28T14:36:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDRrN0U3MDk4dUh6Zm1GRWxhaWlULU9TOTdVUDlDX3Yyb2t2TUVFSjV0WWpUOUE5dnBkclFCVDJBQXZ4cVpSSkNNNzRTN2hYVmVmRzRoc3JVOUVlanhhaUM5NFMzSExVQXhNeF82UXEyUzZTc1lEWEhqelFNcFhmM01Td1d0Z1lYU0pTVVJzNWpDeUY3THgyVFdtYTZ3aUpDR3J5a2tpVkxlR0tuTWdxVGFxZlZpRHdCYzlJNGdaZVRwbXBkYzhn?oc=5",
+      "publisher": "Furniture Today"
     },
     {
       "id": "auto-f7694b50372fa23e7c2f",
@@ -1741,66 +1801,6 @@
       "published_at": "2026-10-22T17:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWNmWHhHUmQxeDltYXlaMWRKbnFqcTNiczJ4YmZaTXQxMjRhRU1CUXFvamlmTnBNY0t5V0pVc1NTM1NRR3ZaQXdVZEx0Z3Jwd3J1YV9wdzZvYXlyYnV6ZmZhYWxGOS1HbGpkblhMNWRRUWdfVThja01ZYnhCU3cxRmw4bEVqMDhqNEVFV204NFU4N2hBaWltTEIwUUN0bUszYjJjTkJYa20wY1AyOW10N0JucVNrN3Q3Q2ZIdG1kUmc2RkZtaHdlMkJWTTlyaVlOVVYwNnRnb0Q?oc=5",
       "publisher": "PR Newswire"
-    },
-    {
-      "id": "auto-04e77e3cad1379990a0d",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.22",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "双11大促火热开启，穿山甲打出营销投放与流量变现组合拳",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T13:40:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZGNKOFFsazlqVkdZT2xqRXJMQ3drb1c5QVFOSmpMLUR1bnRJWms4bDY4V20tUnptVDctN20xTkdXcWxUNHdUTHRqN1hzNERoU2F0TXlBZWFYSnJEMFRreg?oc=5",
-      "publisher": "电商派"
-    },
-    {
-      "id": "auto-5ba0dcfba3eec644c2f5",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.22",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Market Minds Creative Launches Mindy's Market Launch for Simpler Ad Campaign Management for Startups and SMBs",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T13:34:02+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY21BbklwSWVyd1dyUjFSRHVJaXRLTi1yRUdSWE5iUjBFbFZELUxKX0VzNjlLU1I3NlRUTUpldXpkeVBoYTFhTUgyQk1VVFlfamk1NjdNYUZtZjduVEt4VVp3bmI3akUzckF2aEp4ZnVxQTlxVXhvVkIxZTZLNlNyMmE0RWg5Uk1fdTRoUzJZWmZ0UXc3TGhNb0NnTVJpOGRGd3FCdA?oc=5",
-      "publisher": "Digital Journal"
-    },
-    {
-      "id": "auto-80232a9ac8d739582939",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.22",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "IP联名，AI对话，展会联动！数见苏韵·家门口看大展苏州站落幕",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T11:21:58+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5seGhoVjJ5SGRQZWhHV015Q3FoZTJZbUducmxfR3NUWTdobFBiZ09xRm12TXBKWEVwbWIyMnpHdDdDSWhhX0xRejRrcE0?oc=5",
-      "publisher": "凤凰网"
-    },
-    {
-      "id": "auto-3a06d955a550330fe0cf",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.22",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "四十正青春！2026中国玩协四展在上海盛大开幕",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T11:00:18+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIVThoVkpFS0hVUWRsOE90dHpPbjBSRWgzWTdPcVF4aHhaeGdqUkt4NXVDOU9YUjI3TUxmdGZlcXFYTHhCb0oxTQ?oc=5",
-      "publisher": "品玩"
     }
   ]
 }
