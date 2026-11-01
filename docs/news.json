@@ -1,7 +1,52 @@
 {
-  "checked_at": "2026-10-31T04:17:55.353595+00:00",
+  "checked_at": "2026-11-01T04:37:43.380789+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-f4c11bc5916b61c6efa1",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.11.01",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "电商周报：天猫抖音双11首批榜单出炉；腾讯绿泡泡短剧小程序月活过亿- 零售",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-11-01T02:10:15+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waDRNN0xNSVlPdk02OGZZOHVVbElfWXBPd1JHcGlNNTFEWl9VVzBtZlhiZk5RaktRVHZ3Vm5qVVItcEd5RDl3cWJqV1ZKd2c0cEpmWkZn?oc=5",
+      "publisher": "亿邦动力网"
+    },
+    {
+      "id": "auto-fcfb72734523e2789e0b",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.31",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "活动回顾 | 走进品牌方游学：出海的产品与营销，在现场讲透",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-31T06:48:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbWNVY0xZYWcyMG83QXRLcU9LNl9Idk5sWFFKYlF0Ulc3UXN6MkNJU0hEYzc0Ykhmc2JuLThRbUhHcXJLRFQ1bUEtbUlodDl0RXNkcndHLXR3SmhwWGNLX3prcHE0VXJCT2c?oc=5",
+      "publisher": "风闻"
+    },
+    {
+      "id": "auto-afe3171cc7d92de2303d",
+      "kind": "hot",
+      "tag": "内容运营",
+      "region": "全球",
+      "date": "2026.10.31",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Ecommerce Social Media Marketing: Data From 72 Brands",
+      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-31T04:16:48+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PVzFHQVcyR1QxWms3QjRfTmVHajJMU05xcnJ0WVNfcWtXV1o5T2dIUmxCT1VwbUM5cFZXSFd0M01BTEFsb0NzV0VxOUt5bVlZSUJsbjFrNXYwSzA3dHBoUXVIRFZwdw?oc=5",
+      "publisher": "Metricool"
+    },
     {
       "id": "auto-9eb0ce9cf222f3b94203",
       "kind": "hot",
@@ -194,8 +239,8 @@
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-29T14:47:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzMU80OVlVWmVSQkFBZXROdWNZb1RybGVnYlhERXBud0tXSWU0b3VaMzZnZExfYWpCVmh6dTNQckE5cU94a1Focl91eDRwRTZBWVFGZjdjRVNOdHo3UHB2SmZ0THo0T0dQZUF1OTNJZGNQaHZTajhmLQ?oc=5",
-      "publisher": "新浪财经"
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWVOMUhaTmhTcXRHb1Q4Qk1mNWVFZVBVNlhGaDgzZkluZ1ZnZE1JVnFob0p6ZWNOQ1FCU1VURHNxVVVUaXVSczFkU05sSENkTWJLRGctclRHY3RGRzRQRFFoeTJ3MXZ2N25BbjhKVE94Szd2VTFuYW5zLU5oX29PbnVGYlQtc3N1clYw?oc=5",
+      "publisher": "新浪网"
     },
     {
       "id": "auto-4b5e0e6a698cca826136",
@@ -1110,7 +1155,7 @@
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-26T22:01:42+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbzIzQXh5WFVaTjZ3dWRha3YyZ05vTi1aNzByZ0tOMEJDZnNZRkVuX1lzcE9PNzlSYUg0UmVteS05ZVJpaVBHc1dmcEd3MVhLQVA1aURodk1SMzZZTXRuNmN4U0hMcTV4dUJMRzNvaTU1MlprNDNlZTlhekN4YmtPWGhHUXlpUWlWVlE?oc=5",
-      "publisher": "Adland"
+      "publisher": "Adland.tv"
     },
     {
       "id": "auto-b4b3bb39a4ac662b63eb",
@@ -1261,6 +1306,21 @@
       "published_at": "2026-10-26T07:33:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZTd3ejgweWtIQjlNb3FoaFIzQzh5V3BRSlJhVEM3eGdNdHJ2R0dUNnZ6dHNCZFNxUzlPY0U1ZXFhMnZ4YTlTLXlZaC1tMEhkWllsb0NB?oc=5",
       "publisher": "投资界"
+    },
+    {
+      "id": "auto-3622e30c851dd6b6faaf",
+      "kind": "hot",
+      "tag": "内容运营",
+      "region": "全球",
+      "date": "2026.10.26",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "15 of the Best UGC Platforms for 2026",
+      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JNnJqV1lZYmJySU1FV3ZJcS04X2JKRmNDWEp5cXBDUHRTTXBlV2xERE9PMzI1Q1JzMGpIU0g1aThpMGtheWNtckFIT0x1Q2ZSOTBOM0Y0YTJsb1o2bk9rM0dUUjBZRFlOd2h3SHBvc2xjVTRiZi1n?oc=5",
+      "publisher": "Influencer Marketing Hub"
     },
     {
       "id": "auto-200ba3af936419df806a",
@@ -1741,66 +1801,6 @@
       "published_at": "2026-10-23T03:53:55+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51NU9JWlp3WTc2VEF6WS1TZW1Rb1NjVy1zOUgwZXRwNnljZHFtbXI1UzFXbl85Rzdwb1Vnc0ZxWWVjS2NDOUwyTW01aExabWIzQ2JBb2RMYlBzQnR1ckJHcGhzLXBFems2NEprdWRuZE5GSkU?oc=5",
       "publisher": "潮新闻客户端"
-    },
-    {
-      "id": "auto-5ffbefe417aba0724c22",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.23",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "2026 Marketing Leader: Kathy Forrester",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-23T02:19:51+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm5kLWd6ZVM3UEpUdXFCdTFvRzktTm5jZG1WNG1uRFBrcXdzQTU4WTVSTlRiTDhUOEtleEZ5ak5lSGtoRXUzemtPc2cxaTQ4bkFoeDdCR2ZBSlRIcC1FRXpkQnJUdTY0eDlKSjdnZTUxa1ZvUmdOYVZ1M0xVdlR5ZFpyWWkzUHpS?oc=5",
-      "publisher": "HousingWire"
-    },
-    {
-      "id": "auto-e16e60eb6402f98eb05d",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.23",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "《2026年假日品牌营销报告》",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-23T02:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FbmpWelNTaUl1ZE14UjhOblZxRHR6a1duQmFfbTN5SEVkTmhEZmhYTS1VOF9xODZZQk5NZDhhZEU4ZUdEbXl2UldUUQ?oc=5",
-      "publisher": "品牌方舟"
-    },
-    {
-      "id": "auto-e47ada432ee6fe4b1d99",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.22",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Home Run Inn Pizza Launches New Television, Integrated Marketing Campaign",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T20:26:25+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXJlbmlvUXN0aEZtLTc5UGJMOC1ZM2lKLTVPUFlWRFR6enVoeVlVOGhuVnRZM0N5X1RUeTFvaXNNLVlRRktlOW12ZU5nYkt0R1NzelZ0TnkwZ0F6RTFrZEpCb2VDdFI5SmR1c1oxYjVuZ284ODNpb1d1OUV1NGRkSlFVUEk5cEZBLVZaLTlwaUZNM1R6dS1nenNONnlSbk84bzFlVHdSZGVWYm0yQXNYbWloWktjcEJQcHZvVg?oc=5",
-      "publisher": "RestaurantNews.com"
-    },
-    {
-      "id": "auto-a1cee4a1bf2e8e62a5eb",
-      "kind": "hot",
-      "tag": "内容运营",
-      "region": "全球",
-      "date": "2026.10.22",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Designkit Launches Free Image Background Remover for Ecommerce and Creative Workflows",
-      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-22T17:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWNmWHhHUmQxeDltYXlaMWRKbnFqcTNiczJ4YmZaTXQxMjRhRU1CUXFvamlmTnBNY0t5V0pVc1NTM1NRR3ZaQXdVZEx0Z3Jwd3J1YV9wdzZvYXlyYnV6ZmZhYWxGOS1HbGpkblhMNWRRUWdfVThja01ZYnhCU3cxRmw4bEVqMDhqNEVFV204NFU4N2hBaWltTEIwUUN0bUszYjJjTkJYa20wY1AyOW10N0JucVNrN3Q3Q2ZIdG1kUmc2RkZtaHdlMkJWTTlyaVlOVVYwNnRnb0Q?oc=5",
-      "publisher": "PR Newswire"
     }
   ]
 }
