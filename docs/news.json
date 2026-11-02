@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T01:38:28.181818+00:00",
+  "checked_at": "2026-11-02T01:40:34.976986+00:00",
   "feeds_ok": 4,
   "items": [
     {
@@ -76,6 +76,21 @@
       "published_at": "2026-11-01T02:10:15+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waDRNN0xNSVlPdk02OGZZOHVVbElfWXBPd1JHcGlNNTFEWl9VVzBtZlhiZk5RaktRVHZ3Vm5qVVItcEd5RDl3cWJqV1ZKd2c0cEpmWkZn?oc=5",
       "publisher": "亿邦动力网"
+    },
+    {
+      "id": "auto-6b1e5d7a5db63d811866",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.31",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "“对对碰”碰出真需求，普陀数商企业现场供需匹配",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-31T13:17:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01cDIxQlJsS3laeGthOFd4c2trMl9mYUhfT25uRnhoemg3M2ZyMkE1bHZ6Mno2QUxaYWZsTnpSYlo2bkN5SVBZeWltby1RUE0zQVVNMmpDYUw2MGdmWWc?oc=5",
+      "publisher": "上观新闻"
     },
     {
       "id": "auto-fcfb72734523e2789e0b",
@@ -316,6 +331,21 @@
       "published_at": "2026-10-29T14:35:52+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVdWUG9KZk1IVDhWRGVXdks4N2NBdVBXZGNqeHRjNEp2Qm9ORE5NUzhlOVpQd0FhQ1FnOWJvUEYxX2s4R2ZsTGZBV1dteXo4ZXpTTDk4dHhTYjJ3VWRCN01VQnp5Rlo5ODBaekNQd3lwTmRaN2FZRkZtMXhTcUZxY1Uwcw?oc=5",
       "publisher": "中国新闻网"
+    },
+    {
+      "id": "auto-56c74958989db26afe01",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "川渝发布“双11”网络集中促销期间合规提示",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T14:33:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92VFg2VzEwdEVBQ0Y3OWZKcjVacUQzbHQ1cDFYMU9tdEFtMGh5UXI0ci1nTEd5dnFjcWpoemxIRVJWb083dGVjNERLa1ZMQQ?oc=5",
+      "publisher": "川观新闻"
     },
     {
       "id": "auto-26f79fea513e9dce78bc",
@@ -1771,36 +1801,6 @@
       "published_at": "2026-10-23T07:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iOHBIX2I3SmVnTk9lM045WEdzeTBkNjlZbTZHTEVZbUROLUY3bEtMaElEeF9HMXI3bDVMS3NVSWZKWTN5TF9pRnJqUDBPdEtkMUNzQ1kzYUhkV1RTOF9uYUNLb3I1OUlK?oc=5",
       "publisher": "Business of Apps"
-    },
-    {
-      "id": "auto-657406122abc2ced2b26",
-      "kind": "hot",
-      "tag": "内容运营",
-      "region": "全球",
-      "date": "2026.10.23",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Top TikTok Marketing Agencies (2026)",
-      "body": "每日资讯 · 全球平台动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-23T07:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85blBObUFIU0hLV1p0MGZ6OVpnU1d3cXhheGRxZmJxV2tvWDUzUDc4aGxxUV9JRG9McURLUWxTSXlscHdnd0lfdnpZdzFjLWFYRE9HTlhKc0dJVFIzYnFz?oc=5",
-      "publisher": "Business of Apps"
-    },
-    {
-      "id": "auto-e7ca6a576bfd4ba5c46d",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.23",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Learn by Example: 7 Successful Small Business Marketing Campaigns",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-23T07:00:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWmswWDZ4aHlRcWlkcUt2MVI5MVZQSEdfZzVEYjluaENvRU04Y3RfdVdFZEJZNU5Fa01UOTJKSmZBWXhoS0k4NHlvTTFWNlRTRUNiUnpyZHFTQ054R1BYd3ZXZ0xkelBQOHhrT05yUXVnYnFWMlV0MWtUS3J0SUdKR2trWU43b0ctZmdoQ1VMblBpQQ?oc=5",
-      "publisher": "Business.com"
     }
   ]
 }
