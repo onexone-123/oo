@@ -1,7 +1,22 @@
 {
-  "checked_at": "2026-11-03T01:35:45.082009+00:00",
+  "checked_at": "2026-11-03T05:30:28.335639+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-e19ffed4de5308f34cd0",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.11.03",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "从京东11.11赛博联欢会，看灵境如何打开电商AIGC新想象",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-11-03T03:24:43+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rS2JqT1BpWTFDY29ibDVoRkE3NmZxSkw5MnMxeG8wV1Jtek5WR3hnS0F0QXNGT2FqZDZoRGhNUmlaWHVkMk00aHluMTB1Y2FBMnhMSERmaXl4Yms3THpveTJTNmExekttV0E?oc=5",
+      "publisher": "中金在线"
+    },
     {
       "id": "auto-e2c497735f10ae77fedc",
       "kind": "hot",
@@ -809,7 +824,7 @@
       "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
       "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
       "published_at": "2026-10-29T04:53:09+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rS1QwellDOTlLMUt2QU9EWDlSY1dub0ZKNGZRMkJEZGhyY3BjU2FwQnJyNWI2THgtdXNIV0tqdWNkU1l3TlhmSmZXdWdLZTlOY3g4cmhOOGtzZzg?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUUI0OVhkTW9ncFY3RUNSamJUUHY5S1A1cnVITTlrWm1nU3lYTXZvcm5UYVozQ3NjYnN4MWthdWJ2ajdxeEhoam1QMllzajFVclVkWmtFSU1MS3c?oc=5",
       "publisher": "极目新闻"
     },
     {
@@ -991,6 +1006,36 @@
       "published_at": "2026-10-28T13:00:28+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3RlcTFQdzZGWGYwVDREWFAyTGU2dTQ0VUU1VGRLUE1abXZoSVdmOW50SXdETkRoWWdtN2ZpTzEzbXpsSTBFdi0yT0RVbFptZzBCaFBtMEc1YS1NODlJcThudVo3aVpqUF9FWHhCbHVxaGxlNGRhYmtWWG1HOUgzOWVKUE5aZ04wczBjbXhkbWtWRTlkYm1LdFRKUHdZaW90N1MzVDZWc0JoS0Z3cDhDTGp5RQ?oc=5",
       "publisher": "Net Influencer"
+    },
+    {
+      "id": "auto-ee1aacd7fdedbe6d30cf",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.28",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "RONA launches Valu+ campaign with fictional luxury brand",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-28T12:04:56+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczVJUm9YS1hVdGtuOUtlQUVqaWNGY0Y3YTZuVUw4TVJkckpBMElTUFVlNFpwanNrWDNRWHVvUVNkcWt5aUJzQmc3bkNfak9rVXdRVHUxRW5ONGc5Z2tuUWp4TXo5cGhVMV9aSWZaU0Z4XzdLVXJ5c1RkYTIzMkFCVG9IT3hZbUphZi1yVEZadVJIVlAx?oc=5",
+      "publisher": "Hardlines"
+    },
+    {
+      "id": "auto-f6ab7cc3a39e686ebb69",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.10.28",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "备战年末爆单季，中国出海卖家如何通过Snapchat触达全球近10亿用户？",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-28T10:22:34+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85WkRLdmdzbkpMektsUlB3N0RxNHl2TmhaZVEyMlFwYUxaMWVlNHFONnZqbFhPY3ZPSVJJOEdtLW5oMDFTeGc?oc=5",
+      "publisher": "36氪出海"
     },
     {
       "id": "auto-af50a12637410878bb06",
@@ -1233,21 +1278,6 @@
       "publisher": "中华网生活"
     },
     {
-      "id": "auto-f6ab7cc3a39e686ebb69",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.27",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "备战年末爆单季，中国出海卖家如何通过Snapchat触达全球近10亿用户？",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-27T19:09:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIRWllNFJ5dHZoRURVNGE3RGZYdU85U2tTNV9welRIRE5xQTZWSkJTYjRzd2wwLUtuN2ZUZFlvVkp3THU1QVVkVlVOdjBQQQ?oc=5",
-      "publisher": "36氪"
-    },
-    {
       "id": "auto-365f1279e7b6449464b1",
       "kind": "hot",
       "tag": "电商运营",
@@ -1336,6 +1366,21 @@
       "published_at": "2026-10-27T11:52:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9TUUV5WXMyZ1NsUDBaQzRhdkRYQmhuS1dHLUg5aDdHUHR3R25hY0hlTWE5TzZBQlJuRXU5bWdSY0Q?oc=5",
       "publisher": "华丽志"
+    },
+    {
+      "id": "auto-cc44195f86199fcacb21",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.10.27",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "The Vogue Business AI Tracker",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-27T11:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
+      "publisher": "Vogue"
     },
     {
       "id": "auto-08c25bc3e140c12edd67",
@@ -1756,51 +1801,6 @@
       "published_at": "2026-10-26T03:01:37+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BMGFfWjdZSmhySV8xM2ZoeC1lLXlVTHdsams5OGJmYkNXa2FsaE1pSmhUQkRlN3d3MXI2eGh2QmVpWS1pejdJbGpVbDhiVXU2RGk5NExnYkdocFB5dVA3alJHRGNCdw?oc=5",
       "publisher": "济南新闻"
-    },
-    {
-      "id": "auto-ba3ba60a27ad8b8e307b",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.25",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "中国贸促会跨境电商专题培训（浙江专场）在宁波举行",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-25T14:35:01+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGxRbGxKNEtudVV1OXJ3bVhRZUhyeU9ta0FWTXhvTE1rTy1qZDN5aVN5NVVqek81Xy1tT2tIVWRCWlRTTlZVNlJSX19vSDR6SDZobTBKSW1tUGZ6ZEtSTFVvR0I0MXVnZkpHeFM5QzJXTDdQRk5jRVlENGVvakVBUFRn?oc=5",
-      "publisher": "中国新闻网"
-    },
-    {
-      "id": "auto-677b890e027b942fd09a",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.25",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "联名IP激活硬件存量市场，存储品牌深度联名或成游戏市场新宠丨新经济观察",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-25T13:57:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmh1OE9CU0hzaXJvWGtpOEg5VHEwN1hYd3ZmaUREU0szWXlCVVdkUnl1QzQwcmxZS0NVU0J5X0lmV2h4bnBrejNNQ3dBTVQ0Ym9qdWFRTXNHQ1RybTdxeVNkY2NtUklxQk91aUx2MEZsMVcxc0IwbVRDbDQwcE5wRzdRVQ?oc=5",
-      "publisher": "封面新闻"
-    },
-    {
-      "id": "auto-9bff30b47dd11781c75b",
-      "kind": "hot",
-      "tag": "电商运营",
-      "region": "中国",
-      "date": "2026.10.25",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "“大V”合作叫停，基金公司新动作来了_中国基金报_媒体广场_财经",
-      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-25T13:36:29+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UcVNNOGw2bEhrVnd2SjFMU1lGRE43Zk5nY21wYTBLcWpxNm9KajVOal93alBmclZ3b2owVlFWcXhnM05uYkhCQmtQb0E1NU1CWkotczRUSkVCV3RfdjBTTQ?oc=5",
-      "publisher": "证券之星"
     }
   ]
 }
