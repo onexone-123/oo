@@ -1,7 +1,37 @@
 {
-  "checked_at": "2026-11-04T01:38:22.646665+00:00",
+  "checked_at": "2026-11-04T04:59:39.429142+00:00",
   "feeds_ok": 4,
   "items": [
+    {
+      "id": "auto-185cd952fcc4beabdfb2",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.11.04",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "洪山区推进“三新”消费试点，IP跨界破圈为本土品牌拓新局",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-11-04T02:29:25+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56ODdwMExpTndkTzdkN0U0bGVVUTFLZ2VNMWw4UDlXMG5qYWRmV3J1cWtBekdjR0RHcWlPVjdNRVpLa1J1VzdqWUxaV2prTUh0QUdyYlU2bF9uYVc4eUtqZnRuSU5fV0cxOHRabEZYeEs0UQ?oc=5",
+      "publisher": "武汉市商务局"
+    },
+    {
+      "id": "auto-2d38987eaef30d400982",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.11.04",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "2026全球熊猫伙伴大会·品牌生态发展论坛在成都举行",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-11-04T01:36:01+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zejFRVzhKcEJiYmgzRFRMaVU4QzIzQTZjTklVcFc2V2JuMjlpRzhPbmhrZ3hhQXZPQkcxcXRwTWMyTFhtdFR1OF9UZHQyTmtwZ0h1bmlBNnJNQkRSUHJuelc1cC1RMUE?oc=5",
+      "publisher": "光明网"
+    },
     {
       "id": "auto-56344d93b430d3ca37cb",
       "kind": "hot",
@@ -963,21 +993,6 @@
       "publisher": "Influencer Marketing Hub"
     },
     {
-      "id": "auto-4d09039d95f8025674e5",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.10.29",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "倚重中国市场增长的三丽鸥，不能失守历史底线丨新京报娱论",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-29T06:43:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkVISzVzMnBoR0FDMnJLRVRHQ3VMeFJOUkZnUXNYMHBIdG92UjJ4TnJhdVdfU1lVY3ZSYk9FMnFiTG9VRHBXcDU5VlZwUmxWLXNZYkZ1TnlLa2FIOGw1bE1kNU1CSldqaG9xa1ZGdG9kbWN4SThmOXNDdXdMX0VCNk5NZkJETWk5eFNqNEtB?oc=5",
-      "publisher": "手机新浪网"
-    },
-    {
       "id": "auto-e52c6f3652bb9f863fe6",
       "kind": "hot",
       "tag": "电商运营",
@@ -1006,6 +1021,21 @@
       "published_at": "2026-10-29T06:14:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qeUxnd09mNGh4T1JlUElQUk4zenZpcURlMkM2ZFpRaEJnUWVoTWZUbGc1eXNPbHl1bncyMUI1eFR0clJpc19DOUFMa21tQQ?oc=5",
       "publisher": "川观新闻"
+    },
+    {
+      "id": "auto-4d09039d95f8025674e5",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "中国",
+      "date": "2026.10.29",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "倚重中国市场增长的三丽鸥，不能失守历史底线丨新京报娱论",
+      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-10-29T06:08:37+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnpIMEw1RmRCc0Y0WHltTXp3LVNHTmF0SllqdjJaTXpORGV3ME9LZXhaV3N5d3FnTXhMbE9pV3dWcm1lVWxFZzNEVDJObkk1NjdtdFA1b2JfSGpzMm02Nm9tdjJCbWJpNUNGY0ttVUo0eUxkVGs5MzlHUlM0UEV2N2FzR1VDUkR4?oc=5",
+      "publisher": "搜狐网"
     },
     {
       "id": "auto-e2dc67a9684009226f5e",
@@ -1771,36 +1801,6 @@
       "published_at": "2026-10-26T17:26:55+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTRqT1RmTnRaN3FTdzRMaDd0dWRrQnBYODdpemV6bUpreXVoVWs0MDhva25VZnlHVTF6T1pmWTRFRTJNeWNSTUVtWWxBZzVjYXo3aS14UUlVZVV0aWlpQ3RuWTIySEJrbmszRnBfR3FDTTlnaDhfUlpKd0ZCOXFVUXRTV0JPNFdQNEExRUdTa2xwbzhuVkVwRTgyTmRyNjBJNzhEb0hhaUR2ZWw0VHc?oc=5",
       "publisher": "quasa.io"
-    },
-    {
-      "id": "auto-8b9717c39c249bcb7a88",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.26",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-26T14:39:11+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLW1wZjdONXY1MUs3VG1oaU9GSGF3c0cwNTlhNWtnd2I3OExMc1diVzZnN0tweFE1a1RObjJDY0FULXRYdjZTeXZJVDRCZGNRMzJTQ0QyaUpNOVlPVGY3LUQ4RF9URGoxZ1VNOHFPMjUxZS1KQzZsZklNNkFCX2dsREk0OWdDYlZkeUZiU2dNUFdYVTJoQTZtMGRDWFFad01PeFlxaVlfcExEc3lhRHFnNVJ0RGhMZw?oc=5",
-      "publisher": "Marketing Dive"
-    },
-    {
-      "id": "auto-a69d14c651ca4c11dc57",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.10.26",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Hickey Launches Hickey Creative, Bringing Site-Selection Perspective to Economic Development Marketing",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-10-26T14:15:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaF95aUpGZXJzSmROMVhtSFNEVnBEbDBiUUQyWFYwc1FqMlREeHR1cS0zeE04VHZRWk53RW5GNTZ6LXVKQk10TE9MenM4dmNZSlV1U2RWUkhNZnZ3c3VUOThzMDFuQUxrcDJJTTJwbEZNZVJUR1lEcFJGeHRQQWZvNEJUUDBoYUlCWVhmUE9FOXNyTGRublAwV3pfZ0pjQ3pFZHo1ODhEYnZoZ3ZpMEdZY1VhME9scU94UkRaWm5sZmdFbXIzaVZXNF9pUk5YR1N6QjZqRU5wSDczcmRfcWJOVmt6YVBaRmVnb2dOR3NIb1lzbGRJ?oc=5",
-      "publisher": "Morningstar"
     }
   ]
 }
