@@ -33,7 +33,8 @@ def enrich(data, translator=translate):
                 translated = future.result()
                 for row in pending[title]:
                     row.update(title_zh=translated, translation_status='machine')
-            except Exception:
+            except Exception as exc:
+                print(f"Translation failure: {type(exc).__name__}, HTTP {getattr(exc, 'code', 'n/a')}")
                 for row in pending[title]:
                     row['translation_status'] = 'unavailable'
     return data
