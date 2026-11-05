@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T11:11:28.126744+08:00",
+  "checked_at": "2026-11-05T13:20:44.092985+08:00",
   "last_success_at": "2026-10-28T12:13:04.084363+08:00",
   "last_content_update_at": "2026-10-28T09:37:26.843072+08:00",
   "status": "error",
@@ -7,7 +7,7 @@
   "examined": 0,
   "errors": [
     "/: ValueError",
-    "/in-depth/: HTTPError"
+    "/in-depth/: ValueError"
   ],
   "items": [
     {
