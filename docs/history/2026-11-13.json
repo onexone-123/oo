@@ -1,0 +1,1376 @@
+{
+  "checked_at": "2026-11-13T01:33:27.276487+00:00",
+  "date": "2026-11-13",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "items": [
+        {
+          "heat": "",
+          "title": "Outlook",
+          "rank": 1,
+          "url": "https://x.com/search?q=Outlook&src=trend_click",
+          "title_zh": "前景",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "マイクロソフト",
+          "rank": 2,
+          "url": "https://x.com/search?q=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88&src=trend_click",
+          "title_zh": "微软",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "#loungedasblogueiras",
+          "rank": 3,
+          "url": "https://x.com/search?q=%23loungedasblogueiras&src=trend_click",
+          "title_zh": "#loungedasbogueiras",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "大規模障害",
+          "rank": 4,
+          "url": "https://x.com/search?q=%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%9A%9C%E5%AE%B3&src=trend_click",
+          "title_zh": "大规模故障",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "#LatinGRAMMY",
+          "rank": 5,
+          "url": "https://x.com/search?q=%23LatinGRAMMY&src=trend_click",
+          "title_zh": "#拉丁格莱美",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "#SVFinal",
+          "rank": 6,
+          "url": "https://x.com/search?q=%23SVFinal&src=trend_click",
+          "title_zh": "#SV最终",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "EBiDAN",
+          "rank": 7,
+          "url": "https://x.com/search?q=EBiDAN&src=trend_click",
+          "title_zh": "埃比丹",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "M365",
+          "rank": 8,
+          "url": "https://x.com/search?q=M365&src=trend_click",
+          "title_zh": "M365",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "アウトルック",
+          "rank": 9,
+          "url": "https://x.com/search?q=%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AB%E3%83%83%E3%82%AF&src=trend_click",
+          "title_zh": "前景",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "#セブンイレブンで発見たまごっち",
+          "rank": 10,
+          "url": "https://x.com/search?q=%23%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1&src=trend_click",
+          "title_zh": "#Tamagotchi 在 7-11 发现",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "画像20枚",
+          "rank": 11,
+          "url": "https://x.com/search?q=%E7%94%BB%E5%83%8F20%E6%9E%9A&src=trend_click",
+          "title_zh": "20 张图片",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "#サーティワンパティスリー新作",
+          "rank": 12,
+          "url": "https://x.com/search?q=%23%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AF%E3%83%B3%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC%E6%96%B0%E4%BD%9C&src=trend_click",
+          "title_zh": "#三十一糕点店新商品",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "ジェイソン",
+          "rank": 13,
+          "url": "https://x.com/search?q=%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%BD%E3%83%B3&src=trend_click",
+          "title_zh": "杰森",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "Nvidia",
+          "rank": 14,
+          "url": "https://x.com/search?q=Nvidia&src=trend_click",
+          "title_zh": "英伟达",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "Urias",
+          "rank": 15,
+          "url": "https://x.com/search?q=Urias&src=trend_click",
+          "title_zh": "巨大的",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "Jensen",
+          "rank": 16,
+          "url": "https://x.com/search?q=Jensen&src=trend_click",
+          "title_zh": "詹森",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "システム障害",
+          "rank": 17,
+          "url": "https://x.com/search?q=%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3&src=trend_click",
+          "title_zh": "系统故障",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "Office365",
+          "rank": 18,
+          "url": "https://x.com/search?q=Office365&src=trend_click",
+          "title_zh": "Office365",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "사진 20장",
+          "rank": 19,
+          "url": "https://x.com/search?q=%EC%82%AC%EC%A7%84+20%EC%9E%A5&src=trend_click",
+          "title_zh": "20 张照片",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "SharePoint",
+          "rank": 20,
+          "url": "https://x.com/search?q=SharePoint&src=trend_click",
+          "title_zh": "共享点",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "MS障害",
+          "rank": 21,
+          "url": "https://x.com/search?q=MS%E9%9A%9C%E5%AE%B3&src=trend_click",
+          "title_zh": "MS障害",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "焼き芋の日",
+          "rank": 22,
+          "url": "https://x.com/search?q=%E7%84%BC%E3%81%8D%E8%8A%8B%E3%81%AE%E6%97%A5&src=trend_click",
+          "title_zh": "烤红薯日",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "Anitta",
+          "rank": 23,
+          "url": "https://x.com/search?q=Anitta&src=trend_click",
+          "title_zh": "安妮塔",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "QUEM AMA HOMOFOBIA",
+          "rank": 24,
+          "url": "https://x.com/search?q=QUEM+AMA+HOMOFOBIA&src=trend_click",
+          "title_zh": "谁喜欢恐同症",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "Pence",
+          "rank": 25,
+          "url": "https://x.com/search?q=Pence&src=trend_click",
+          "title_zh": "彭斯",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "ABCマート",
+          "rank": 26,
+          "url": "https://x.com/search?q=ABC%E3%83%9E%E3%83%BC%E3%83%88&src=trend_click",
+          "title_zh": "ABC商城",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "OneDrive",
+          "rank": 27,
+          "url": "https://x.com/search?q=OneDrive&src=trend_click",
+          "title_zh": "云端硬盘",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "茨城県民",
+          "rank": 28,
+          "url": "https://x.com/search?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%91&src=trend_click",
+          "title_zh": "茨城县民",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "仕事休み",
+          "rank": 29,
+          "url": "https://x.com/search?q=%E4%BB%95%E4%BA%8B%E4%BC%91%E3%81%BF&src=trend_click",
+          "title_zh": "下班休息一天",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "コパイロット",
+          "rank": 30,
+          "url": "https://x.com/search?q=%E3%82%B3%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88&src=trend_click",
+          "title_zh": "副驾驶",
+          "translation_status": "machine"
+        }
+      ],
+      "collected_at": "2026-11-13T01:33:27.314459+00:00",
+      "upstream_time": "2026-11-13T00:39:19.249000+00:00",
+      "kind": "third_party_trends",
+      "region": "全球 · 保留榜单原语言",
+      "source_name": "Trends24",
+      "source_url": "https://trends24.in/",
+      "note": "第三方记录的 X 全球趋势快照，非 X 官方接口；条目按来源顺序，热度按来源口径。"
+    },
+    "facebook": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "Anti-migrant posts dominate Facebook groups by 42 to one in asylum protest towns",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG5MQl9rdXJZUWFOS1ZTcVNzY0d4RjN0dEUzNGRtdlBNQjVkU0xzWF84Mk1PalduSU5qREFfeU1tMWJfVUFYNGNnNGpHTXYxZmh2TWZJU3ZMYlpXYTNvUTNzMTRnSUlndnhGNzlvQnRUSXVxb3NqSHpVSjQtQzJKSFl6OFdVTHc0NDBTTWY4bndMSUluckdTTUJmeG5RNEJYaU9BMTNvYjR0aUpFUV9pVUdWTXVaeFRRcl9ZUzJB?oc=5",
+          "heat": "",
+          "publisher": "The Independent",
+          "feed_time": "2026-11-12T17:24:00+00:00",
+          "source_url": "https://www.independent.co.uk",
+          "rank": 1,
+          "title_zh": "在庇护抗议城镇，反移民帖子以 42 比 1 的比例主导 Facebook 群组",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Russell Brands Accounts Removed From Facebook and Instagram",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWjljWURXbmlwcTFMTVFMbWN5Vkp5THBpNm1QSUFadi0zaHlrMkprZmFJTG84WE9LTkUtS1R6cExocmtuMkUwdmFHaGhPMTR3MWdrZUN2b05LRmNubUZHYzMzSTVDOXNObnF1ZEVQSUFxNGdkMEt0WFhfNWtjZGpEZmNoUQ?oc=5",
+          "heat": "",
+          "publisher": "The New York Times",
+          "feed_time": "2026-11-12T14:17:40+00:00",
+          "source_url": "https://www.nytimes.com",
+          "rank": 2,
+          "title_zh": "Russell Brands 账户已从 Facebook 和 Instagram 中删除",
+          "translation_status": "machine"
+        },
+        {
+          "title": "What’s Next for Facebook? 4 Changes Businesses Can’t Ignore",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOG9IeVVXbVVNLVdhX1NLOS1yZzdCa0RxU2Niby1fQU9OUFJjX3JRWlZDZFAxd2NrUE0zdUlvUjZBWHhwWHNLVXltVHhpNGczV19SM0xpRGJLVGp2bGE3M0RidE1mMGYxV085clk2N2FQWTJ6azRaMURCcndxd0NsbkNURWVTOXBoblhJRkJCeW1sbkdJdTF4RA?oc=5",
+          "heat": "",
+          "publisher": "Social Media Examiner",
+          "feed_time": "2026-11-12T11:08:51+00:00",
+          "source_url": "https://www.socialmediaexaminer.com",
+          "rank": 3,
+          "title_zh": "Facebook 的下一步是什么？企业不能忽视的 4 个变化",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Instagram and Facebook ban Russell Brand after rape conviction – but X account is still up",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWElqalJoR0liMktIdmdNbXBfU0ljSktkYnl2TGdybWVIU1doRFF5RFM4R2RKUVBpZTIxYUp6T21yUnFrZnA4STVVVUxfbldiYWxPWndoOVpTdEdFSm9XdUxGSldSMDMtMXZwWHpvdGZuQmRpdWYwSjlKQUhIbDQ2WTBWVjJBRVJVbkpJQ3lFZzZqeXU2eDVQc3lEekRuS284Rk9DbEVwSkdaUzg?oc=5",
+          "heat": "",
+          "publisher": "The Independent",
+          "feed_time": "2026-11-12T10:20:00+00:00",
+          "source_url": "https://www.independent.co.uk",
+          "rank": 4,
+          "title_zh": "Instagram 和 Facebook 在强奸定罪后禁止拉塞尔·布兰德 (Russell Brand) – 但 X 账户仍在运行",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Brazil fines Facebook $1.3 million for failing to comply with court orders during election",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjBBamRibTI5YjF3ZkVlU0pvTWM0QnBtN0RFbGVlNkFSQ0NSWW9aUlN5ZExRdUtRZjNIa001blZ2TzZHcVExWTMwSVZkcVRwWjM1Tm9hX2I1RmtVbS13S1JxNmVielB4Yjk3UmdhLVRtOHlfOVB5UlpUTHlKSlIwemxVekQtaGs?oc=5",
+          "heat": "",
+          "publisher": "AP News",
+          "feed_time": "2026-11-11T20:15:30+00:00",
+          "source_url": "https://apnews.com",
+          "rank": 5,
+          "title_zh": "巴西因选举期间未能遵守法院命令 Facebook 被罚款 130 万美元",
+          "translation_status": "machine"
+        },
+        {
+          "title": "I was at Facebook for its IPO, and I can tell Anthropic is not ready to go public",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0NlWDlLaG5PbDJlR2ZLN3ZIeTJPOXBlcE1ZUE84THYxdmxPc3IxWDlKcjYxdlNiUlNOemc2QzBZcnFJeHpxM2YxRTVoSGVrNjNZdWVBSHlZVUZOb0lwYVNxV1pFdHNjaldQQjNyV2FOdVk3U2N6U3I1b2NxV19sTUxzbm9NWDU3STdncU1EX2Y?oc=5",
+          "heat": "",
+          "publisher": "Business Insider",
+          "feed_time": "2026-11-11T10:00:00+00:00",
+          "source_url": "https://www.businessinsider.com",
+          "rank": 6,
+          "title_zh": "我在 Facebook 参加 IPO，我可以看出 Anthropic 还没有准备好上市",
+          "translation_status": "machine"
+        }
+      ],
+      "collected_at": "2026-11-13T01:33:27.314320+00:00",
+      "kind": "reported_signals",
+      "region": "全球报道 · 英文优先",
+      "source_name": "英文媒体报道",
+      "source_url": "https://www.facebook.com/",
+      "partial": false,
+      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
+      "empty_reason": ""
+    },
+    "bilibili": {
+      "status": "ok",
+      "collected_at": "2026-11-13T01:33:27.935017+00:00",
+      "items": [
+        {
+          "rank": 1,
+          "title": "iPhone18ProMax销量为何登顶",
+          "heat": 5707815,
+          "url": "https://search.bilibili.com/all?keyword=iPhone18ProMax%E9%94%80%E9%87%8F%E4%B8%BA%E4%BD%95%E7%99%BB%E9%A1%B6"
+        },
+        {
+          "rank": 2,
+          "title": "臣妾要线上告发熹贵妃2.0",
+          "heat": 4232521,
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%A3%E5%A6%BE%E8%A6%81%E7%BA%BF%E4%B8%8A%E5%91%8A%E5%8F%91%E7%86%B9%E8%B4%B5%E5%A6%832.0"
+        },
+        {
+          "rank": 3,
+          "title": "回顾BLG晋级决赛之路",
+          "heat": 374179,
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BEBLG%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%E4%B9%8B%E8%B7%AF"
+        },
+        {
+          "rank": 4,
+          "title": "GEN四强幕后花絮",
+          "heat": 362805,
+          "url": "https://search.bilibili.com/all?keyword=GEN%E5%9B%9B%E5%BC%BA%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE"
+        },
+        {
+          "rank": 5,
+          "title": "自制S16总决赛宣传片",
+          "heat": 353636,
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87"
+        },
+        {
+          "rank": 6,
+          "title": "细品许飞厉娜高质量对话",
+          "heat": 341866,
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%86%E5%93%81%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AF%B9%E8%AF%9D"
+        },
+        {
+          "rank": 7,
+          "title": "英格兰2-1克罗地亚",
+          "heat": 321032,
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B02-1%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A"
+        },
+        {
+          "rank": 8,
+          "title": "两广大范围暴雨来了",
+          "heat": 296145,
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E5%B9%BF%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86"
+        },
+        {
+          "rank": 9,
+          "title": "意大利3-1逆转法国",
+          "heat": 293460,
+          "url": "https://search.bilibili.com/all?keyword=%E6%84%8F%E5%A4%A7%E5%88%A93-1%E9%80%86%E8%BD%AC%E6%B3%95%E5%9B%BD"
+        },
+        {
+          "rank": 10,
+          "title": "如何看懂新剧谷雨中的底层博弈",
+          "heat": 287949,
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%87%82%E6%96%B0%E5%89%A7%E8%B0%B7%E9%9B%A8%E4%B8%AD%E7%9A%84%E5%BA%95%E5%B1%82%E5%8D%9A%E5%BC%88"
+        },
+        {
+          "rank": 11,
+          "title": "如何适应货币战争S2游戏节奏",
+          "heat": 287947,
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%80%82%E5%BA%94%E8%B4%A7%E5%B8%81%E6%88%98%E4%BA%89S2%E6%B8%B8%E6%88%8F%E8%8A%82%E5%A5%8F"
+        },
+        {
+          "rank": 12,
+          "title": "大暴雨来了",
+          "heat": 287945,
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86"
+        },
+        {
+          "rank": 13,
+          "title": "天南海北猎奇烧烤大赏",
+          "heat": 287944,
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E5%8D%97%E6%B5%B7%E5%8C%97%E7%8C%8E%E5%A5%87%E7%83%A7%E7%83%A4%E5%A4%A7%E8%B5%8F"
+        },
+        {
+          "rank": 14,
+          "title": "刘晓艳 英语总监德穆兰",
+          "heat": 287943,
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E8%8B%B1%E8%AF%AD%E6%80%BB%E7%9B%91%E5%BE%B7%E7%A9%86%E5%85%B0"
+        },
+        {
+          "rank": 15,
+          "title": "大学生食堂打饭教程",
+          "heat": 287942,
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%A3%9F%E5%A0%82%E6%89%93%E9%A5%AD%E6%95%99%E7%A8%8B"
+        },
+        {
+          "rank": 16,
+          "title": "用AI制作灭霸全家福MV",
+          "heat": 287934,
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV"
+        },
+        {
+          "rank": 17,
+          "title": "疑似崩坏真人角色PV流出",
+          "heat": 287853,
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E5%B4%A9%E5%9D%8F%E7%9C%9F%E4%BA%BA%E8%A7%92%E8%89%B2PV%E6%B5%81%E5%87%BA"
+        },
+        {
+          "rank": 18,
+          "title": "原神过场动画岩与契约",
+          "heat": 281684,
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%B2%A9%E4%B8%8E%E5%A5%91%E7%BA%A6"
+        },
+        {
+          "rank": 19,
+          "title": "在MC里还原星铁阿哈",
+          "heat": 277852,
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E8%BF%98%E5%8E%9F%E6%98%9F%E9%93%81%E9%98%BF%E5%93%88"
+        },
+        {
+          "rank": 20,
+          "title": "曼联官宣主教练卡里克离任",
+          "heat": 266535,
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3%E4%B8%BB%E6%95%99%E7%BB%83%E5%8D%A1%E9%87%8C%E5%85%8B%E7%A6%BB%E4%BB%BB"
+        },
+        {
+          "rank": 21,
+          "title": "星铁动画短片月下的欢快葬礼",
+          "heat": 259507,
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%8A%A8%E7%94%BB%E7%9F%AD%E7%89%87%E6%9C%88%E4%B8%8B%E7%9A%84%E6%AC%A2%E5%BF%AB%E8%91%AC%E7%A4%BC"
+        },
+        {
+          "rank": 22,
+          "title": "白银之城馨西亚二世角色PV",
+          "heat": 256498,
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E%E9%A6%A8%E8%A5%BF%E4%BA%9A%E4%BA%8C%E4%B8%96%E8%A7%92%E8%89%B2PV"
+        },
+        {
+          "rank": 23,
+          "title": "世一上短剧之最后一战",
+          "heat": 238188,
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E4%B8%80%E4%B8%8A%E7%9F%AD%E5%89%A7%E4%B9%8B%E6%9C%80%E5%90%8E%E4%B8%80%E6%88%98"
+        },
+        {
+          "rank": 24,
+          "title": "UP主回归原始手搓铁器",
+          "heat": 229885,
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9B%9E%E5%BD%92%E5%8E%9F%E5%A7%8B%E6%89%8B%E6%90%93%E9%93%81%E5%99%A8"
+        },
+        {
+          "rank": 25,
+          "title": "AI动画重演BLG战胜T1",
+          "heat": 223967,
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1"
+        },
+        {
+          "rank": 26,
+          "title": "三角洲M4A1改法教学",
+          "heat": 220259,
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2M4A1%E6%94%B9%E6%B3%95%E6%95%99%E5%AD%A6"
+        },
+        {
+          "rank": 27,
+          "title": "王者新英雄刀锋宝贝玩法介绍",
+          "heat": 218109,
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%96%B0%E8%8B%B1%E9%9B%84%E5%88%80%E9%94%8B%E5%AE%9D%E8%B4%9D%E7%8E%A9%E6%B3%95%E4%BB%8B%E7%BB%8D"
+        },
+        {
+          "rank": 28,
+          "title": "中国首个开源鸿蒙智慧演播室亮相",
+          "heat": 215251,
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%BC%80%E6%BA%90%E9%B8%BF%E8%92%99%E6%99%BA%E6%85%A7%E6%BC%94%E6%92%AD%E5%AE%A4%E4%BA%AE%E7%9B%B8"
+        },
+        {
+          "rank": 29,
+          "title": "狗尾草表情包是什么梗",
+          "heat": 205653,
+          "url": "https://search.bilibili.com/all?keyword=%E7%8B%97%E5%B0%BE%E8%8D%89%E8%A1%A8%E6%83%85%E5%8C%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97"
+        },
+        {
+          "rank": 30,
+          "title": "Faker称会观看BLG和GEN的决赛",
+          "heat": 200732,
+          "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E4%BC%9A%E8%A7%82%E7%9C%8BBLG%E5%92%8CGEN%E7%9A%84%E5%86%B3%E8%B5%9B"
+        }
+      ],
+      "endpoint": "https://api.bilibili.com/x/web-interface/search/square?limit=30",
+      "upstream_time": null
+    },
+    "instagram": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "Dan Hicks Celebrated Daughter’s Marathon Finish in Final Instagram Post Before His ‘Unexpected’ Death",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGR5b0hPZlZsaUc2cHZ2eEszamhEQXI1WWxpMmhGSVYyWGpRb1FnQmIxWUZ2R2FwXzRsdmxJRUxXa1NJNVM2b2NPZjFydFc4S29TeXltZVRMeUZMQ3B6dHZkTTJ5dG5sM2xiU203RjBMUDVzbk1BVDJPVnI3ZzI1WTI2OUFDT3c5eTFMdmNUZGs1NXRES01NcnNzOXF3RDB3WDBWNGg0ZkQ1X19MYkk1Wg?oc=5",
+          "heat": "",
+          "publisher": "People.com",
+          "feed_time": "2026-11-12T18:20:49+00:00",
+          "source_url": "https://people.com",
+          "rank": 1,
+          "title_zh": "丹·希克斯 (Dan Hicks) 在“意外”去世前在 Instagram 上发布了最后一篇帖子，庆祝女儿完成马拉松比赛",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Russell Brands Accounts Removed From Facebook and Instagram",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWjljWURXbmlwcTFMTVFMbWN5Vkp5THBpNm1QSUFadi0zaHlrMkprZmFJTG84WE9LTkUtS1R6cExocmtuMkUwdmFHaGhPMTR3MWdrZUN2b05LRmNubUZHYzMzSTVDOXNObnF1ZEVQSUFxNGdkMEt0WFhfNWtjZGpEZmNoUQ?oc=5",
+          "heat": "",
+          "publisher": "The New York Times",
+          "feed_time": "2026-11-12T14:17:40+00:00",
+          "source_url": "https://www.nytimes.com",
+          "rank": 2,
+          "title_zh": "Russell Brands 账户已从 Facebook 和 Instagram 中删除",
+          "translation_status": "machine"
+        },
+        {
+          "title": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmxud0s4NjBLZHJzemdIZG1qUlRueHp2MkRmYi1YajdiemptN1RfZnRGZ1RIZDNESVdlMDE3VEZ5VHVnYVRVVGVPdnAwQVBHd3dlNTlucnZRUzVCT29LamtwRGxnanUtNmhscVFHUDJ3ZUpMYnVRVkxieFdtUG1IQVdBRFZJb0s1ZEFqMkw1RzhvRkxTN2JXY01hbE1jQQ?oc=5",
+          "heat": "",
+          "publisher": "The Guardian",
+          "feed_time": "2026-11-12T14:02:00+00:00",
+          "source_url": "https://www.theguardian.com",
+          "rank": 3,
+          "title_zh": "新南威尔士州最新新闻Instagram账户背后有一个意想不到的组织：工党",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Instagram and Facebook ban Russell Brand after rape conviction – but X account is still up",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWElqalJoR0liMktIdmdNbXBfU0ljSktkYnl2TGdybWVIU1doRFF5RFM4R2RKUVBpZTIxYUp6T21yUnFrZnA4STVVVUxfbldiYWxPWndoOVpTdEdFSm9XdUxGSldSMDMtMXZwWHpvdGZuQmRpdWYwSjlKQUhIbDQ2WTBWVjJBRVJVbkpJQ3lFZzZqeXU2eDVQc3lEekRuS284Rk9DbEVwSkdaUzg?oc=5",
+          "heat": "",
+          "publisher": "The Independent",
+          "feed_time": "2026-11-12T10:20:00+00:00",
+          "source_url": "https://www.independent.co.uk",
+          "rank": 4,
+          "title_zh": "Instagram 和 Facebook 在强奸定罪后禁止拉塞尔·布兰德 (Russell Brand) – 但 X 账户仍在运行",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Russell Brand’s Instagram Account Removed By Meta After Rape Conviction",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1pfY0RwblowY1dkeXdIX3ZKMDFMd0t5aGFkeVNxWm5EdXIzSld5UjRoSV9fLVE1aDNTaHg2aU50MU8yRF9icTcySTJyYnBXaFJZNWdIdFVnMHA4MkdIaFJXZ2VPbE0zSHlHdWhYNS1VMU5nU0ZsVGViZmRrUVVfMWZRMW0weTdhZ1F4VG1VcXFXTmduWm5EV01UdmR2cXJL?oc=5",
+          "heat": "",
+          "publisher": "Variety",
+          "feed_time": "2026-11-12T00:23:00+00:00",
+          "source_url": "https://variety.com",
+          "rank": 5,
+          "title_zh": "拉塞尔·布兰德 (Russell Brand) 强奸定罪后，其 Instagram 帐户被 Meta 删除",
+          "translation_status": "machine"
+        },
+        {
+          "title": "‘We were quite surprised’: Finland’s embassy in Australia goes viral with staff training day post on Instagram",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWNxZDBFQzljd1NDaTV4YmIxMWNneVZUY0RVMUZSTmZBTDA0dkFCUjd5ZTNlbGtUMjV2bWJnekRpclEtOFdRQUNUSEZmSlZlWFo1cGxRQXVybTFsSDBZeDAwYnVaTk9lY3RCaHEzLXFHR3ZsZk9zRjk3elY2dWd3SVBSbkNTRDBkY0lhYnhRY2g4UjE1UVc1MVMwYThYcUVkQ0xrQl8xQW5QbnIxTEVxZkk3aE56dUJRWEZYZTRBSndKYnV3bloyTUlXOFE5VmQycXZURE9B?oc=5",
+          "heat": "",
+          "publisher": "The Guardian",
+          "feed_time": "2026-11-11T20:45:00+00:00",
+          "source_url": "https://www.theguardian.com",
+          "rank": 6,
+          "title_zh": "“我们非常惊讶”：芬兰驻澳大利亚大使馆的员工培训日帖子在 Instagram 上疯传",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Instagram Gathers Young Hollywood for A Night at Nobu",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzBWVldsQkdGeURDbWxxbloyZ2xPNkFXZUF2YWI5SW1uZU9GRlZBaDlyRjBKYVV6RHRtZzcyYXdUQW9la3hRcVpVRVF0Vk1iU0x0THVlRGVLYmcxMlFFN25PRTJxdEZqYkFHUWRPc0pCaEk5anRJeS1VSlNJSFpQb2dXOTJzVzRXcEtYTldubFNKSHdGbkhqSXFFS3EzYjV3YjF3M3dwZ2UzMUI2XzF4VTAzOGdOTDVoN1dtcDE4WkRLdw?oc=5",
+          "heat": "",
+          "publisher": "The Hollywood Reporter",
+          "feed_time": "2026-11-11T17:13:28+00:00",
+          "source_url": "https://www.hollywoodreporter.com",
+          "rank": 7,
+          "title_zh": "Instagram 汇聚好莱坞年轻人们，共度 Nobu 之夜",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Baltimore man who went live on Instagram while wanted pleads guilty to gun charges",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZiSTdNalFVNGlCbUNXWldkZ1pSM1o2MVlTbU54cHVwWHN4Y1R1eXQ0c24wd3hvYjFxWlRPXzZmWmtYMng4MEFBLWdQMEJxMlAyeEhMdTRTOFN2eHJieTV6YTBIc183SkcxQ0tLR2tucEZPdk42YjBvNF9nYW45ejBpaFhOOEFoMnNxYThrQzh0dF9FcndfaUpHSDhVU0RLYy11b21mZjhocWloMEExMzRtbFNzQ0k?oc=5",
+          "heat": "",
+          "publisher": "CBS News",
+          "feed_time": "2026-11-11T00:51:00+00:00",
+          "source_url": "https://www.cbsnews.com",
+          "rank": 8,
+          "title_zh": "巴尔的摩男子在通缉期间在 Instagram 上直播，承认枪支指控",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Instagram launches visual effects creator for Edits",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVVobkU3OEZXb0tiTk1iX2lMY3FITnJrcHBYQzZ3NjM4UXQ3aDdiMWlVbXdJaUVoNmNwLTI2b3lya2Z4clhteGpWdk9SWEw2RDRrZ0VHZU5fR1hSSG9vVUl1eFVFbFZreGx2ai1iV0VEUUxoTDZobkJyYUhZdkxSZWxHOHVISHE1MnlRNXZYczlsR2xuZ2RCbnBTcVVSZw?oc=5",
+          "heat": "",
+          "publisher": "Social Media Today",
+          "feed_time": "2026-11-10T05:35:49+00:00",
+          "source_url": "https://www.socialmediatoday.com",
+          "rank": 9,
+          "title_zh": "Instagram 推出用于编辑的视觉效果创建器",
+          "translation_status": "machine"
+        }
+      ],
+      "collected_at": "2026-11-13T01:33:27.314155+00:00",
+      "kind": "reported_signals",
+      "region": "全球报道 · 英文优先",
+      "source_name": "英文媒体报道",
+      "source_url": "https://www.instagram.com/explore/",
+      "partial": false,
+      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
+      "empty_reason": ""
+    },
+    "weibo": {
+      "status": "ok",
+      "collected_at": "2026-11-13T01:33:28.396366+00:00",
+      "items": [
+        {
+          "rank": 1,
+          "title": "王子璇白小纯4公里开了三小时",
+          "heat": 1787440,
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E5%B0%8F%E7%BA%AF4%E5%85%AC%E9%87%8C%E5%BC%80%E4%BA%86%E4%B8%89%E5%B0%8F%E6%97%B6"
+        },
+        {
+          "rank": 2,
+          "title": "金价",
+          "heat": 1465206,
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7"
+        },
+        {
+          "rank": 3,
+          "title": "中国正在编织这样一张大网",
+          "heat": 766371,
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E7%BC%96%E7%BB%87%E8%BF%99%E6%A0%B7%E4%B8%80%E5%BC%A0%E5%A4%A7%E7%BD%91"
+        },
+        {
+          "rank": 4,
+          "title": "微软Outlook服务宕机",
+          "heat": 599010,
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E8%BD%AFOutlook%E6%9C%8D%E5%8A%A1%E5%AE%95%E6%9C%BA"
+        },
+        {
+          "rank": 5,
+          "title": "英伟达大跌13%",
+          "heat": 596031,
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E8%B7%8C13%25"
+        },
+        {
+          "rank": 6,
+          "title": "刘欢妻子长文",
+          "heat": 588791,
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E9%95%BF%E6%96%87"
+        },
+        {
+          "rank": 7,
+          "title": "给阿嬷的情书获奖反应冷淡",
+          "heat": 572906,
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E8%8E%B7%E5%A5%96%E5%8F%8D%E5%BA%94%E5%86%B7%E6%B7%A1"
+        },
+        {
+          "rank": 8,
+          "title": "普通人用AI和会用AI的人",
+          "heat": 567765,
+          "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA"
+        },
+        {
+          "rank": 9,
+          "title": "后会友期民宿离晚餐地点不到四公里",
+          "heat": 554616,
+          "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%B0%91%E5%AE%BF%E7%A6%BB%E6%99%9A%E9%A4%90%E5%9C%B0%E7%82%B9%E4%B8%8D%E5%88%B0%E5%9B%9B%E5%85%AC%E9%87%8C"
+        },
+        {
+          "rank": 10,
+          "title": "7碗米饭摆拍事件更显媒体调查价值",
+          "heat": 541665,
+          "url": "https://s.weibo.com/weibo?q=7%E7%A2%97%E7%B1%B3%E9%A5%AD%E6%91%86%E6%8B%8D%E4%BA%8B%E4%BB%B6%E6%9B%B4%E6%98%BE%E5%AA%92%E4%BD%93%E8%B0%83%E6%9F%A5%E4%BB%B7%E5%80%BC"
+        },
+        {
+          "rank": 11,
+          "title": "金晨发文秒删",
+          "heat": 532374,
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%E5%8F%91%E6%96%87%E7%A7%92%E5%88%A0"
+        },
+        {
+          "rank": 12,
+          "title": "怀孕妻子发现丈夫的白月光",
+          "heat": 522759,
+          "url": "https://s.weibo.com/weibo?q=%E6%80%80%E5%AD%95%E5%A6%BB%E5%AD%90%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E7%9A%84%E7%99%BD%E6%9C%88%E5%85%89"
+        },
+        {
+          "rank": 13,
+          "title": "黄仁勋4万美元打造出4万亿英伟达",
+          "heat": 516708,
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B4%E4%B8%87%E7%BE%8E%E5%85%83%E6%89%93%E9%80%A0%E5%87%BA4%E4%B8%87%E4%BA%BF%E8%8B%B1%E4%BC%9F%E8%BE%BE"
+        },
+        {
+          "rank": 14,
+          "title": "刘欢癌症扩散后曾放手一搏试新药",
+          "heat": 506798,
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E7%99%8C%E7%97%87%E6%89%A9%E6%95%A3%E5%90%8E%E6%9B%BE%E6%94%BE%E6%89%8B%E4%B8%80%E6%90%8F%E8%AF%95%E6%96%B0%E8%8D%AF"
+        },
+        {
+          "rank": 15,
+          "title": "张萌后悔叫马天宇上节目",
+          "heat": 488739,
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%E5%8F%AB%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8A%E8%8A%82%E7%9B%AE"
+        },
+        {
+          "rank": 16,
+          "title": "曝汤臣二公子和90花隐婚",
+          "heat": 487916,
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%B1%A4%E8%87%A3%E4%BA%8C%E5%85%AC%E5%AD%90%E5%92%8C90%E8%8A%B1%E9%9A%90%E5%A9%9A"
+        },
+        {
+          "rank": 17,
+          "title": "金晨回应回归现在就出发4",
+          "heat": 486737,
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%E5%9B%9E%E5%BA%94%E5%9B%9E%E5%BD%92%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914"
+        },
+        {
+          "rank": 18,
+          "title": "英伟达临时CEO曾因黄仁勋入职",
+          "heat": 485215,
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%B4%E6%97%B6CEO%E6%9B%BE%E5%9B%A0%E9%BB%84%E4%BB%81%E5%8B%8B%E5%85%A5%E8%81%8C"
+        },
+        {
+          "rank": 19,
+          "title": "女子刮痧排淤堵脖上刮出3条大血印",
+          "heat": 484081,
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%88%AE%E7%97%A7%E6%8E%92%E6%B7%A4%E5%A0%B5%E8%84%96%E4%B8%8A%E5%88%AE%E5%87%BA3%E6%9D%A1%E5%A4%A7%E8%A1%80%E5%8D%B0"
+        },
+        {
+          "rank": 20,
+          "title": "英伟达股民天塌了",
+          "heat": 483526,
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E6%B0%91%E5%A4%A9%E5%A1%8C%E4%BA%86"
+        },
+        {
+          "rank": 21,
+          "title": "感觉杨超越不捂住董思成的嘴都要亲了",
+          "heat": 482440,
+          "url": "https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%B8%8D%E6%8D%82%E4%BD%8F%E8%91%A3%E6%80%9D%E6%88%90%E7%9A%84%E5%98%B4%E9%83%BD%E8%A6%81%E4%BA%B2%E4%BA%86"
+        },
+        {
+          "rank": 22,
+          "title": "男子怀疑女儿是外星人",
+          "heat": 411862,
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%80%80%E7%96%91%E5%A5%B3%E5%84%BF%E6%98%AF%E5%A4%96%E6%98%9F%E4%BA%BA"
+        },
+        {
+          "rank": 23,
+          "title": "散户30分钟抄底英伟达1.1亿美元",
+          "heat": 291204,
+          "url": "https://s.weibo.com/weibo?q=%E6%95%A3%E6%88%B730%E5%88%86%E9%92%9F%E6%8A%84%E5%BA%95%E8%8B%B1%E4%BC%9F%E8%BE%BE1.1%E4%BA%BF%E7%BE%8E%E5%85%83"
+        },
+        {
+          "rank": 24,
+          "title": "白小纯眼睛就没离开过王子璇",
+          "heat": 266936,
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B2%A1%E7%A6%BB%E5%BC%80%E8%BF%87%E7%8E%8B%E5%AD%90%E7%92%87"
+        },
+        {
+          "rank": 25,
+          "title": "厉娜节目里第一次叫许飞名字",
+          "heat": 262757,
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E8%8A%82%E7%9B%AE%E9%87%8C%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E8%AE%B8%E9%A3%9E%E5%90%8D%E5%AD%97"
+        },
+        {
+          "rank": 26,
+          "title": "青云稚上",
+          "heat": 233456,
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E4%BA%91%E7%A8%9A%E4%B8%8A"
+        },
+        {
+          "rank": 27,
+          "title": "意大利3比1法国",
+          "heat": 219812,
+          "url": "https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A93%E6%AF%941%E6%B3%95%E5%9B%BD"
+        },
+        {
+          "rank": 28,
+          "title": "高中生困电梯2小时被让等物业上班",
+          "heat": 217554,
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%B0%E7%94%B5%E6%A2%AF2%E5%B0%8F%E6%97%B6%E8%A2%AB%E8%AE%A9%E7%AD%89%E7%89%A9%E4%B8%9A%E4%B8%8A%E7%8F%AD"
+        },
+        {
+          "rank": 29,
+          "title": "女子腿疼找中医扎针血直往外喷",
+          "heat": 198123,
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%85%BF%E7%96%BC%E6%89%BE%E4%B8%AD%E5%8C%BB%E6%89%8E%E9%92%88%E8%A1%80%E7%9B%B4%E5%BE%80%E5%A4%96%E5%96%B7"
+        },
+        {
+          "rank": 30,
+          "title": "奚梦瑶出演盆栽新歌MV",
+          "heat": 196831,
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%87%BA%E6%BC%94%E7%9B%86%E6%A0%BD%E6%96%B0%E6%AD%8CMV"
+        }
+      ],
+      "endpoint": "https://weibo.com/ajax/side/hotSearch",
+      "upstream_time": null
+    },
+    "tiktok": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "TikTok-owner ByteDance plans buyback at $400 billion valuation, The Information reports",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaE5LbzhoRE5rYjhZOXFIVmtYMEFiOElvbk1XSkQzYWYyeUJRcU1EMmtLMzZDUXJPWWk0TXZrZEZtQnBQczYzR2dMejAzMEIxNUR0czdQQnZvaUxrUkJKUE0zX1hFcEZndVo2Ti02WnljbUpwUTVxRnNNbVZYcklqZy1HX3l4VVd3UHgwZUVsZ2dJdW5fMFZoeHU3SlJxcjZjV09XQW56UHVOTGhPbzdPVDcxMGhEbkJSQjMyZ1BlYlNrRkktSWtDZ2NmSWRrOWM?oc=5",
+          "heat": "",
+          "publisher": "Reuters",
+          "feed_time": "2026-11-13T01:01:00+00:00",
+          "source_url": "https://www.reuters.com",
+          "rank": 1,
+          "title_zh": "据 The Information 报道，TikTok 母公司字节跳动计划以 4000 亿美元的估值进行回购",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Would You Buy Diamonds From TikTok?",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZ2htUWdkVGh2aXg1X2dHSjdMekJNajU5cnJwVzlDdU05eVo0RnpnY0ZpZlROQllLcU9ZaE9uazJPdGU4SGFPOWJ3ZE5EVjQ4S1BjYWRIYXNFQ1BXY3N2LW4xU3E4R2hSM1ZBczRCZE9rNFhNUGd0WXduXzJqLXc?oc=5",
+          "heat": "",
+          "publisher": "The New York Times",
+          "feed_time": "2026-11-12T20:43:52+00:00",
+          "source_url": "https://www.nytimes.com",
+          "rank": 2,
+          "title_zh": "你会从 TikTok 购买钻石吗？",
+          "translation_status": "machine"
+        },
+        {
+          "title": "TikTok LIVE Fest 2026: The Journey to the Global Stage Begins",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGtsa1pMcll0QVhKYjFWRktPUExYa1Y3Y0ljOHhsZTFKSW9Dd0FNMTFNSXU0d1U3S1dSbGdQdlpSM3draWZ1QWYtcmg2bFVWc2lrREdWblhRQllnNkltTXlnOXdWS1pxeXg1ZGZhOFdVUlF1a1E5YkQxR0wwOGZOMlEtUU4tbk13dzZpalhnTzBIZmphNTdmbmxCYTFTc045?oc=5",
+          "heat": "",
+          "publisher": "Newsroom | TikTok",
+          "feed_time": "2026-11-12T19:52:13+00:00",
+          "source_url": "https://newsroom.tiktok.com",
+          "rank": 3,
+          "title_zh": "TikTok LIVE Fest 2026：全球舞台之旅开启",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Troy woman loses $1,770 to fake TikTok rental listing, police say",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTlibnQzX1pwSmJsSlEwX01oRjFxaktnM0l0a2pIR1A4cl9GUi1vLW1YNW13ZVRianhpVWl5X0dXaUx4SDFrZ1ZZQnZrTlVXaUlpVzR4RU94Z0VCQnh0RnFYNmxtTWpBVkRlblZCMi1jMWw4N083bWhOT1Nod090VkhmNjJwSUxhVFdReGhOVQ?oc=5",
+          "heat": "",
+          "publisher": "CBS News",
+          "feed_time": "2026-11-12T18:54:12+00:00",
+          "source_url": "https://www.cbsnews.com",
+          "rank": 4,
+          "title_zh": "警方称，特洛伊女子因伪造 TikTok 出租清单而损失 1,770 美元",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Wiil yar oo uu dilay libaax xilli uu samaynayey muuqaal TikTok ah",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNclVhZ3E1ak1VSk9ocjBPM01rQnl4NlFVZFdGcERiSTBOeWtrWFVMM3pjOG0yU29CdHczZ0VTQkRVN0xLNEFrckFoM1hwanlZSkJLbFVWRGNSNE5qUUHSAWNBVV95cUxQN2R0MEZBb1Y1cnFscjlkZTZaR2dGMnZfMVpnSUlJZTJuTnNPcTliS1hTYW12VS15dEV5a1NQSFVIdnM3MG1FMjFYQkQ3S3MzT3J2Q0RPelBnNXNqeGI2bVVGbGM?oc=5",
+          "heat": "",
+          "publisher": "BBC",
+          "feed_time": "2026-11-12T17:47:55+00:00",
+          "source_url": "https://www.bbc.com",
+          "rank": 5,
+          "title_zh": "一名小男孩在制作 TikTok 视频时被狮子咬死",
+          "translation_status": "machine"
+        },
+        {
+          "title": "TikTok Shop org chart: See the 14 executives running its US e-commerce operations and their direct reports",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjlVWFRrOWp2bThoWlBrc0cxbFVON3E0NlAzQkdEb0xTY180STlIYUdmWXJCeGQzRWp4Qzl0VTRTV1Y0bDNCZ2JsRjVNTHM2bGlkTXlwT2VnWGdrRnZiS1Z0amxtejJ5T0RIV1pvOFZVWEhheG01Um53MHRSaVJsaWhwXzl3WXFSSDVISHBRTzFlVmJyZUotTVNFQzNQTnE5cG9z?oc=5",
+          "heat": "",
+          "publisher": "Business Insider",
+          "feed_time": "2026-11-12T16:56:00+00:00",
+          "source_url": "https://www.businessinsider.com",
+          "rank": 6,
+          "title_zh": "TikTok Shop 组织结构图：查看运营其美国电子商务业务的 14 名高管及其直接下属",
+          "translation_status": "machine"
+        },
+        {
+          "title": "‘How to Rob a Bank’ Review: Heist Humor Worthy of TikTok",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4elhXWXo2NVBPa19sSk5jVnpPVlM2a1hPZi02T2dWeUw0aDJoNTJtUlZoaFJiekczYkgwSTcxTVl6LUtPai1iWFBWWUtjUHRUSjZTYmwzUFhpN3JqTHRHMVBxYWp1Z0t6eTlib0tObXczdjZ4T3RHVnRPNA?oc=5",
+          "heat": "",
+          "publisher": "The New York Times",
+          "feed_time": "2026-11-12T16:26:24+00:00",
+          "source_url": "https://www.nytimes.com",
+          "rank": 7,
+          "title_zh": "《如何抢劫银行》评论：值得 TikTok 的抢劫幽默",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Google, TikTok and Meta sue California over new social media law",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTWRuVHRXcmVfZVZMNnhIMlFhQU81eUxzX21CaFh5N0pHQlVPNHJOVHNGYlNucENwd0I0OG1OVld1TURDUVo3MlBRLXItQktLaUNwQnR4bVljUGYxel9LcmdscUJFbjBhUFdjWERhWGpfcFp1TFVLaVd2cHFscl9CYWJsNjYtQnRUZGlqRW1PSlQ3YWJIS3MyOURJd2lTX1lDS2Nfek9CV2NMYTNzSUFuVzR5SEFCTF8wX0JnWVZ1cEUzZlZUNF8yelZYX1RzOTUxVnJ1NzJtLXdOeUFtaXZLaVVOWndKVzJlNDQyQTVR?oc=5",
+          "heat": "",
+          "publisher": "USA Today",
+          "feed_time": "2026-11-12T16:01:00+00:00",
+          "source_url": "https://www.usatoday.com",
+          "rank": 8,
+          "title_zh": "谷歌、TikTok 和 Meta 就新社交媒体法起诉加州",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Is Brain Stacking, TikTok’s New Trend, the Cure to Doomscrolling?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFY3UUhWcTVfbXFLbmZqZ3JhS01YWFVWUzc0UHNTRGVMenZIZTlKT1VtSjdFa3BQYlEwMFVmRnVfVGl2d1lxaVR0anQtNkttZ0ktX2lCR0xRS1RBVnhtbkRMdjJQX1c1WmRqazd0Tk0yTG9PTWhOck92QTBaRVM2WTdONzJWZ18wTExlYg?oc=5",
+          "heat": "",
+          "publisher": "The New York Times",
+          "feed_time": "2026-11-12T14:36:00+00:00",
+          "source_url": "https://www.nytimes.com",
+          "rank": 9,
+          "title_zh": "TikTok 的新趋势 Brain Stacking 是治愈 Doomscrolling 的良药吗？",
+          "translation_status": "machine"
+        },
+        {
+          "title": "TikTok grandma Babs shares Thanksgiving tips (like hiding dirty dishes)",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0U3eVhlcmVDSXZ4V1prNHdUX1RGUzAwQ1BNT0lXRTFXSlM1TXRkU2pNZ3pFX1F3NFp1OG5oUzk3TjIzRGZXR3k3UUNERW84NXExd0dBekVrV1hCX0Zlb25hYVJCOS1MRk5iUjkzR3VMUFh1YU5NcmxmNDJBZmYzM0hZQmJEV0dBUUNFaHFfNUdnMDZqTTJMbjk2QW1ueEdkVjVxcTVuVDdJX1BhVUZiSTM5V09UdjlyR05hQkhfaTd1UVlsTDMw?oc=5",
+          "heat": "",
+          "publisher": "USA Today",
+          "feed_time": "2026-11-12T09:24:00+00:00",
+          "source_url": "https://www.usatoday.com",
+          "rank": 10,
+          "title_zh": "TikTok 奶奶 Babs 分享感恩节小贴士（比如隐藏脏盘子）",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Domino Sugars sign temporarily shut off after TikTok trend trespasser incident",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2xFWWNNbkVkbDJRTTNjTVhEWWU5bVRnOGVnalFacHRMZ1VfQmE2VklPeTEwenQxbHAtYmdqU3VQWGxzc05UMjEtNENlU0xUZUdLV3lSTVpfUEZJYTlBWDMtdGNRVFVHVW4wR2FtM1ZPNWZRcFB4THFYVjBFVXdieWRYa2NyT3JzbE8xak1JSG1mVDZhRldfN2dXOE11UmFjeWV4VUx5RC0tWHJLRVVfazRIQTdZSDFhOWtv?oc=5",
+          "heat": "",
+          "publisher": "CBS News",
+          "feed_time": "2026-11-12T04:13:00+00:00",
+          "source_url": "https://www.cbsnews.com",
+          "rank": 11,
+          "title_zh": "TikTok 趋势侵入事件后，Domino Sugars 标志暂时关闭",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Iconic Domino Sugars sign temporarily darkened after man allegedly trespasses to film TikTok video",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmtETERiV2g3RjdOb3QtN3dkdV82RWdhZVdLLU1tMEYzMEVoeWhkZ0ZGQVRib3hfOEZCYTJncldzaEMyX0tCYnFJektUQXZpYmtuTG5xZmdTUkxQWTVLTUQ4dVVDYWx5c09JWUNLallQZXZQSHhyZURtSWY4d3R3czNjNzdmOEppb21sVndGNmJQYjRYYy1vMHZtNTJoZ0k?oc=5",
+          "heat": "",
+          "publisher": "CBS News",
+          "feed_time": "2026-11-12T03:19:00+00:00",
+          "source_url": "https://www.cbsnews.com",
+          "rank": 12,
+          "title_zh": "男子涉嫌非法侵入 TikTok 视频，多米诺糖公司标志性标志暂时变暗",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Spanish watchdog opens TikTok probe but denies government demand to block app",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHJsTWVYamNEZ2dfaHhyNjJHazEtNjBvdS0wNWZDX1RveXB1c1NuN3FTWVlkYXhDTGkzeWt4Um1Xamt6Sm9uQm9UcTBNWkprSU9KQ0hRZmVXaVZEekZkd2ZTRGYxbElBeU9Gd20yMndGa25jWm9UMkdwTE41UjAyMXNlbTB1c3dnU1FQOEs2Mm84WDBXWjNDRV8tYlhtM3dqUmpzd3VEX1BMOXcwVnpudVlwbUpvclpIaGkwMG1FU1c?oc=5",
+          "heat": "",
+          "publisher": "Reuters",
+          "feed_time": "2026-11-11T16:13:43+00:00",
+          "source_url": "https://www.reuters.com",
+          "rank": 13,
+          "title_zh": "西班牙监管机构启动 TikTok 调查，但否认政府要求屏蔽该应用",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Streaming is still trying to be TikTok",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzhBdDdFMktmZEtKX2k2MnlYVlpaRUlpNGdxYmJhZk9zUi1qWjhJOHVHTmlXVW1peDNpR3JDMVR4bVMtTFNDMUl5dmJWVEh4d1R4amNHUGF1ZjJkZHhVTkZhSkRBeWlqdTJVUXBJTUltakEzNDBIelBQSGsyMWZzT1RrQXhGTWlGRmlCWmpBMERWNXJMZlo0cnVXMXdxNWZHMUMxLU9VaTFVV1BIaklVYzNHQUVGWWM?oc=5",
+          "heat": "",
+          "publisher": "The Verge",
+          "feed_time": "2026-11-11T13:30:00+00:00",
+          "source_url": "https://www.theverge.com",
+          "rank": 14,
+          "title_zh": "流媒体仍在尝试成为 TikTok",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5",
+          "heat": "",
+          "publisher": "Reuters",
+          "feed_time": "2026-11-11T12:18:33+00:00",
+          "source_url": "https://www.reuters.com",
+          "rank": 15,
+          "title_zh": "Meta、TikTok 联合谷歌抵制印度尼西亚计划的人工智能版权法修订",
+          "translation_status": "machine"
+        },
+        {
+          "title": "K-Beauty Brand Anua Cracked TikTok. What’s Next?",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3h5SG4yTGdfM2dPNnRaQm5HcVlrRUYtYVlyeDJRc3dhaEpDUzdUNllOdkN1bnFWOFJKVG9SczV3b2Y5Qk1UNkNvNnpUYVdEempHR0RZejRlNkpadS00ZzJKdGNTRjVvb1FDLWp6dXRXM3FuRGtUd0d2bUtOMTM3ZA?oc=5",
+          "heat": "",
+          "publisher": "Vogue",
+          "feed_time": "2026-11-11T05:30:00+00:00",
+          "source_url": "https://www.vogue.com",
+          "rank": 16,
+          "title_zh": "韩国美容品牌 Anua 破解了 TikTok。接下来是什么？",
+          "translation_status": "machine"
+        },
+        {
+          "title": "TikTok tests shopping subscriptions",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1QxRWt5ckd4Nk04eThlRWNJbTJsX09FbmFjVjFDdmxTOThRTkplajF5UlBpMFhlQnBMa0ttOEhuNlgzSVdlemZTM3lDNjdHQnBndFIwR2FaMFVHYkMxMWN4aUFIQjNmUTFmdnE2eXdXeWtlOFJBcFRZTkpoTUxDbi1Wbkc1OVgy?oc=5",
+          "heat": "",
+          "publisher": "Social Media Today",
+          "feed_time": "2026-11-11T05:13:02+00:00",
+          "source_url": "https://www.socialmediatoday.com",
+          "rank": 17,
+          "title_zh": "TikTok 测试购物订阅",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Spain demands that TikTok suspend operations until child sexual abuse material gone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUW9iLUZNLXVsd2lTbHNfU3NwWGxMT05MaGJYaHdmUkRpRHB6SzVrSHp3MEJ0NjZZMzhYMVNQVFFmN3pwQXk1Q2V2am9Ldlp6eGpkTHI2QXZxdmtSWE5lVTZhWXRxTHVlWklLRk12NTZUNUZrSHF0ZEJ0UDRSM3NTZUZpWmEtMDZ3RTFncEdvWjV6WFZ6d3JaemVEVGQxV01Yd1RXVmktOVR3Sk14b0VrZTFLeVNOczVmaHFxYVUwNXNlWGpoQ1lweVlpOA?oc=5",
+          "heat": "",
+          "publisher": "Reuters",
+          "feed_time": "2026-11-10T18:21:43+00:00",
+          "source_url": "https://www.reuters.com",
+          "rank": 18,
+          "title_zh": "西班牙要求 TikTok 暂停运营，直至儿童性虐待内容消失",
+          "translation_status": "machine"
+        },
+        {
+          "title": "Meet the Michael Jackson impersonator whose TikTok livestream earned 100M likes",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeU9GcFJfM21aWElmc3k3c1piVU5oS0gzUUJNLWExdGF5QlBJSk05Q1IzTjdmcjNkS0tRYjNZSVc5cEdkelliN0F1aWJ3Z0hFZVJteGxBLWlMMzFtQWozRFRndmx0Mm56b2pYYnVGU2doam5Oa0lXMW4zOE55WVF0SG12VlFkSnpZZF9wYVNTZlVDRktlSzhCSmtqNTBiVVRMSFpZME5fRFlJLVZLOGR5VU1qVElkTGxJNk1TS1UwNEJ2RHJUNEphTWNNb1gzTkxwVFhVWXI5UnZqS1ZXcDZpd3MyVHV4N0FEUnJESU9zMXAwellxdkx3b1U2N2libU0?oc=5",
+          "heat": "",
+          "publisher": "USA Today",
+          "feed_time": "2026-11-10T17:12:00+00:00",
+          "source_url": "https://www.usatoday.com",
+          "rank": 19,
+          "title_zh": "认识一下迈克尔·杰克逊模仿者，他的 TikTok 直播获得了 1 亿个赞",
+          "translation_status": "machine"
+        },
+        {
+          "title": "I quit my job and invested my savings into building a loungewear brand. My TikTok followers have helped make it a success.",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0hNVzBpcEhZRDktLUpXVlRtSWpWdE8wYmhWLXRSdnRuVjdRWkdMNUxKRnI3SzJ0ekFab3paRlNaYmdJT29oaFhYcnBqY2Y2OUZmVGI4cWd0VFVNemR4ZjRPZDVDbnIwVnNnUWNKTzl5dE1NbGhhR2FNaXJSOGEwLXFhcDRjbUpqQy1zdzdsUV9TTl8yR0YwdUFR?oc=5",
+          "heat": "",
+          "publisher": "Business Insider",
+          "feed_time": "2026-11-10T16:42:52+00:00",
+          "source_url": "https://www.businessinsider.com",
+          "rank": 20,
+          "title_zh": "我辞掉了工作，把积蓄投入到打造家居服品牌上。我的 TikTok 粉丝帮助它取得了成功。",
+          "translation_status": "machine"
+        }
+      ],
+      "collected_at": "2026-11-13T01:33:27.315208+00:00",
+      "kind": "reported_signals",
+      "region": "全球报道 · 英文优先",
+      "source_name": "英文媒体报道",
+      "source_url": "https://ads.tiktok.com/creative/creativeCenter/trends?LanguageId=1",
+      "partial": false,
+      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
+      "empty_reason": ""
+    },
+    "rednote": {
+      "status": "stale",
+      "collected_at": "2026-11-07T05:25:38.809581+00:00",
+      "items": [
+        {
+          "rank": 1,
+          "title": "用万能旅行拍照姿势美美出片",
+          "heat": "947.5w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E4%B8%87%E8%83%BD%E6%97%85%E8%A1%8C%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87"
+        },
+        {
+          "rank": 2,
+          "title": "耗时三年拍下古诗词里的中国",
+          "heat": "934.8w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%97%E6%97%B6%E4%B8%89%E5%B9%B4%E6%8B%8D%E4%B8%8B%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD"
+        },
+        {
+          "rank": 3,
+          "title": "我拍到了海鸥雨",
+          "heat": "903.2w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B5%B7%E9%B8%A5%E9%9B%A8"
+        },
+        {
+          "rank": 4,
+          "title": "超日常美食教程速来get",
+          "heat": "886w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E6%97%A5%E5%B8%B8%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B%E9%80%9F%E6%9D%A5get"
+        },
+        {
+          "rank": 5,
+          "title": "定格这一刻的日照金山",
+          "heat": "871.1w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%9A%E6%A0%BC%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1"
+        },
+        {
+          "rank": 6,
+          "title": "你可以永远相信赛里木湖的美景",
+          "heat": "783.1w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E7%9A%84%E7%BE%8E%E6%99%AF"
+        },
+        {
+          "rank": 7,
+          "title": "拼豆上也可以作画了",
+          "heat": "749.8w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B8%8A%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%9C%E7%94%BB%E4%BA%86"
+        },
+        {
+          "rank": 8,
+          "title": "我的家庭旅行更像是打副本",
+          "heat": "737.1w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%97%85%E8%A1%8C%E6%9B%B4%E5%83%8F%E6%98%AF%E6%89%93%E5%89%AF%E6%9C%AC"
+        },
+        {
+          "rank": 9,
+          "title": "原来古诗词里的河南真的存在",
+          "heat": "727.8w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8"
+        },
+        {
+          "rank": 10,
+          "title": "蒸出了奶香爆米花馒头",
+          "heat": "716.2w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4"
+        },
+        {
+          "rank": 11,
+          "title": "这可能是江西最被低估的一座山",
+          "heat": "703w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B1%9F%E8%A5%BF%E6%9C%80%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%B8%80%E5%BA%A7%E5%B1%B1"
+        },
+        {
+          "rank": 12,
+          "title": "海边日落赴一场温柔约会",
+          "heat": "689.4w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%B7%E8%BE%B9%E6%97%A5%E8%90%BD%E8%B5%B4%E4%B8%80%E5%9C%BA%E6%B8%A9%E6%9F%94%E7%BA%A6%E4%BC%9A"
+        },
+        {
+          "rank": 13,
+          "title": "拼豆也能当火漆印章玩",
+          "heat": "241.7w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B9%9F%E8%83%BD%E5%BD%93%E7%81%AB%E6%BC%86%E5%8D%B0%E7%AB%A0%E7%8E%A9"
+        },
+        {
+          "rank": 14,
+          "title": "我创造了新型遛狗法",
+          "heat": "231.8w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E5%88%9B%E9%80%A0%E4%BA%86%E6%96%B0%E5%9E%8B%E9%81%9B%E7%8B%97%E6%B3%95"
+        },
+        {
+          "rank": 15,
+          "title": "用镜头捕捉四季如画",
+          "heat": "222.8w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E9%95%9C%E5%A4%B4%E6%8D%95%E6%8D%89%E5%9B%9B%E5%AD%A3%E5%A6%82%E7%94%BB"
+        },
+        {
+          "rank": 16,
+          "title": "笔墨重现课本诗意",
+          "heat": "213.5w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%AC%94%E5%A2%A8%E9%87%8D%E7%8E%B0%E8%AF%BE%E6%9C%AC%E8%AF%97%E6%84%8F"
+        },
+        {
+          "rank": 17,
+          "title": "拍到了洱海的丁达尔效应",
+          "heat": "203.3w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B4%B1%E6%B5%B7%E7%9A%84%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94"
+        },
+        {
+          "rank": 18,
+          "title": "珠圆玉润妆完全是淡颜天菜",
+          "heat": "193.8w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%8F%A0%E5%9C%86%E7%8E%89%E6%B6%A6%E5%A6%86%E5%AE%8C%E5%85%A8%E6%98%AF%E6%B7%A1%E9%A2%9C%E5%A4%A9%E8%8F%9C"
+        },
+        {
+          "rank": 19,
+          "title": "碎钻美甲指尖藏着细碎星光",
+          "heat": "184.5w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%A2%8E%E9%92%BB%E7%BE%8E%E7%94%B2%E6%8C%87%E5%B0%96%E8%97%8F%E7%9D%80%E7%BB%86%E7%A2%8E%E6%98%9F%E5%85%89"
+        },
+        {
+          "rank": 20,
+          "title": "我来当旅行中的颜色猎手",
+          "heat": "175.7w",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%9D%A5%E5%BD%93%E6%97%85%E8%A1%8C%E4%B8%AD%E7%9A%84%E9%A2%9C%E8%89%B2%E7%8C%8E%E6%89%8B"
+        }
+      ],
+      "endpoint": "https://60s.okbaike.com/v2/rednote",
+      "upstream_time": null,
+      "checked_at": "2026-11-13T01:33:27.276487+00:00",
+      "error": "HTTP Error 406: Not Acceptable; HTTP Error 500: Internal Server Error; HTTP Error 500: Internal Server Error"
+    },
+    "douyin": {
+      "status": "ok",
+      "collected_at": "2026-11-13T01:33:29.268896+00:00",
+      "items": [
+        {
+          "rank": 1,
+          "title": "油价下调 加满一箱油少花约26元",
+          "heat": 11892207,
+          "url": "https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83%20%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B1%E7%BA%A626%E5%85%83"
+        },
+        {
+          "rank": 2,
+          "title": "课本里的逍遥游有画面了",
+          "heat": 11103397,
+          "url": "https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E9%80%8D%E9%81%A5%E6%B8%B8%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86"
+        },
+        {
+          "rank": 3,
+          "title": "亚太之问中国作答",
+          "heat": 11094487,
+          "url": "https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E4%B9%8B%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%BD%9C%E7%AD%94"
+        },
+        {
+          "rank": 4,
+          "title": "库里腹斜肌撕裂 预计缺席4周",
+          "heat": 11035407,
+          "url": "https://www.douyin.com/search/%E5%BA%93%E9%87%8C%E8%85%B9%E6%96%9C%E8%82%8C%E6%92%95%E8%A3%82%20%E9%A2%84%E8%AE%A1%E7%BC%BA%E5%B8%AD4%E5%91%A8"
+        },
+        {
+          "rank": 5,
+          "title": "英伟达执行副总裁任临时CEO",
+          "heat": 10278899,
+          "url": "https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%A7%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E4%BB%BB%E4%B8%B4%E6%97%B6CEO"
+        },
+        {
+          "rank": 6,
+          "title": "朴树哥哥否认朴树去世",
+          "heat": 10208694,
+          "url": "https://www.douyin.com/search/%E6%9C%B4%E6%A0%91%E5%93%A5%E5%93%A5%E5%90%A6%E8%AE%A4%E6%9C%B4%E6%A0%91%E5%8E%BB%E4%B8%96"
+        },
+        {
+          "rank": 7,
+          "title": "烟火美食夯吃挑战开赛了",
+          "heat": 8411078,
+          "url": "https://www.douyin.com/search/%E7%83%9F%E7%81%AB%E7%BE%8E%E9%A3%9F%E5%A4%AF%E5%90%83%E6%8C%91%E6%88%98%E5%BC%80%E8%B5%9B%E4%BA%86"
+        },
+        {
+          "rank": 8,
+          "title": "淡人友好冬日旅行",
+          "heat": 7834432,
+          "url": "https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E5%8F%8B%E5%A5%BD%E5%86%AC%E6%97%A5%E6%97%85%E8%A1%8C"
+        },
+        {
+          "rank": 9,
+          "title": "秋冬落地签是一杯warm drink",
+          "heat": 7804484,
+          "url": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E8%90%BD%E5%9C%B0%E7%AD%BE%E6%98%AF%E4%B8%80%E6%9D%AFwarm%20drink"
+        },
+        {
+          "rank": 10,
+          "title": "R星入驻抖音",
+          "heat": 7767271,
+          "url": "https://www.douyin.com/search/R%E6%98%9F%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3"
+        },
+        {
+          "rank": 11,
+          "title": "时间从来证明不了什么",
+          "heat": 7761779,
+          "url": "https://www.douyin.com/search/%E6%97%B6%E9%97%B4%E4%BB%8E%E6%9D%A5%E8%AF%81%E6%98%8E%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88"
+        },
+        {
+          "rank": 12,
+          "title": "刘欢妻子发公开信：他是这样的人",
+          "heat": 7759848,
+          "url": "https://www.douyin.com/search/%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%91%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%9A%E4%BB%96%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA"
+        },
+        {
+          "rank": 13,
+          "title": "首个AI漫剧晚会阵容官宣",
+          "heat": 7740956,
+          "url": "https://www.douyin.com/search/%E9%A6%96%E4%B8%AAAI%E6%BC%AB%E5%89%A7%E6%99%9A%E4%BC%9A%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+        },
+        {
+          "rank": 14,
+          "title": "我已经准备好回家过年了",
+          "heat": 7724527,
+          "url": "https://www.douyin.com/search/%E6%88%91%E5%B7%B2%E7%BB%8F%E5%87%86%E5%A4%87%E5%A5%BD%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E4%BA%86"
+        },
+        {
+          "rank": 15,
+          "title": "十万狂花入梦来定档",
+          "heat": 7714623,
+          "url": "https://www.douyin.com/search/%E5%8D%81%E4%B8%87%E7%8B%82%E8%8A%B1%E5%85%A5%E6%A2%A6%E6%9D%A5%E5%AE%9A%E6%A1%A3"
+        },
+        {
+          "rank": 16,
+          "title": "告别信开机",
+          "heat": 7713334,
+          "url": "https://www.douyin.com/search/%E5%91%8A%E5%88%AB%E4%BF%A1%E5%BC%80%E6%9C%BA"
+        },
+        {
+          "rank": 17,
+          "title": "天赐抖音直播首秀",
+          "heat": 7712438,
+          "url": "https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E9%A6%96%E7%A7%80"
+        },
+        {
+          "rank": 18,
+          "title": "王楚然现发团新晋吐槽役",
+          "heat": 7710180,
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%8E%B0%E5%8F%91%E5%9B%A2%E6%96%B0%E6%99%8B%E5%90%90%E6%A7%BD%E5%BD%B9"
+        },
+        {
+          "rank": 19,
+          "title": "你爱的是花还是花为你开",
+          "heat": 7707488,
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E7%88%B1%E7%9A%84%E6%98%AF%E8%8A%B1%E8%BF%98%E6%98%AF%E8%8A%B1%E4%B8%BA%E4%BD%A0%E5%BC%80"
+        },
+        {
+          "rank": 20,
+          "title": "你还是逃不过覆面系",
+          "heat": 7705478,
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E8%BF%98%E6%98%AF%E9%80%83%E4%B8%8D%E8%BF%87%E8%A6%86%E9%9D%A2%E7%B3%BB"
+        },
+        {
+          "rank": 21,
+          "title": "可以给我买麻辣烫糖葫芦吗",
+          "heat": 7702960,
+          "url": "https://www.douyin.com/search/%E5%8F%AF%E4%BB%A5%E7%BB%99%E6%88%91%E4%B9%B0%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%B3%96%E8%91%AB%E8%8A%A6%E5%90%97"
+        },
+        {
+          "rank": 22,
+          "title": "中方驳斥G7涉台联合声明",
+          "heat": 7696976,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5G7%E6%B6%89%E5%8F%B0%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E"
+        },
+        {
+          "rank": 23,
+          "title": "今天是太阳雨假表哥真表嫂",
+          "heat": 7693710,
+          "url": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%81%87%E8%A1%A8%E5%93%A5%E7%9C%9F%E8%A1%A8%E5%AB%82"
+        },
+        {
+          "rank": 24,
+          "title": "幸福迢迢如流水",
+          "heat": 7691820,
+          "url": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E8%BF%A2%E8%BF%A2%E5%A6%82%E6%B5%81%E6%B0%B4"
+        },
+        {
+          "rank": 25,
+          "title": "国内金饰价跌穿1200元",
+          "heat": 7683921,
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E9%87%91%E9%A5%B0%E4%BB%B7%E8%B7%8C%E7%A9%BF1200%E5%85%83"
+        },
+        {
+          "rank": 26,
+          "title": "好像在看赵丽颖朋友圈",
+          "heat": 7683138,
+          "url": "https://www.douyin.com/search/%E5%A5%BD%E5%83%8F%E5%9C%A8%E7%9C%8B%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9C%8B%E5%8F%8B%E5%9C%88"
+        },
+        {
+          "rank": 27,
+          "title": "铁公鸡来南太行也得破费",
+          "heat": 7681668,
+          "url": "https://www.douyin.com/search/%E9%93%81%E5%85%AC%E9%B8%A1%E6%9D%A5%E5%8D%97%E5%A4%AA%E8%A1%8C%E4%B9%9F%E5%BE%97%E7%A0%B4%E8%B4%B9"
+        },
+        {
+          "rank": 28,
+          "title": "拔萝卜一开口就是童年那味儿",
+          "heat": 7678987,
+          "url": "https://www.douyin.com/search/%E6%8B%94%E8%90%9D%E5%8D%9C%E4%B8%80%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E7%AB%A5%E5%B9%B4%E9%82%A3%E5%91%B3%E5%84%BF"
+        },
+        {
+          "rank": 29,
+          "title": "跟着后会友期开启进藏之旅",
+          "heat": 7674346,
+          "url": "https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%BC%80%E5%90%AF%E8%BF%9B%E8%97%8F%E4%B9%8B%E6%97%85"
+        },
+        {
+          "rank": 30,
+          "title": "多喜一家人定档11月16日",
+          "heat": 7670894,
+          "url": "https://www.douyin.com/search/%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%AE%9A%E6%A1%A311%E6%9C%8816%E6%97%A5"
+        }
+      ],
+      "endpoint": "https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/?aid=1128&version_code=880",
+      "upstream_time": null
+    }
+  }
+}
