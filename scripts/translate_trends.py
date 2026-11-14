@@ -39,9 +39,36 @@ def enrich(data, translator=translate):
                     row['translation_status'] = 'unavailable'
     return data
 
+
+def reuse_translations(data, snapshots):
+    """Reuse exact original-title matches from successful historical rows."""
+    cache = {}
+    for snapshot in snapshots:
+        for key in KEYS:
+            for row in snapshot.get('platforms', {}).get(key, {}).get('items', []):
+                if (isinstance(row.get('title'), str)
+                        and isinstance(row.get('title_zh'), str)
+                        and row['title_zh'].strip()
+                        and row.get('translation_status') == 'machine'):
+                    cache[row['title']] = row['title_zh']
+    for key in KEYS:
+        for row in data.get('platforms', {}).get(key, {}).get('items', []):
+            if not row.get('title_zh') and row.get('title') in cache:
+                row.update(title_zh=cache[row['title']], translation_status='machine')
+    return data
+
 def main():
     path = ROOT / 'docs/trends.json'
-    data = enrich(json.loads(path.read_text(encoding='utf-8-sig')))
+    data = json.loads(path.read_text(encoding='utf-8-sig'))
+    snapshots = []
+    for previous in sorted((ROOT / 'docs/history').glob('????-??-??.json'))[-30:]:
+        try:
+            snapshot = json.loads(previous.read_text(encoding='utf-8-sig'))
+            if isinstance(snapshot, dict):
+                snapshots.append(snapshot)
+        except (OSError, ValueError):
+            print('Skipped unreadable translation history')
+    data = enrich(reuse_translations(data, snapshots))
     content = json.dumps(data, ensure_ascii=False, indent=2) + '\n'
     path.write_text(content, encoding='utf-8')
     (ROOT / 'docs/history' / (data['date'] + '.json')).write_text(content, encoding='utf-8')
