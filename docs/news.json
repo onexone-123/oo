@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T03:00:06.216652+00:00",
+  "checked_at": "2026-11-15T04:59:36.607845+00:00",
   "feeds_ok": 4,
   "items": [
     {
@@ -168,6 +168,21 @@
       "publisher": "Sohu"
     },
     {
+      "id": "auto-18e1071d6323d4a2a7a7",
+      "kind": "hot",
+      "tag": "电商运营",
+      "region": "中国",
+      "date": "2026.11.13",
+      "art": "lego",
+      "word": "DAILY SIGNAL",
+      "title": "从 “会投广告” 到 “会做经营”：抖音电商不同体量商家的增长新解法_行业动态",
+      "body": "每日资讯 · 中国运营动态。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-11-13T09:51:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lc1BZSjJ5Zy02TGRPOWV3allmUFFPYzF5VzJTZDR3LUU4R0JMRWlpa0Q4bEFJVzlFVk5JUzB3TXViS1JTSkZmb2FoSW9TRHpVTkhGcVI2ckM?oc=5",
+      "publisher": "投资界"
+    },
+    {
       "id": "auto-896e12bd0c822b20fca5",
       "kind": "hot",
       "tag": "电商运营",
@@ -286,21 +301,6 @@
       "published_at": "2026-11-12T14:47:59+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY01oS29jTnJ6bVhabHloS2tVSjZEajJZaVV4Yll0OG54bDhrQmd6RmlNZlZGSFZkVWs1dnh3Ym9BTTk2ci1VSk5RRjExUDRkMDlXaTZSUE8wdklKSUJRYU9pWW04aWdwVGJac1Bsb00wSExfS0ZBbUJBb09mbnBGTC0tVHAycTI2RUR4SzlFOXB5aEwzN2pGYmd4Ym53N21vazJVdW1WNXVMdEtacVM4dnpSaDZMVm9seG5YRndYeUlkbXZUTmlqNEViZGVqUGF0TDhYMkEycWtPQWxzQWFLY3EtLXdXb1k?oc=5",
       "publisher": "Roastbrief US"
-    },
-    {
-      "id": "auto-d8438937a606d755939d",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "全球",
-      "date": "2026.11.12",
-      "art": "meta",
-      "word": "DAILY SIGNAL",
-      "title": "Netflix Launches New Brand Advertising Campaign In Engagement Push",
-      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-11-12T12:35:32+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGbVJ6c0VFLW1zbFdpV2tIaGVIN3JGSTNObG01TjVnX3hfZExZR0FYN0RQcm9QY0Itc1RyYUw3djEyck1EUlJGOENNYVVJa2FZQ1RQNVZuT2VZX0ZhZDJ5d3p2OEZ0UQ?oc=5",
-      "publisher": "IMDb"
     },
     {
       "id": "auto-6b21a72eec653e9143db",
@@ -646,6 +646,21 @@
       "published_at": "2026-11-10T19:26:33+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fcXF1MmxkVVMwNXlXVGJkQ19nS2ZNLUQ0Xzd2WTZRX1dCb3NDQnpDS1AtYkNPTXNzYmw1REFFOWtTUm1ER0VrYm5tcTZHSEJ0U0xPMXRYUzgyQXVhZlE?oc=5",
       "publisher": "CSDN"
+    },
+    {
+      "id": "auto-d8438937a606d755939d",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.11.10",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Netflix Launches New Brand Advertising Campaign In Engagement Push",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-11-10T18:59:26+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGppUU5ZbE56Uk11enpHRWhyZHlhdGFYVzhqU1R6LTBvTDlzMmlHeGtRc21VT2x1LXdCWm1TMEY3U0UtZUdrRDVURWo5Tk9sTDZWaXpjOGtKN0xCejJuR083d0RwRzZhZG41S090U1QxQW5GRVFKa2FQREQ2ZF9FM1hOVlk5c3lUYW1kNTIyOW9fVGRSWXgydnlUcWdUVVVXU0NwM1Y4cEZyeXpu?oc=5",
+      "publisher": "TV News Check"
     },
     {
       "id": "auto-edb497d12e49c0999ddf",
@@ -1021,6 +1036,21 @@
       "published_at": "2026-11-09T13:30:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJbHB2NUhNTV9PcWM4T0VhMXNvWFEyZ2lBOWNtYTVlQlZYZ0F0Q2FlM3h3VU5HSVVlTmQtY09mVWhmVThuakdhbVZsc2VDZXBkNFB2dmtZcnRiMlhhUVJB?oc=5",
       "publisher": "4A广告网"
+    },
+    {
+      "id": "auto-03582be089e2bcdfb222",
+      "kind": "hot",
+      "tag": "品牌运营",
+      "region": "全球",
+      "date": "2026.11.09",
+      "art": "meta",
+      "word": "DAILY SIGNAL",
+      "title": "Amazon's AI Workspace Tool Gets Its First Ad Campaign",
+      "body": "每日资讯 · 全球品牌营销。点击展开查看收录说明。",
+      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
+      "published_at": "2026-11-09T11:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlpCemVkRjBPZ3RhUUw3b1JmSWdWQWgtMnp3Q0lSZUplV2VkN2Jia21xanFEQW1rSFRCN2hOVFBfSUhqeDcwLV9aNkxJTUcwRHk4ZHRwT1M5dW9KazF0anhtbjRsenpPYW1Pa2o5SzQyLWpXTV9yZ1d4YU1weVN5cllBbnBBRG55dWVwMG1scnV3SmVwekNz?oc=5",
+      "publisher": "ADWEEK"
     },
     {
       "id": "auto-96899f325c3f0dd84196",
@@ -1771,36 +1801,6 @@
       "published_at": "2026-11-05T07:20:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Fb0wwX0NJTTk3emNiX1F1N09qZG01SFd1TS1mZ3ZGRmhtNnoteW5kMUFuQjdWNmlEdUVQR2NrYjZqV21YWmRPekdzbEl4MGNhSFV3Z0tPTnI5d09MQ0VJ?oc=5",
       "publisher": "4A广告网"
-    },
-    {
-      "id": "auto-53900378d701c76e8b8b",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.11.05",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "妙可蓝多获“消费者口碑标杆奖”，以情感纽带构建品牌长期价值",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-11-05T07:11:00+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UTEFBakVRMkxfRzFHSUpCZHJFTGgyLWZvMndTaXhYSWJXd1p2eldlYzBtc1Nkbl9UOGM5eDBHUmdLWWw2cjdXNzBJVExURG1LbHJFaFZYLTRDUGw4Y1JBRXdWdkNlWWllam5r?oc=5",
-      "publisher": "新华报业网"
-    },
-    {
-      "id": "auto-656b7af665989670a03d",
-      "kind": "hot",
-      "tag": "品牌运营",
-      "region": "中国",
-      "date": "2026.11.05",
-      "art": "lego",
-      "word": "DAILY SIGNAL",
-      "title": "游戏IP联动从短期热度到长效增长，成为延续IP生命力的重要引擎",
-      "body": "每日资讯 · IP合作动态。点击展开查看收录说明。",
-      "extra": "这是一条自动收录的新闻标题，保留原标题语言；不代表已验证的营销成效或合作授权可用性。",
-      "published_at": "2026-11-05T06:29:28+00:00",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyNjFOemtfblZJNTZycE5aVmV6UGZMcDA0UVZxTkExVW9wZjAyQ2hzWFcxMXpOS0Mxclkza3F6U3IyckRzbWdNUGhobGlySjJpNHlVMDZFNzNKOFJjbFdSdllya3VMcFZVc3BibFJ3?oc=5",
-      "publisher": "中华网"
     }
   ]
 }
