@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T01:49:10.050296+00:00",
+  "checked_at": "2026-11-17T06:45:29.647555+00:00",
   "date": "2026-11-17",
   "platforms": {
     "x": {
@@ -7,402 +7,486 @@
       "items": [
         {
           "heat": "",
-          "title": "#ゴンチャの新作",
-          "rank": 1,
-          "url": "https://x.com/search?q=%23%E3%82%B4%E3%83%B3%E3%83%81%E3%83%A3%E3%81%AE%E6%96%B0%E4%BD%9C&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Bond",
-          "rank": 2,
-          "url": "https://x.com/search?q=Bond&src=trend_click",
-          "title_zh": "纽带",
-          "translation_status": "machine"
-        },
-        {
-          "heat": "",
-          "title": "あまおうホリデー",
-          "rank": 3,
-          "url": "https://x.com/search?q=%E3%81%82%E3%81%BE%E3%81%8A%E3%81%86%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
           "title": "#caengames",
-          "rank": 4,
+          "rank": 1,
           "url": "https://x.com/search?q=%23caengames&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "United Airlines",
-          "rank": 5,
-          "url": "https://x.com/search?q=United+Airlines&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "#IRIAMメンテ中のフォロー祭り",
-          "rank": 6,
-          "url": "https://x.com/search?q=%23IRIAM%E3%83%A1%E3%83%B3%E3%83%86%E4%B8%AD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E7%A5%AD%E3%82%8A&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
           "title": "私の名前",
-          "rank": 7,
+          "rank": 2,
           "url": "https://x.com/search?q=%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "#ローソン盛りすぎチャレンジ",
-          "rank": 8,
-          "url": "https://x.com/search?q=%23%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3%E7%9B%9B%E3%82%8A%E3%81%99%E3%81%8E%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "#LaIslaDeLasTentaciones21",
-          "rank": 9,
-          "url": "https://x.com/search?q=%23LaIslaDeLasTentaciones21&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Robert Pattinson",
-          "rank": 10,
-          "url": "https://x.com/search?q=Robert+Pattinson&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
           "title": "Chargers",
-          "rank": 11,
+          "rank": 3,
           "url": "https://x.com/search?q=Chargers&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "わたしの運命の町",
-          "rank": 12,
-          "url": "https://x.com/search?q=%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AE%E7%94%BA&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
           "title": "Ravens",
-          "rank": 13,
+          "rank": 4,
           "url": "https://x.com/search?q=Ravens&src=trend_click",
           "title_zh": "乌鸦队",
           "translation_status": "machine"
         },
         {
           "heat": "",
-          "title": "Federica",
+          "title": "江夏さん",
+          "rank": 5,
+          "url": "https://x.com/search?q=%E6%B1%9F%E5%A4%8F%E3%81%95%E3%82%93&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "江夏の21球",
+          "rank": 6,
+          "url": "https://x.com/search?q=%E6%B1%9F%E5%A4%8F%E3%81%AE21%E7%90%83&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "Xマッチ",
+          "rank": 7,
+          "url": "https://x.com/search?q=X%E3%83%9E%E3%83%83%E3%83%81&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "#運命の町当てます",
+          "rank": 8,
+          "url": "https://x.com/search?q=%23%E9%81%8B%E5%91%BD%E3%81%AE%E7%94%BA%E5%BD%93%E3%81%A6%E3%81%BE%E3%81%99&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "わたしの運命の町",
+          "rank": 9,
+          "url": "https://x.com/search?q=%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AE%E7%94%BA&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "#スターバックスを1か月間毎日楽しめる",
+          "rank": 10,
+          "url": "https://x.com/search?q=%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%82%921%E3%81%8B%E6%9C%88%E9%96%93%E6%AF%8E%E6%97%A5%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "Sözcü TV'ye",
+          "rank": 11,
+          "url": "https://x.com/search?q=S%C3%B6zc%C3%BC+TV%27ye&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "#JO1交換",
+          "rank": 12,
+          "url": "https://x.com/search?q=%23JO1%E4%BA%A4%E6%8F%9B&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "#主役はミルク",
+          "rank": 13,
+          "url": "https://x.com/search?q=%23%E4%B8%BB%E5%BD%B9%E3%81%AF%E3%83%9F%E3%83%AB%E3%82%AF&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "Zay Flowers",
           "rank": 14,
-          "url": "https://x.com/search?q=Federica&src=trend_click",
+          "url": "https://x.com/search?q=Zay+Flowers&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "ロバート・パティンソン",
+          "title": "伝説の左腕",
           "rank": 15,
-          "url": "https://x.com/search?q=%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%91%E3%83%86%E3%82%A3%E3%83%B3%E3%82%BD%E3%83%B3&src=trend_click",
+          "url": "https://x.com/search?q=%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%B7%A6%E8%85%95&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "将棋の日",
+          "title": "朝ドラヒロイン",
           "rank": 16,
-          "url": "https://x.com/search?q=%E5%B0%86%E6%A3%8B%E3%81%AE%E6%97%A5&src=trend_click",
+          "url": "https://x.com/search?q=%E6%9C%9D%E3%83%89%E3%83%A9%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "Jagadguru Rambhadracharya",
+          "rank": 17,
+          "url": "https://x.com/search?q=Jagadguru+Rambhadracharya&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "Derrick Henry",
+          "rank": 18,
+          "url": "https://x.com/search?q=Derrick+Henry&src=trend_click",
+          "title_zh": "德里克·亨利",
+          "translation_status": "machine"
+        },
+        {
+          "heat": "",
+          "title": "JO1 AAO",
+          "rank": 19,
+          "url": "https://x.com/search?q=JO1+AAO&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "JO1 11TH SINGLE AAO",
+          "rank": 20,
+          "url": "https://x.com/search?q=JO1+11TH+SINGLE+AAO&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "飯沼愛さん",
+          "rank": 21,
+          "url": "https://x.com/search?q=%E9%A3%AF%E6%B2%BC%E6%84%9B%E3%81%95%E3%82%93&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "Selalu Berikan Pelayanan",
+          "rank": 22,
+          "url": "https://x.com/search?q=Selalu+Berikan+Pelayanan&src=trend_click",
+          "translation_status": "unavailable"
+        },
+        {
+          "heat": "",
+          "title": "Lamar",
+          "rank": 23,
+          "url": "https://x.com/search?q=Lamar&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
           "title": "$COGE",
-          "rank": 17,
+          "rank": 24,
           "url": "https://x.com/search?q=%24COGE&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "Grammy",
-          "rank": 18,
-          "url": "https://x.com/search?q=Grammy&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Daniel Craig",
-          "rank": 19,
-          "url": "https://x.com/search?q=Daniel+Craig&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Batman",
-          "rank": 20,
-          "url": "https://x.com/search?q=Batman&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Chase",
-          "rank": 21,
-          "url": "https://x.com/search?q=Chase&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Sean Connery",
-          "rank": 22,
-          "url": "https://x.com/search?q=Sean+Connery&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Wells Fargo",
-          "rank": 23,
-          "url": "https://x.com/search?q=Wells+Fargo&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Varsi",
-          "rank": 24,
-          "url": "https://x.com/search?q=Varsi&src=trend_click",
-          "translation_status": "unavailable"
-        },
-        {
-          "heat": "",
-          "title": "Franganillo",
+          "title": "初代ブルーウォーカー",
           "rank": 25,
-          "url": "https://x.com/search?q=Franganillo&src=trend_click",
+          "url": "https://x.com/search?q=%E5%88%9D%E4%BB%A3%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "Josh Hutcherson",
+          "title": "オールスター",
           "rank": 26,
-          "url": "https://x.com/search?q=Josh+Hutcherson&src=trend_click",
+          "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "Bank of America",
+          "title": "ジョイフル",
           "rank": 27,
-          "url": "https://x.com/search?q=Bank+of+America&src=trend_click",
+          "url": "https://x.com/search?q=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "ESTAMOS COM LULA",
+          "title": "領空侵犯",
           "rank": 28,
-          "url": "https://x.com/search?q=ESTAMOS+COM+LULA&src=trend_click",
+          "url": "https://x.com/search?q=%E9%A0%98%E7%A9%BA%E4%BE%B5%E7%8A%AF&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "Jennifer Lawrence",
+          "title": "Yetus",
           "rank": 29,
-          "url": "https://x.com/search?q=Jennifer+Lawrence&src=trend_click",
+          "url": "https://x.com/search?q=Yetus&src=trend_click",
           "translation_status": "unavailable"
         },
         {
           "heat": "",
-          "title": "Valeria",
+          "title": "Bond",
           "rank": 30,
-          "url": "https://x.com/search?q=Valeria&src=trend_click",
-          "translation_status": "unavailable"
+          "url": "https://x.com/search?q=Bond&src=trend_click",
+          "title_zh": "纽带",
+          "translation_status": "machine"
         }
       ],
-      "collected_at": "2026-11-17T01:49:10.063692+00:00",
-      "upstream_time": "2026-11-17T01:12:02.638000+00:00",
+      "collected_at": "2026-11-17T06:45:29.660781+00:00",
+      "upstream_time": "2026-11-17T06:20:22.279000+00:00",
       "kind": "third_party_trends",
       "region": "全球 · 保留榜单原语言",
       "source_name": "Trends24",
       "source_url": "https://trends24.in/",
       "note": "第三方记录的 X 全球趋势快照，非 X 官方接口；条目按来源顺序，热度按来源口径。"
     },
+    "instagram": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "An Update on the Content We Recommend on Instagram in India",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUERodVVHNkttcklXN213eTY4MC1ibDhIQlVnSzVyUUpWWEc3RHVIVHp2SnFVbVFKbDlJNGFfcU94bjNGZzd3ejVnQl8wVXN1cmgwVENNOXJIOXlqbDBLUHFzMUR1R1ZkY3Z3VVh5QWxsZkhGMlRrUjlTT1BNSUpUbWUtMi1ta05XbEs0cHBwNXRZQ0R6NlJBZlZR0gGfAUFVX3lxTE5zRms4a1BHNzQyTU1pWFZVRHFzU3RYVE5tWnctZXBZSnFsVGUycElvMnlieUVucm5jenljTHlKcFpmQXBJLW9nRWZPWE43VlRKZ2dtbk9VLWdXd2ZuY1JZdnc2cm9xRnRfOEQ3QS1YRmJ3bzBFazRzWVVyYkYtRm9mcExlaWpoVmJJLVdadkVzVWZwc1JMT0NEV1NvOXB4VQ?oc=5",
+          "heat": "",
+          "publisher": "Facebook",
+          "feed_time": "2026-11-17T03:58:09+00:00",
+          "source_url": "https://about.fb.com",
+          "rank": 1,
+          "translation_status": "unavailable"
+        },
+        {
+          "title": "Instagram launches iPhone Duo-native app",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkxNVXBDSU1xVkhBWFBJZzBJWmlMeEVmcUlBQnFLQjc3QVNvT2hfOElLMGFRMlRfZGZHdVI1eVFVX2JEb1VnelR0alNKU2lVRkRLSzYxQ3d2OWdCejc3Qk96ZmNUYlI0VWozNjVZN0FTMDZYSlh6ZkV4ZkNqTHVpbjBydHpHU05MR0s1WkpCdw?oc=5",
+          "heat": "",
+          "publisher": "Social Media Today",
+          "feed_time": "2026-11-17T01:41:03+00:00",
+          "source_url": "https://www.socialmediatoday.com",
+          "rank": 2,
+          "translation_status": "unavailable"
+        },
+        {
+          "title": "Instagram adds Amazon affiliate links",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb01BWXJ5OXJUMGRZOTdscHJQTFBCUXhDMFJfeWNoMDA0YmFka2Z0emgwalk2VGhQUmN5WDZzMGkxVm9CbE8xSmZhR2M1X3JYRkV5SzRvRW00N2RDcllzbW1ZanZQMjNRSElZSXNVYkphejZldkR2NFVJTmNUeWlEWlAySGMzc0ZERGJr?oc=5",
+          "heat": "",
+          "publisher": "Social Media Today",
+          "feed_time": "2026-11-17T01:41:02+00:00",
+          "source_url": "https://www.socialmediatoday.com",
+          "rank": 3,
+          "translation_status": "unavailable"
+        },
+        {
+          "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEoxeGZxVWk4R1MzZTBNRHV5ZS16Ym4xa0s4TmdidFp5SzgwRzhZRjVIOGNPOHdXVklHbVdQelFDVG1ZTHNGVk81WFRGYkhXdmwyZjFnWmkwbnNOSW10cW1ac0l0dkhNcEZVYXhXcy1paEMxblNFTW1HdjBpYXJaVTg1bktlQno4Z3Z5T2dIWTZtbDIzQ0w1QllRdXZDN0tTaTRv?oc=5",
+          "heat": "",
+          "publisher": "WIRED",
+          "feed_time": "2026-11-16T17:00:00+00:00",
+          "source_url": "https://www.wired.com",
+          "rank": 4,
+          "translation_status": "unavailable"
+        },
+        {
+          "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTVOclVuSGVlNmo0MWkySFBIcndtbFFEbGVDaUxadDBOWG01V2V6M3hkaFBKSlowOFpzQlJDUVZhYnlPMkJHaDNObXc0b25NWVg1VFhSRXVRZkhyREF0TXMwZ1lxVHdRenhqa3p5WTl2V05ydHNQWTl2NTIyVThWSzdsd2R1WHBTWlRPOHNpRnRHU1B0NjgzRWYxMzZXak54Q2ppSzVxb0RzQmVRQzlaTVlJOA?oc=5",
+          "heat": "",
+          "publisher": "TechCrunch",
+          "feed_time": "2026-11-16T17:00:00+00:00",
+          "source_url": "https://techcrunch.com",
+          "rank": 5,
+          "translation_status": "unavailable"
+        },
+        {
+          "title": "Instagram creators can now automatically add Amazon affiliate links to their posts.",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGZjOVU4d3FUWXZaMHJTLWlUVmdmTFlrZWNzenUwdElkdDhMYmNkY3pKOEloc2FZX184QWZmVUJ6VC1ma1RZc3M4b2R4UU05MEVib2RvYUNxQzRBamdmSWFGYTZNb05ZT2R3V2tBTWxValN3QTNkNkFsdlBsVjc1UjhFOUVzeXNEQ0RnWkVsVUpJb0cwLVVUd0gxR1ZubTNxWURYZVc4NGJLdU1ldkZETkRzNmt0U2NELVctMA?oc=5",
+          "heat": "",
+          "publisher": "The Verge",
+          "feed_time": "2026-11-16T17:00:00+00:00",
+          "source_url": "https://www.theverge.com",
+          "rank": 6,
+          "translation_status": "unavailable"
+        },
+        {
+          "title": "James Bond official Instagram account had incredible tease to announce new 007 actor",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd0FaQmdOSFRIbGlGVXZENEpwcWRCS0xjZmNDRGppRGZ2QlNGcnJqTWFXQlZ1aDJ4MUV1SGVXR0FJbnpLREtOOXk3djhsN1ZORThwejF1SlBVdFM4V2NrUFVSQ3NVMUZ0ajd0YjVKVWxHODg4ck15UzhTQ0x6Y3B5NFRySUh4LVhhWmNhQms3ME1sV0wwOTNxXzlKT1g0dUFpZ1RQUzF5dzBSdkNoZ3VIN3FMN3ZKSTdkaV81bEV2RjgzeWlwZ000aU1taHYxa01UT2Z0akJPUXZ0MEtmU05sOVdSWUN6OHdsQXJ0cg?oc=5",
+          "heat": "",
+          "publisher": "USA Today",
+          "feed_time": "2026-11-16T15:41:00+00:00",
+          "source_url": "https://ftw.usatoday.com",
+          "rank": 7,
+          "translation_status": "unavailable"
+        }
+      ],
+      "collected_at": "2026-11-17T06:45:29.660238+00:00",
+      "kind": "reported_signals",
+      "region": "全球报道 · 英文优先",
+      "source_name": "英文媒体报道",
+      "source_url": "https://www.instagram.com/explore/",
+      "partial": true,
+      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
+      "empty_reason": ""
+    },
     "bilibili": {
       "status": "ok",
-      "collected_at": "2026-11-17T01:49:10.530660+00:00",
+      "collected_at": "2026-11-17T06:45:30.162499+00:00",
       "items": [
         {
           "rank": 1,
           "title": "外交部谈中俄美元首会晤",
-          "heat": 10905831,
+          "heat": 5974621,
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4"
         },
         {
           "rank": 2,
-          "title": "APEC中国年为何聚焦这三大领域",
-          "heat": 10746264,
-          "url": "https://search.bilibili.com/all?keyword=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%B8%BA%E4%BD%95%E8%81%9A%E7%84%A6%E8%BF%99%E4%B8%89%E5%A4%A7%E9%A2%86%E5%9F%9F"
+          "title": "APEC紫藏着中国红和深圳蓝",
+          "heat": 5823832,
+          "url": "https://search.bilibili.com/all?keyword=APEC%E7%B4%AB%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%92%8C%E6%B7%B1%E5%9C%B3%E8%93%9D"
         },
         {
           "rank": 3,
-          "title": "GEN官宣Canyon与Kiin离队",
-          "heat": 10033886,
-          "url": "https://search.bilibili.com/all?keyword=GEN%E5%AE%98%E5%AE%A3Canyon%E4%B8%8EKiin%E7%A6%BB%E9%98%9F"
-        },
-        {
-          "rank": 4,
-          "title": "BLG破三路为何还打到53分钟",
-          "heat": 1891106,
-          "url": "https://search.bilibili.com/all?keyword=BLG%E7%A0%B4%E4%B8%89%E8%B7%AF%E4%B8%BA%E4%BD%95%E8%BF%98%E6%89%93%E5%88%B053%E5%88%86%E9%92%9F"
-        },
-        {
-          "rank": 5,
           "title": "印尼驻华大使用中文歌祝福APEC",
-          "heat": 893750,
+          "heat": 5694724,
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%B0%BC%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E6%AD%8C%E7%A5%9D%E7%A6%8FAPEC"
         },
         {
+          "rank": 4,
+          "title": "BLG决赛语音 我们是冠军",
+          "heat": 5535645,
+          "url": "https://search.bilibili.com/all?keyword=BLG%E5%86%B3%E8%B5%9B%E8%AF%AD%E9%9F%B3%20%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B"
+        },
+        {
+          "rank": 5,
+          "title": "BLG现场观战76人vs篮网",
+          "heat": 4041610,
+          "url": "https://search.bilibili.com/all?keyword=BLG%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%9876%E4%BA%BAvs%E7%AF%AE%E7%BD%91"
+        },
+        {
           "rank": 6,
-          "title": "食贫道闯关东吃饭故事上新",
-          "heat": 629435,
-          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%97%AF%E5%85%B3%E4%B8%9C%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B%E4%B8%8A%E6%96%B0"
+          "title": "谭卓入驻B站首条动态祝贺BLG夺冠",
+          "heat": 4027741,
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E5%8D%93%E5%85%A5%E9%A9%BBB%E7%AB%99%E9%A6%96%E6%9D%A1%E5%8A%A8%E6%80%81%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0"
         },
         {
           "rank": 7,
-          "title": "韩网单曲 Chovy的根号4",
-          "heat": 623309,
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%BD%91%E5%8D%95%E6%9B%B2%20Chovy%E7%9A%84%E6%A0%B9%E5%8F%B74"
+          "title": "Bin 冠军皮肤选什么",
+          "heat": 3764438,
+          "url": "https://search.bilibili.com/all?keyword=Bin%20%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E9%80%89%E4%BB%80%E4%B9%88"
         },
         {
           "rank": 8,
-          "title": "德国5球零封荷兰夺小组头名",
-          "heat": 569677,
-          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD5%E7%90%83%E9%9B%B6%E5%B0%81%E8%8D%B7%E5%85%B0%E5%A4%BA%E5%B0%8F%E7%BB%84%E5%A4%B4%E5%90%8D"
+          "title": "第一视角看Bin冠军格温有多强",
+          "heat": 1520106,
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBin%E5%86%A0%E5%86%9B%E6%A0%BC%E6%B8%A9%E6%9C%89%E5%A4%9A%E5%BC%BA"
         },
         {
           "rank": 9,
-          "title": "iPhone Duo新增人脸识别解锁",
-          "heat": 447027,
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%96%B0%E5%A2%9E%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A7%A3%E9%94%81"
+          "title": "C罗国家队十大进球",
+          "heat": 914295,
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%8D%81%E5%A4%A7%E8%BF%9B%E7%90%83"
         },
         {
           "rank": 10,
-          "title": "考研区年更UP主大牙考研上线了",
-          "heat": 392676,
-          "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E5%8C%BA%E5%B9%B4%E6%9B%B4UP%E4%B8%BB%E5%A4%A7%E7%89%99%E8%80%83%E7%A0%94%E4%B8%8A%E7%BA%BF%E4%BA%86"
-        },
-        {
-          "rank": 11,
-          "title": "米勒给今年的S赛打100分",
-          "heat": 392675,
-          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E7%BB%99%E4%BB%8A%E5%B9%B4%E7%9A%84S%E8%B5%9B%E6%89%93100%E5%88%86"
-        },
-        {
-          "rank": 12,
-          "title": "管泽元和Ming米勒一起回味S16决赛",
-          "heat": 392673,
-          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%92%8CMing%E7%B1%B3%E5%8B%92%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%91%B3S16%E5%86%B3%E8%B5%9B"
-        },
-        {
-          "rank": 13,
-          "title": "Viper赛后感谢妈妈和On",
-          "heat": 392672,
-          "url": "https://search.bilibili.com/all?keyword=Viper%E8%B5%9B%E5%90%8E%E6%84%9F%E8%B0%A2%E5%A6%88%E5%A6%88%E5%92%8COn"
-        },
-        {
-          "rank": 14,
-          "title": "非凡之爱演绎经典漫画父与子",
-          "heat": 392671,
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E6%BC%94%E7%BB%8E%E7%BB%8F%E5%85%B8%E6%BC%AB%E7%94%BB%E7%88%B6%E4%B8%8E%E5%AD%90"
-        },
-        {
-          "rank": 15,
-          "title": "根本没有这样的长尾夹",
-          "heat": 392670,
-          "url": "https://search.bilibili.com/all?keyword=%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E9%95%BF%E5%B0%BE%E5%A4%B9"
-        },
-        {
-          "rank": 16,
-          "title": "火影手游永夜扉间技能全爆料",
-          "heat": 392663,
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4%E6%8A%80%E8%83%BD%E5%85%A8%E7%88%86%E6%96%99"
-        },
-        {
-          "rank": 17,
           "title": "BLG 此刻故事由我们执笔",
-          "heat": 392445,
+          "heat": 689327,
           "url": "https://search.bilibili.com/all?keyword=BLG%20%E6%AD%A4%E5%88%BB%E6%95%85%E4%BA%8B%E7%94%B1%E6%88%91%E4%BB%AC%E6%89%A7%E7%AC%94"
         },
         {
+          "rank": 11,
+          "title": "Bin冠军皮肤格温票数反超武器",
+          "heat": 689326,
+          "url": "https://search.bilibili.com/all?keyword=Bin%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E6%A0%BC%E6%B8%A9%E7%A5%A8%E6%95%B0%E5%8F%8D%E8%B6%85%E6%AD%A6%E5%99%A8"
+        },
+        {
+          "rank": 12,
+          "title": "网易山海奇旅二测定档PV",
+          "heat": 689324,
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E6%98%93%E5%B1%B1%E6%B5%B7%E5%A5%87%E6%97%85%E4%BA%8C%E6%B5%8B%E5%AE%9A%E6%A1%A3PV"
+        },
+        {
+          "rank": 13,
+          "title": "后会友期真人秀剧本边界在哪",
+          "heat": 689323,
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%9C%9F%E4%BA%BA%E7%A7%80%E5%89%A7%E6%9C%AC%E8%BE%B9%E7%95%8C%E5%9C%A8%E5%93%AA"
+        },
+        {
+          "rank": 14,
+          "title": "GEN官宣Canyon与Kiin离队",
+          "heat": 689322,
+          "url": "https://search.bilibili.com/all?keyword=GEN%E5%AE%98%E5%AE%A3Canyon%E4%B8%8EKiin%E7%A6%BB%E9%98%9F"
+        },
+        {
+          "rank": 15,
+          "title": "电影挽救计划为何口碑票房双爆",
+          "heat": 689321,
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E4%B8%BA%E4%BD%95%E5%8F%A3%E7%A2%91%E7%A5%A8%E6%88%BF%E5%8F%8C%E7%88%86"
+        },
+        {
+          "rank": 16,
+          "title": "新任007为何是帕丁森",
+          "heat": 689320,
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E4%BB%BB007%E4%B8%BA%E4%BD%95%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE"
+        },
+        {
+          "rank": 17,
+          "title": "韩网单曲 Chovy的根号4",
+          "heat": 689319,
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%BD%91%E5%8D%95%E6%9B%B2%20Chovy%E7%9A%84%E6%A0%B9%E5%8F%B74"
+        },
+        {
           "rank": 18,
-          "title": "国产模型为何在海外悄然走红",
-          "heat": 392035,
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%82%84%E7%84%B6%E8%B5%B0%E7%BA%A2"
+          "title": "食贫道闯关东吃饭故事上新",
+          "heat": 689318,
+          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%97%AF%E5%85%B3%E4%B8%9C%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B%E4%B8%8A%E6%96%B0"
         },
         {
           "rank": 19,
-          "title": "高燃BLG一穿四夺冠短片",
-          "heat": 384274,
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87"
+          "title": "根本没有这样的长尾夹",
+          "heat": 689316,
+          "url": "https://search.bilibili.com/all?keyword=%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E9%95%BF%E5%B0%BE%E5%A4%B9"
         },
         {
           "rank": 20,
-          "title": "小鹿探秘GTA6罪恶之都取景地",
-          "heat": 378734,
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E6%8E%A2%E7%A7%98GTA6%E7%BD%AA%E6%81%B6%E4%B9%8B%E9%83%BD%E5%8F%96%E6%99%AF%E5%9C%B0"
+          "title": "天下足球回顾C罗国家队生涯",
+          "heat": 689311,
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF"
         },
         {
           "rank": 21,
           "title": "BLG夺冠UP主开启抽奖团建",
-          "heat": 378584,
+          "heat": 689304,
           "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0UP%E4%B8%BB%E5%BC%80%E5%90%AF%E6%8A%BD%E5%A5%96%E5%9B%A2%E5%BB%BA"
         },
         {
           "rank": 22,
-          "title": "BLG庆功宴Vlog",
-          "heat": 375524,
-          "url": "https://search.bilibili.com/all?keyword=BLG%E5%BA%86%E5%8A%9F%E5%AE%B4Vlog"
+          "title": "BLG成员获赠专属篮网球衣",
+          "heat": 689295,
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%90%E5%91%98%E8%8E%B7%E8%B5%A0%E4%B8%93%E5%B1%9E%E7%AF%AE%E7%BD%91%E7%90%83%E8%A1%A3"
         },
         {
           "rank": 23,
-          "title": "谭乔二仙桥大爷单曲",
-          "heat": 371496,
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E4%B9%94%E4%BA%8C%E4%BB%99%E6%A1%A5%E5%A4%A7%E7%88%B7%E5%8D%95%E6%9B%B2"
+          "title": "赛博朋克为何开始淡化深刻哲学",
+          "heat": 689271,
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E6%B7%A1%E5%8C%96%E6%B7%B1%E5%88%BB%E5%93%B2%E5%AD%A6"
         },
         {
           "rank": 24,
-          "title": "Bin决胜局格温第一视角",
-          "heat": 368189,
-          "url": "https://search.bilibili.com/all?keyword=Bin%E5%86%B3%E8%83%9C%E5%B1%80%E6%A0%BC%E6%B8%A9%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92"
+          "title": "别人看骑行我在吴磊小课堂听课",
+          "heat": 688207,
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%AB%E4%BA%BA%E7%9C%8B%E9%AA%91%E8%A1%8C%E6%88%91%E5%9C%A8%E5%90%B4%E7%A3%8A%E5%B0%8F%E8%AF%BE%E5%A0%82%E5%90%AC%E8%AF%BE"
         },
         {
           "rank": 25,
-          "title": "鹅城Dangerous",
-          "heat": 366610,
-          "url": "https://search.bilibili.com/all?keyword=%E9%B9%85%E5%9F%8EDangerous"
-        },
-        {
-          "rank": 26,
-          "title": "拉宏桑在路上修好了炫粉凤凰",
-          "heat": 361230,
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%89%E5%AE%8F%E6%A1%91%E5%9C%A8%E8%B7%AF%E4%B8%8A%E4%BF%AE%E5%A5%BD%E4%BA%86%E7%82%AB%E7%B2%89%E5%87%A4%E5%87%B0"
-        },
-        {
-          "rank": 27,
-          "title": "英雄联盟曙光预告有哪些细节",
-          "heat": 349519,
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%9B%99%E5%85%89%E9%A2%84%E5%91%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BB%86%E8%8A%82"
-        },
-        {
-          "rank": 28,
           "title": "Knight直言打Faker压力太大了",
-          "heat": 343275,
+          "heat": 677331,
           "url": "https://search.bilibili.com/all?keyword=Knight%E7%9B%B4%E8%A8%80%E6%89%93Faker%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BA%86"
         },
         {
+          "rank": 26,
+          "title": "鹅城Dangerous",
+          "heat": 667300,
+          "url": "https://search.bilibili.com/all?keyword=%E9%B9%85%E5%9F%8EDangerous"
+        },
+        {
+          "rank": 27,
+          "title": "杨瀚森连送3次助攻",
+          "heat": 666727,
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%BF%9E%E9%80%813%E6%AC%A1%E5%8A%A9%E6%94%BB"
+        },
+        {
+          "rank": 28,
+          "title": "非凡之爱演绎经典漫画父与子",
+          "heat": 665478,
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E6%BC%94%E7%BB%8E%E7%BB%8F%E5%85%B8%E6%BC%AB%E7%94%BB%E7%88%B6%E4%B8%8E%E5%AD%90"
+        },
+        {
           "rank": 29,
-          "title": "第一视角看Bin格温",
-          "heat": 330655,
-          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBin%E6%A0%BC%E6%B8%A9"
+          "title": "Xun 篮球练习时长一小时",
+          "heat": 647998,
+          "url": "https://search.bilibili.com/all?keyword=Xun%20%E7%AF%AE%E7%90%83%E7%BB%83%E4%B9%A0%E6%97%B6%E9%95%BF%E4%B8%80%E5%B0%8F%E6%97%B6"
         },
         {
           "rank": 30,
@@ -418,47 +502,27 @@
       "status": "ok",
       "items": [
         {
-          "title": "Judge's Facebook activity not enough to undo decision against teacher",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzdmZ21UTEpQdkpOM19UXzZNdVJoeG9ZelBJY0FGaTJxajI5WXFuREZfSnJtTDZ3XzlGaERfeW1fUXF2NlRIOXctUWFpQ3JvWENGRlpJdU1vS3h4VkgwczA3ZjIwMG4yVEFQMjdOd1QyTXVfdjZQMTBuVzdWZTdTSlJhdVF5R0hpWG9abEtLVEhEak9ZYVdTRUh1R2hSRlpJelh2NDNBNWNnaEFqYVpUZg?oc=5",
-          "heat": "",
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "feed_time": "2026-11-16T08:07:55+00:00",
-          "source_url": "https://www.abc.net.au",
-          "rank": 1,
-          "translation_status": "unavailable"
-        },
-        {
           "title": "Facebook shelves additional profile option",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXlRRjJnWWxkS2tXUzdwMGI5N2N5eHRiaFN6WXV0em9NMjBUMnhRdElxX0x4ekZ2UGRwSF9nWmw3NlZOZmhrS2tnZWY0RlFFczdNVjZhbEVQTmRsRHBYbHYzMWZRb3c0bzlfVmdYNm9NUDVHZVZKSHpkU3hLYWtEcmRLdjdCS081N1VyYVpjbEg4UQ?oc=5",
           "heat": "",
           "publisher": "Social Media Today",
           "feed_time": "2026-11-16T03:42:13+00:00",
           "source_url": "https://www.socialmediatoday.com",
-          "rank": 2,
+          "rank": 1,
           "translation_status": "unavailable"
         },
         {
-          "title": "Victorian One Nation candidate linked to AI-slop Facebook page",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNal92dTZjdzZHZkFuR3A4dGdMa05SOWZyY0RZOEV1Q25qWWVtakxub3JPOVpMTGwxRklYNHZFU0U3NHFMSXFGOFVMWlI5TEo2ZzJSRG9obEJnQnFKN3VidGhmX3RCSkJnV05OdGQ3MmM4VUdRNjlVLUg4LXR4VGFEM2xxem54eUhlMlg4?oc=5",
-          "heat": "",
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "feed_time": "2026-11-15T18:00:00+00:00",
-          "source_url": "https://www.abc.net.au",
-          "rank": 3,
-          "translation_status": "unavailable"
-        },
-        {
-          "title": "A former Google and Facebook employee shares the simple networking habits that make a difference",
+          "title": "I've worked at Google, Facebook, and the White House. These networking habits make a difference in getting a job.",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0hxeUNaQmNJOUlQYUlzZVRfUGQ5SWxFbmhyQURybjgtaWJ0UGZMdmRrVE5EaHZrZXhjdW1STUlkRkx2S0xwWEVPWFc5WjRRMUpxVnVfQU9PUjFKVHl2aVNvZG9SYXhRc0RFSmt0MmtvYW5uTVpUZ3JKU1JiX29fTjZaM1J5QmpNRmx3?oc=5",
           "heat": "",
           "publisher": "Business Insider",
           "feed_time": "2026-11-15T09:51:00+00:00",
           "source_url": "https://www.businessinsider.com",
-          "rank": 4,
+          "rank": 2,
           "translation_status": "unavailable"
         }
       ],
-      "collected_at": "2026-11-17T01:49:10.059684+00:00",
+      "collected_at": "2026-11-17T06:45:29.660402+00:00",
       "kind": "reported_signals",
       "region": "全球报道 · 英文优先",
       "source_name": "英文媒体报道",
@@ -511,251 +575,198 @@
           "translation_status": "unavailable"
         }
       ],
-      "collected_at": "2026-11-17T01:49:10.064845+00:00",
+      "collected_at": "2026-11-17T06:45:29.663482+00:00",
       "kind": "reported_signals",
       "region": "全球报道 · 英文优先",
       "source_name": "英文媒体报道",
       "source_url": "https://ads.tiktok.com/creative/creativeCenter/trends?LanguageId=1",
-      "partial": true,
-      "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
-      "empty_reason": ""
-    },
-    "instagram": {
-      "status": "ok",
-      "items": [
-        {
-          "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEoxeGZxVWk4R1MzZTBNRHV5ZS16Ym4xa0s4TmdidFp5SzgwRzhZRjVIOGNPOHdXVklHbVdQelFDVG1ZTHNGVk81WFRGYkhXdmwyZjFnWmkwbnNOSW10cW1ac0l0dkhNcEZVYXhXcy1paEMxblNFTW1HdjBpYXJaVTg1bktlQno4Z3Z5T2dIWTZtbDIzQ0w1QllRdXZDN0tTaTRv?oc=5",
-          "heat": "",
-          "publisher": "WIRED",
-          "feed_time": "2026-11-16T17:00:00+00:00",
-          "source_url": "https://www.wired.com",
-          "rank": 1,
-          "translation_status": "unavailable"
-        },
-        {
-          "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTVOclVuSGVlNmo0MWkySFBIcndtbFFEbGVDaUxadDBOWG01V2V6M3hkaFBKSlowOFpzQlJDUVZhYnlPMkJHaDNObXc0b25NWVg1VFhSRXVRZkhyREF0TXMwZ1lxVHdRenhqa3p5WTl2V05ydHNQWTl2NTIyVThWSzdsd2R1WHBTWlRPOHNpRnRHU1B0NjgzRWYxMzZXak54Q2ppSzVxb0RzQmVRQzlaTVlJOA?oc=5",
-          "heat": "",
-          "publisher": "TechCrunch",
-          "feed_time": "2026-11-16T17:00:00+00:00",
-          "source_url": "https://techcrunch.com",
-          "rank": 2,
-          "translation_status": "unavailable"
-        },
-        {
-          "title": "Instagram creators can now automatically add Amazon affiliate links to their posts.",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGZjOVU4d3FUWXZaMHJTLWlUVmdmTFlrZWNzenUwdElkdDhMYmNkY3pKOEloc2FZX184QWZmVUJ6VC1ma1RZc3M4b2R4UU05MEVib2RvYUNxQzRBamdmSWFGYTZNb05ZT2R3V2tBTWxValN3QTNkNkFsdlBsVjc1UjhFOUVzeXNEQ0RnWkVsVUpJb0cwLVVUd0gxR1ZubTNxWURYZVc4NGJLdU1ldkZETkRzNmt0U2NELVctMA?oc=5",
-          "heat": "",
-          "publisher": "The Verge",
-          "feed_time": "2026-11-16T17:00:00+00:00",
-          "source_url": "https://www.theverge.com",
-          "rank": 3,
-          "translation_status": "unavailable"
-        },
-        {
-          "title": "James Bond official Instagram account had incredible tease to announce new 007 actor",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd0FaQmdOSFRIbGlGVXZENEpwcWRCS0xjZmNDRGppRGZ2QlNGcnJqTWFXQlZ1aDJ4MUV1SGVXR0FJbnpLREtOOXk3djhsN1ZORThwejF1SlBVdFM4V2NrUFVSQ3NVMUZ0ajd0YjVKVWxHODg4ck15UzhTQ0x6Y3B5NFRySUh4LVhhWmNhQms3ME1sV0wwOTNxXzlKT1g0dUFpZ1RQUzF5dzBSdkNoZ3VIN3FMN3ZKSTdkaV81bEV2RjgzeWlwZ000aU1taHYxa01UT2Z0akJPUXZ0MEtmU05sOVdSWUN6OHdsQXJ0cg?oc=5",
-          "heat": "",
-          "publisher": "USA Today",
-          "feed_time": "2026-11-16T15:41:00+00:00",
-          "source_url": "https://ftw.usatoday.com",
-          "rank": 4,
-          "translation_status": "unavailable"
-        }
-      ],
-      "collected_at": "2026-11-17T01:49:10.056877+00:00",
-      "kind": "reported_signals",
-      "region": "全球报道 · 英文优先",
-      "source_name": "英文媒体报道",
-      "source_url": "https://www.instagram.com/explore/",
       "partial": false,
       "note": "近 72 小时订阅收录的英文平台动态，可能包含旧文重新收录；按订阅时间排序，不是官方热榜。",
       "empty_reason": ""
     },
     "weibo": {
       "status": "ok",
-      "collected_at": "2026-11-17T01:49:11.229908+00:00",
+      "collected_at": "2026-11-17T06:45:30.791839+00:00",
       "items": [
         {
           "rank": 1,
-          "title": "中俄美元首会晤将在深圳举行",
-          "heat": 1001989,
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C"
+          "title": "于东来奖励员工310辆坦克700",
+          "heat": 1148391,
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5310%E8%BE%86%E5%9D%A6%E5%85%8B700"
         },
         {
           "rank": 2,
-          "title": "APEC",
-          "heat": 882826,
-          "url": "https://s.weibo.com/weibo?q=APEC"
+          "title": "杨瀚森砍鲨战术",
+          "heat": 827498,
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%A0%8D%E9%B2%A8%E6%88%98%E6%9C%AF"
         },
         {
           "rank": 3,
-          "title": "APEC合作成果惠及千家万户",
-          "heat": 558224,
-          "url": "https://s.weibo.com/weibo?q=APEC%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%E6%83%A0%E5%8F%8A%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7"
+          "title": "数说APEC中国年经贸成果",
+          "heat": 638844,
+          "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%B4APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C"
         },
         {
           "rank": 4,
-          "title": "经常朝左边睡觉对心脏的影响",
-          "heat": 508192,
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D"
+          "title": "信小呆中奖后抑郁了",
+          "heat": 602498,
+          "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E4%B8%AD%E5%A5%96%E5%90%8E%E6%8A%91%E9%83%81%E4%BA%86"
         },
         {
           "rank": 5,
-          "title": "恢复专注力需要反多巴胺",
-          "heat": 328308,
-          "url": "https://s.weibo.com/weibo?q=%E6%81%A2%E5%A4%8D%E4%B8%93%E6%B3%A8%E5%8A%9B%E9%9C%80%E8%A6%81%E5%8F%8D%E5%A4%9A%E5%B7%B4%E8%83%BA"
+          "title": "从100斤瘦到80斤堪比整容",
+          "heat": 581155,
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%8E100%E6%96%A4%E7%98%A6%E5%88%B080%E6%96%A4%E5%A0%AA%E6%AF%94%E6%95%B4%E5%AE%B9"
         },
         {
           "rank": 6,
-          "title": "周杰伦27年演唱会官宣",
-          "heat": 314206,
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A627%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3"
+          "title": "太阳雨德国篇 剧情人设OOC",
+          "heat": 540181,
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%BE%B7%E5%9B%BD%E7%AF%87%20%E5%89%A7%E6%83%85%E4%BA%BA%E8%AE%BEOOC"
         },
         {
           "rank": 7,
-          "title": "17家车企被点名查账",
-          "heat": 313891,
-          "url": "https://s.weibo.com/weibo?q=17%E5%AE%B6%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%82%B9%E5%90%8D%E6%9F%A5%E8%B4%A6"
+          "title": "虞书欣新综艺开机",
+          "heat": 358871,
+          "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E7%BB%BC%E8%89%BA%E5%BC%80%E6%9C%BA"
         },
         {
           "rank": 8,
-          "title": "德国5比0荷兰",
-          "heat": 313272,
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD5%E6%AF%940%E8%8D%B7%E5%85%B0"
+          "title": "深圳APEC主持人阵容拉满",
+          "heat": 339980,
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3APEC%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E6%8B%89%E6%BB%A1"
         },
         {
           "rank": 9,
-          "title": "深圳街头APEC氛围拉满",
-          "heat": 312421,
-          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4APEC%E6%B0%9B%E5%9B%B4%E6%8B%89%E6%BB%A1"
+          "title": "10月货物进出口同比增长31.2%",
+          "heat": 339948,
+          "url": "https://s.weibo.com/weibo?q=10%E6%9C%88%E8%B4%A7%E7%89%A9%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF31.2%25"
         },
         {
           "rank": 10,
-          "title": "蒋欣这段哭戏可以进北影教材",
-          "heat": 310925,
-          "url": "https://s.weibo.com/weibo?q=%E8%92%8B%E6%AC%A3%E8%BF%99%E6%AE%B5%E5%93%AD%E6%88%8F%E5%8F%AF%E4%BB%A5%E8%BF%9B%E5%8C%97%E5%BD%B1%E6%95%99%E6%9D%90"
+          "title": "信小呆兑奖行程受限长期透支身体",
+          "heat": 338319,
+          "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E5%85%91%E5%A5%96%E8%A1%8C%E7%A8%8B%E5%8F%97%E9%99%90%E9%95%BF%E6%9C%9F%E9%80%8F%E6%94%AF%E8%BA%AB%E4%BD%93"
         },
         {
           "rank": 11,
-          "title": "南风律师要求虞书欣工作室道歉",
-          "heat": 310572,
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%A3%8E%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%81%93%E6%AD%89"
+          "title": "字节只差一个聊天软件了",
+          "heat": 337387,
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%E5%8F%AA%E5%B7%AE%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6%E4%BA%86"
         },
         {
           "rank": 12,
-          "title": "信小呆锦鲤奖品实为代金券",
-          "heat": 309303,
-          "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E9%94%A6%E9%B2%A4%E5%A5%96%E5%93%81%E5%AE%9E%E4%B8%BA%E4%BB%A3%E9%87%91%E5%88%B8"
+          "title": "原来王子璇去了不止一趟医院",
+          "heat": 337105,
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%8E%8B%E5%AD%90%E7%92%87%E5%8E%BB%E4%BA%86%E4%B8%8D%E6%AD%A2%E4%B8%80%E8%B6%9F%E5%8C%BB%E9%99%A2"
         },
         {
           "rank": 13,
-          "title": "BLG成员现场观战篮网76人比赛",
-          "heat": 308233,
-          "url": "https://s.weibo.com/weibo?q=BLG%E6%88%90%E5%91%98%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%AF%AE%E7%BD%9176%E4%BA%BA%E6%AF%94%E8%B5%9B"
+          "title": "虞书欣明示",
+          "heat": 336164,
+          "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%98%8E%E7%A4%BA"
         },
         {
           "rank": 14,
-          "title": "iPhone20Pro四微曲玻璃样品曝光",
-          "heat": 308210,
-          "url": "https://s.weibo.com/weibo?q=iPhone20Pro%E5%9B%9B%E5%BE%AE%E6%9B%B2%E7%8E%BB%E7%92%83%E6%A0%B7%E5%93%81%E6%9B%9D%E5%85%89"
+          "title": "Zeus换T1头像",
+          "heat": 334516,
+          "url": "https://s.weibo.com/weibo?q=Zeus%E6%8D%A2T1%E5%A4%B4%E5%83%8F"
         },
         {
           "rank": 15,
-          "title": "美国发布AI芯片远程访问新规",
-          "heat": 278316,
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%B8%83AI%E8%8A%AF%E7%89%87%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E6%96%B0%E8%A7%84"
+          "title": "Gumayusi回不了T1",
+          "heat": 333980,
+          "url": "https://s.weibo.com/weibo?q=Gumayusi%E5%9B%9E%E4%B8%8D%E4%BA%86T1"
         },
         {
           "rank": 16,
-          "title": "被虞书欣起诉网友发文",
-          "heat": 277520,
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87"
+          "title": "深圳之眼撞上APEC会标",
+          "heat": 332786,
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E4%B9%8B%E7%9C%BC%E6%92%9E%E4%B8%8AAPEC%E4%BC%9A%E6%A0%87"
         },
         {
           "rank": 17,
-          "title": "建议大家不要一直穿同一双鞋",
-          "heat": 263437,
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B"
+          "title": "信小呆称环游世界后落后了太多",
+          "heat": 332547,
+          "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E7%A7%B0%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C%E5%90%8E%E8%90%BD%E5%90%8E%E4%BA%86%E5%A4%AA%E5%A4%9A"
         },
         {
           "rank": 18,
-          "title": "金子涵称被家人骗到了精神病院",
-          "heat": 246526,
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2"
+          "title": "A股",
+          "heat": 331755,
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1"
         },
         {
           "rank": 19,
-          "title": "沈奕斐说沟通根本解决不了婚姻问题",
-          "heat": 245380,
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E5%A5%95%E6%96%90%E8%AF%B4%E6%B2%9F%E9%80%9A%E6%A0%B9%E6%9C%AC%E8%A7%A3%E5%86%B3%E4%B8%8D%E4%BA%86%E5%A9%9A%E5%A7%BB%E9%97%AE%E9%A2%98"
+          "title": "张檬和儿子断母乳抱头痛哭",
+          "heat": 284019,
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%AA%AC%E5%92%8C%E5%84%BF%E5%AD%90%E6%96%AD%E6%AF%8D%E4%B9%B3%E6%8A%B1%E5%A4%B4%E7%97%9B%E5%93%AD"
         },
         {
           "rank": 20,
-          "title": "母亲称C罗在葡萄牙队被欺骗没得到尊重",
-          "heat": 243173,
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%8D%E4%BA%B2%E7%A7%B0C%E7%BD%97%E5%9C%A8%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E8%A2%AB%E6%AC%BA%E9%AA%97%E6%B2%A1%E5%BE%97%E5%88%B0%E5%B0%8A%E9%87%8D"
+          "title": "腾讯内部讲话曝光",
+          "heat": 281477,
+          "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E5%86%85%E9%83%A8%E8%AE%B2%E8%AF%9D%E6%9B%9D%E5%85%89"
         },
         {
           "rank": 21,
-          "title": "吃了点didi喂",
-          "heat": 242250,
-          "url": "https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82"
+          "title": "男性确认被爱的方式和你想的不一样",
+          "heat": 279642,
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E6%80%A7%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%88%B1%E7%9A%84%E6%96%B9%E5%BC%8F%E5%92%8C%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7"
         },
         {
           "rank": 22,
-          "title": "浙江47岁婆婆生三胎",
-          "heat": 240149,
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%99%E6%B1%9F47%E5%B2%81%E5%A9%86%E5%A9%86%E7%94%9F%E4%B8%89%E8%83%8E"
+          "title": "甄嬛传这三集播放量最高",
+          "heat": 275146,
+          "url": "https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E8%BF%99%E4%B8%89%E9%9B%86%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98"
         },
         {
           "rank": 23,
-          "title": "周杰伦大屏票卖的是氛围还是观演",
-          "heat": 238011,
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%A7%E5%B1%8F%E7%A5%A8%E5%8D%96%E7%9A%84%E6%98%AF%E6%B0%9B%E5%9B%B4%E8%BF%98%E6%98%AF%E8%A7%82%E6%BC%94"
+          "title": "腾讯生死存亡时刻",
+          "heat": 271346,
+          "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E7%94%9F%E6%AD%BB%E5%AD%98%E4%BA%A1%E6%97%B6%E5%88%BB"
         },
         {
           "rank": 24,
-          "title": "什么岗位可以随时请一周假",
-          "heat": 237289,
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%B2%97%E4%BD%8D%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E8%AF%B7%E4%B8%80%E5%91%A8%E5%81%87"
+          "title": "信小呆辞职兑奖花光积蓄",
+          "heat": 265758,
+          "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E8%BE%9E%E8%81%8C%E5%85%91%E5%A5%96%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84"
         },
         {
           "rank": 25,
-          "title": "iPhoneDuo新增人脸识别解锁",
-          "heat": 234537,
-          "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E6%96%B0%E5%A2%9E%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A7%A3%E9%94%81"
+          "title": "8小时600块钱一般人这钱都不敢赚",
+          "heat": 265420,
+          "url": "https://s.weibo.com/weibo?q=8%E5%B0%8F%E6%97%B6600%E5%9D%97%E9%92%B1%E4%B8%80%E8%88%AC%E4%BA%BA%E8%BF%99%E9%92%B1%E9%83%BD%E4%B8%8D%E6%95%A2%E8%B5%9A"
         },
         {
           "rank": 26,
-          "title": "金价创今年以来新低",
-          "heat": 233934,
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E"
+          "title": "信小呆曾说没钱没工作有抑郁倾向",
+          "heat": 259722,
+          "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E6%9B%BE%E8%AF%B4%E6%B2%A1%E9%92%B1%E6%B2%A1%E5%B7%A5%E4%BD%9C%E6%9C%89%E6%8A%91%E9%83%81%E5%80%BE%E5%90%91"
         },
         {
           "rank": 27,
-          "title": "人到中年要重建夫妻关系",
-          "heat": 209284,
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E8%A6%81%E9%87%8D%E5%BB%BA%E5%A4%AB%E5%A6%BB%E5%85%B3%E7%B3%BB"
+          "title": "经常朝左边睡觉对心脏的影响",
+          "heat": 216465,
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D"
         },
         {
           "rank": 28,
-          "title": "新007是帕丁森",
-          "heat": 203940,
-          "url": "https://s.weibo.com/weibo?q=%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE"
+          "title": "华为门店曝星芒阔直板4000元起",
+          "heat": 215639,
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%97%A8%E5%BA%97%E6%9B%9D%E6%98%9F%E8%8A%92%E9%98%94%E7%9B%B4%E6%9D%BF4000%E5%85%83%E8%B5%B7"
         },
         {
           "rank": 29,
-          "title": "公婆拿钱催生如今抱娃到手软",
-          "heat": 181050,
-          "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E5%A9%86%E6%8B%BF%E9%92%B1%E5%82%AC%E7%94%9F%E5%A6%82%E4%BB%8A%E6%8A%B1%E5%A8%83%E5%88%B0%E6%89%8B%E8%BD%AF"
+          "title": "40岁孕妇羊水穿刺牵出丈夫肠道癌变",
+          "heat": 209524,
+          "url": "https://s.weibo.com/weibo?q=40%E5%B2%81%E5%AD%95%E5%A6%87%E7%BE%8A%E6%B0%B4%E7%A9%BF%E5%88%BA%E7%89%B5%E5%87%BA%E4%B8%88%E5%A4%AB%E8%82%A0%E9%81%93%E7%99%8C%E5%8F%98"
         },
         {
           "rank": 30,
-          "title": "乔欣宣传蒋欣新剧多喜一家人",
-          "heat": 181033,
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E5%AE%A3%E4%BC%A0%E8%92%8B%E6%AC%A3%E6%96%B0%E5%89%A7%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA"
+          "title": "NBA回应杨瀚森1篮板3助攻",
+          "heat": 197083,
+          "url": "https://s.weibo.com/weibo?q=NBA%E5%9B%9E%E5%BA%94%E6%9D%A8%E7%80%9A%E6%A3%AE1%E7%AF%AE%E6%9D%BF3%E5%8A%A9%E6%94%BB"
         }
       ],
       "endpoint": "https://weibo.com/ajax/side/hotSearch",
@@ -763,187 +774,187 @@
     },
     "douyin": {
       "status": "ok",
-      "collected_at": "2026-11-17T01:49:11.614892+00:00",
+      "collected_at": "2026-11-17T06:45:31.629932+00:00",
       "items": [
         {
           "rank": 1,
           "title": "习近平将同普京特朗普会晤",
-          "heat": 11607352,
+          "heat": 12096633,
           "url": "https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4"
         },
         {
           "rank": 2,
-          "title": "2026年APEC工商领导人峰会将举行",
-          "heat": 11293310,
-          "url": "https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%B0%86%E4%B8%BE%E8%A1%8C"
+          "title": "2026年APEC工商领导人峰会开幕",
+          "heat": 11721829,
+          "url": "https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95"
         },
         {
           "rank": 3,
-          "title": "中国贸易伙伴网越织越密",
-          "heat": 11227122,
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E7%BD%91%E8%B6%8A%E7%BB%87%E8%B6%8A%E5%AF%86"
+          "title": "APEC“中国年”经贸成果丰硕",
+          "heat": 11086905,
+          "url": "https://www.douyin.com/search/APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C%E4%B8%B0%E7%A1%95"
         },
         {
           "rank": 4,
-          "title": "加拿大总理卡尼抵达深圳",
-          "heat": 11125301,
-          "url": "https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3"
+          "title": "在深圳读懂APEC中国故事",
+          "heat": 11057348,
+          "url": "https://www.douyin.com/search/%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%AF%BB%E6%87%82APEC%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B"
         },
         {
           "rank": 5,
-          "title": "墨西哥总统辛鲍姆抵达深圳",
-          "heat": 10549794,
-          "url": "https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E8%BE%9B%E9%B2%8D%E5%A7%86%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3"
+          "title": "76人135:123战胜篮网",
+          "heat": 10411194,
+          "url": "https://www.douyin.com/search/76%E4%BA%BA135%3A123%E6%88%98%E8%83%9C%E7%AF%AE%E7%BD%91"
         },
         {
           "rank": 6,
-          "title": "东北地区将迎强降雪",
-          "heat": 10548999,
-          "url": "https://www.douyin.com/search/%E4%B8%9C%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%B0%86%E8%BF%8E%E5%BC%BA%E9%99%8D%E9%9B%AA"
+          "title": "APEC参会嘉宾陆续抵达深圳",
+          "heat": 10393241,
+          "url": "https://www.douyin.com/search/APEC%E5%8F%82%E4%BC%9A%E5%98%89%E5%AE%BE%E9%99%86%E7%BB%AD%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3"
         },
         {
           "rank": 7,
-          "title": "草靶子糖葫芦是冬日的第一份甜蜜",
-          "heat": 9437860,
-          "url": "https://www.douyin.com/search/%E8%8D%89%E9%9D%B6%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E6%98%AF%E5%86%AC%E6%97%A5%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E7%94%9C%E8%9C%9C"
+          "title": "苏林抵达深圳",
+          "heat": 9250792,
+          "url": "https://www.douyin.com/search/%E8%8B%8F%E6%9E%97%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3"
         },
         {
           "rank": 8,
-          "title": "非遗暖居过冬仪式感",
-          "heat": 9436435,
-          "url": "https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E6%9A%96%E5%B1%85%E8%BF%87%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F"
+          "title": "APEC普通人秒懂指南",
+          "heat": 9141132,
+          "url": "https://www.douyin.com/search/APEC%E6%99%AE%E9%80%9A%E4%BA%BA%E7%A7%92%E6%87%82%E6%8C%87%E5%8D%97"
         },
         {
           "rank": 9,
-          "title": "国足vs巴林前瞻",
-          "heat": 9421137,
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB"
+          "title": "APEC需要中国",
+          "heat": 9089267,
+          "url": "https://www.douyin.com/search/APEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD"
         },
         {
           "rank": 10,
-          "title": "狮子座流星雨将迎来极大期",
-          "heat": 9249702,
-          "url": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F"
+          "title": "APEC媒体中心餐食出圈",
+          "heat": 8675524,
+          "url": "https://www.douyin.com/search/APEC%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E9%A4%90%E9%A3%9F%E5%87%BA%E5%9C%88"
         },
         {
           "rank": 11,
-          "title": "国际油价显著下跌",
-          "heat": 9232823,
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%98%BE%E8%91%97%E4%B8%8B%E8%B7%8C"
+          "title": "特朗普启程亚洲行",
+          "heat": 8611340,
+          "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E4%BA%9A%E6%B4%B2%E8%A1%8C"
         },
         {
           "rank": 12,
-          "title": "克里米亚大桥遭袭交通暂时受限",
-          "heat": 9231868,
-          "url": "https://www.douyin.com/search/%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E9%81%AD%E8%A2%AD%E4%BA%A4%E9%80%9A%E6%9A%82%E6%97%B6%E5%8F%97%E9%99%90"
+          "title": "非遗暖居过冬仪式感",
+          "heat": 8505219,
+          "url": "https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E6%9A%96%E5%B1%85%E8%BF%87%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F"
         },
         {
           "rank": 13,
-          "title": "“沈阳中考英语听力口语改革”不实",
-          "heat": 9170442,
-          "url": "https://www.douyin.com/search/%E2%80%9C%E6%B2%88%E9%98%B3%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%8F%A3%E8%AF%AD%E6%94%B9%E9%9D%A9%E2%80%9D%E4%B8%8D%E5%AE%9E"
+          "title": "理想汽车辟谣召回赔4000元骗局",
+          "heat": 8446902,
+          "url": "https://www.douyin.com/search/%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%BE%9F%E8%B0%A3%E5%8F%AC%E5%9B%9E%E8%B5%944000%E5%85%83%E9%AA%97%E5%B1%80"
         },
         {
           "rank": 14,
-          "title": "美股三大指数集体收跌",
-          "heat": 9164606,
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C"
+          "title": "中方在联合国敦促以色列撤军",
+          "heat": 8385607,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%95%A6%E4%BF%83%E4%BB%A5%E8%89%B2%E5%88%97%E6%92%A4%E5%86%9B"
         },
         {
           "rank": 15,
-          "title": "快乐的小青蛙跳进我的生活",
-          "heat": 9107949,
-          "url": "https://www.douyin.com/search/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E9%9D%92%E8%9B%99%E8%B7%B3%E8%BF%9B%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB"
+          "title": "GEN官宣四人离队",
+          "heat": 7816265,
+          "url": "https://www.douyin.com/search/GEN%E5%AE%98%E5%AE%A3%E5%9B%9B%E4%BA%BA%E7%A6%BB%E9%98%9F"
         },
         {
           "rank": 16,
-          "title": "我该如何和我的青春说再见呢",
-          "heat": 9057641,
-          "url": "https://www.douyin.com/search/%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81%E5%91%A2"
+          "title": "我家门口新开了一朵茉莉",
+          "heat": 7814114,
+          "url": "https://www.douyin.com/search/%E6%88%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%96%B0%E5%BC%80%E4%BA%86%E4%B8%80%E6%9C%B5%E8%8C%89%E8%8E%89"
         },
         {
           "rank": 17,
-          "title": "BLG夺冠背后的经济机遇",
-          "heat": 8922909,
-          "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%9C%BA%E9%81%87"
+          "title": "拆正缘星座盲盒",
+          "heat": 7783647,
+          "url": "https://www.douyin.com/search/%E6%8B%86%E6%AD%A3%E7%BC%98%E6%98%9F%E5%BA%A7%E7%9B%B2%E7%9B%92"
         },
         {
           "rank": 18,
           "title": "当网络妆容走进现实生活",
-          "heat": 8752246,
+          "heat": 7783388,
           "url": "https://www.douyin.com/search/%E5%BD%93%E7%BD%91%E7%BB%9C%E5%A6%86%E5%AE%B9%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB"
         },
         {
           "rank": 19,
-          "title": "拆正缘星座盲盒",
-          "heat": 8462381,
-          "url": "https://www.douyin.com/search/%E6%8B%86%E6%AD%A3%E7%BC%98%E6%98%9F%E5%BA%A7%E7%9B%B2%E7%9B%92"
+          "title": "李亚鹏为重症患儿申请专项救助",
+          "heat": 7777382,
+          "url": "https://www.douyin.com/search/%E6%9D%8E%E4%BA%9A%E9%B9%8F%E4%B8%BA%E9%87%8D%E7%97%87%E6%82%A3%E5%84%BF%E7%94%B3%E8%AF%B7%E4%B8%93%E9%A1%B9%E6%95%91%E5%8A%A9"
         },
         {
           "rank": 20,
-          "title": "MC版薯骨鸡腿做法",
-          "heat": 8391778,
-          "url": "https://www.douyin.com/search/MC%E7%89%88%E8%96%AF%E9%AA%A8%E9%B8%A1%E8%85%BF%E5%81%9A%E6%B3%95"
+          "title": "谢谢小猫递来的红薯",
+          "heat": 7776211,
+          "url": "https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E5%B0%8F%E7%8C%AB%E9%80%92%E6%9D%A5%E7%9A%84%E7%BA%A2%E8%96%AF"
         },
         {
           "rank": 21,
-          "title": "我家门口新开了一朵茉莉",
-          "heat": 8019223,
-          "url": "https://www.douyin.com/search/%E6%88%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%96%B0%E5%BC%80%E4%BA%86%E4%B8%80%E6%9C%B5%E8%8C%89%E8%8E%89"
+          "title": "我该如何和我的青春说再见呢",
+          "heat": 7757284,
+          "url": "https://www.douyin.com/search/%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81%E5%91%A2"
         },
         {
           "rank": 22,
-          "title": "多喜一家人开播",
-          "heat": 7785701,
-          "url": "https://www.douyin.com/search/%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%BC%80%E6%92%AD"
+          "title": "MC版薯骨鸡腿做法",
+          "heat": 7735855,
+          "url": "https://www.douyin.com/search/MC%E7%89%88%E8%96%AF%E9%AA%A8%E9%B8%A1%E8%85%BF%E5%81%9A%E6%B3%95"
         },
         {
           "rank": 23,
-          "title": "谢谢你的出现让我不再一个人",
-          "heat": 7781291,
-          "url": "https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E4%BD%A0%E7%9A%84%E5%87%BA%E7%8E%B0%E8%AE%A9%E6%88%91%E4%B8%8D%E5%86%8D%E4%B8%80%E4%B8%AA%E4%BA%BA"
+          "title": "快乐的小青蛙跳进我的生活",
+          "heat": 7731536,
+          "url": "https://www.douyin.com/search/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E9%9D%92%E8%9B%99%E8%B7%B3%E8%BF%9B%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB"
         },
         {
           "rank": 24,
-          "title": "火影手游永夜扉间全技能爆料",
-          "heat": 7780146,
-          "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4%E5%85%A8%E6%8A%80%E8%83%BD%E7%88%86%E6%96%99"
+          "title": "谢谢你的出现让我不再一个人",
+          "heat": 7731351,
+          "url": "https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E4%BD%A0%E7%9A%84%E5%87%BA%E7%8E%B0%E8%AE%A9%E6%88%91%E4%B8%8D%E5%86%8D%E4%B8%80%E4%B8%AA%E4%BA%BA"
         },
         {
           "rank": 25,
-          "title": "在美术馆和另一个自己同框了",
-          "heat": 7777861,
-          "url": "https://www.douyin.com/search/%E5%9C%A8%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%92%8C%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E5%90%8C%E6%A1%86%E4%BA%86"
+          "title": "吴磊在10米鲨鱼池里潜水",
+          "heat": 7722059,
+          "url": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E5%9C%A810%E7%B1%B3%E9%B2%A8%E9%B1%BC%E6%B1%A0%E9%87%8C%E6%BD%9C%E6%B0%B4"
         },
         {
           "rank": 26,
-          "title": "被鹿晗手搓大背头帅到了",
-          "heat": 7774974,
-          "url": "https://www.douyin.com/search/%E8%A2%AB%E9%B9%BF%E6%99%97%E6%89%8B%E6%90%93%E5%A4%A7%E8%83%8C%E5%A4%B4%E5%B8%85%E5%88%B0%E4%BA%86"
+          "title": "是谁穿到了许嵩的外套",
+          "heat": 7720912,
+          "url": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E7%A9%BF%E5%88%B0%E4%BA%86%E8%AE%B8%E5%B5%A9%E7%9A%84%E5%A4%96%E5%A5%97"
         },
         {
           "rank": 27,
-          "title": "哈利波特魔法觉醒公布停服日期",
-          "heat": 7764054,
-          "url": "https://www.douyin.com/search/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%85%AC%E5%B8%83%E5%81%9C%E6%9C%8D%E6%97%A5%E6%9C%9F"
+          "title": "最近想谈恋爱现在突然想开了",
+          "heat": 7717594,
+          "url": "https://www.douyin.com/search/%E6%9C%80%E8%BF%91%E6%83%B3%E8%B0%88%E6%81%8B%E7%88%B1%E7%8E%B0%E5%9C%A8%E7%AA%81%E7%84%B6%E6%83%B3%E5%BC%80%E4%BA%86"
         },
         {
           "rank": 28,
           "title": "郑雨陈砚周一个缺点一个吻",
-          "heat": 7757101,
+          "heat": 7716091,
           "url": "https://www.douyin.com/search/%E9%83%91%E9%9B%A8%E9%99%88%E7%A0%9A%E5%91%A8%E4%B8%80%E4%B8%AA%E7%BC%BA%E7%82%B9%E4%B8%80%E4%B8%AA%E5%90%BB"
         },
         {
           "rank": 29,
-          "title": "后会友期友情品鉴团来了",
-          "heat": 7747884,
-          "url": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%8F%8B%E6%83%85%E5%93%81%E9%89%B4%E5%9B%A2%E6%9D%A5%E4%BA%86"
+          "title": "MJ听全场合唱TimeMachine哽咽",
+          "heat": 7714887,
+          "url": "https://www.douyin.com/search/MJ%E5%90%AC%E5%85%A8%E5%9C%BA%E5%90%88%E5%94%B1TimeMachine%E5%93%BD%E5%92%BD"
         },
         {
           "rank": 30,
-          "title": "汪星人也有自己的专属小黄鸭",
-          "heat": 7745959,
-          "url": "https://www.douyin.com/search/%E6%B1%AA%E6%98%9F%E4%BA%BA%E4%B9%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%93%E5%B1%9E%E5%B0%8F%E9%BB%84%E9%B8%AD"
+          "title": "火影手游永夜扉间全技能爆料",
+          "heat": 7708134,
+          "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4%E5%85%A8%E6%8A%80%E8%83%BD%E7%88%86%E6%96%99"
         }
       ],
       "endpoint": "https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/?aid=1128&version_code=880",
@@ -1076,7 +1087,7 @@
       ],
       "endpoint": "https://60s.okbaike.com/v2/rednote",
       "upstream_time": null,
-      "checked_at": "2026-11-17T01:49:10.050296+00:00",
+      "checked_at": "2026-11-17T06:45:29.647555+00:00",
       "error": "HTTP Error 406: Not Acceptable; HTTP Error 500: Internal Server Error; HTTP Error 500: Internal Server Error"
     }
   }
